@@ -1,372 +1,372 @@
-project_id	submitter_id	project_id	associate_experiment	copy_numbers_identified	data_description	experimental_description	experimental_intent	indels_identified	marker_panel_description	number_experimental_group	number_samples_per_experimental_group	somatic_mutations_identified	type_of_data	type_of_sample	type_of_specimen	type
-p0	A1A_2013_HumanCoreExome	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	A1A_HumanCoreExome_TOPMed	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	A1A_850K_2021	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	A1A olink Proteomics	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Olink Proteomic Data Freeze 20221220	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	aBridge2020_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ABRIG Gene Expression Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ABRIG_FULL_2012	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ABRIG_FULL_vs_1000GenomesPhaseIv3	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ABRIG Methylation Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ACRN_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ACRN_SHARP GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ADAPT_Combined_GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ADAPT_MERGE Imputed	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PgPOP Exome Genotyping	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	AEC_Tesfaigzi Protein Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Broad_NHBE Pellets for Genotyped_RNA_with Demographics	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Tesfaigzi_BWH_GSA_Array	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Tesfaigzi_BWH_GSA_Array_TOPMed	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Tesfaigzi_HEC-190_Singlecell	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	AERD_montelukast_PBMC	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	AERD_montelukast_sera	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Freeze 20200502 - Joint-called Genotyping Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	reykjavik_exome_seq	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	BELT GWAS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FLCN Exome Sequencing for 2 Birt-Hogg-Dube Patients	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Job's Syndrome Whole Exome (1 subject)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CAMP_LipidView_2017	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed WGS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GWAS_CAMP_RIKEN_2010	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CAMP_FULL_MERGE_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMed Metabolomics	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CAMP Metadata	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CAMP 27K Methylation Dataset	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CAMP TopMed Methylation	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	A Nasal Brush-based Classifier of Asthma Identified by Machine Learning Analysis of Nasal RNA Sequence Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CAMP Trio SNP Results	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CAMP_FULL_MERGE	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CAMP_FULL_MERGE Anonymized for Barabasi Collaboration	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CARE_SHARP	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CARE_SHARP Imputed against 1000Genomes Phase3v5	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CARE_SHARP_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CARE_SHARP_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	RootStudyConsentSet_phs000930.CHARGE_SummaryResults.v9.p1.c1.GRU	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CHILD_2022	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	IgE Quantification (Phase 2)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Carolan_2014_Resp_Res	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed MitochondrialDNA 	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	F8 Somatic Chip Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMed Telomere Length	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed WGS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	king_ref_GRCh38	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene TOPMed Blood Methylation	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene TOPMed Nasal Methylation	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene_GOLDUproject_JAN2013	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene Excome Chip	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	850K_RefPanel	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene Unified Genotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene Canonical GWAS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CgAa-HRC-1-1	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CgNhw-HRC1-1	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	RNA-sequencing across three matched tissues highlights gene expression signatures in COPD	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Sphingolipid Quantification from Russ Bowler	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Metabolite Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMed metabolomics	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	BRCOPD EPIC Methylation Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Final10000_Phase1_Rev_31aug16	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LFU Dataset 10/10/21	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene_SOMA1_3	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	SomaScan 5.0	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	SomaScan_5.0_P2_TAB_13May2021_v2  & SomaScan_5.0_P3_TAB_13May2021_v2	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene rna mrna repjc blood_shortread phase3 Conversion Files	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMED_11.19.2019 nasal_shortread	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	vdjseq - Chris Vollmers IGH rnaseq data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene Blood rnaseq	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed RNAseq Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	850K_RefPanel	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene rna mirna miRNA Repeats - PKG-0820-01005076	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene rna mrna repjc phase 2 freeze 5	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPDGene whole blood microRNA	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Freeze.8-based genotype data for Matrixeqtl	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	metabolite.targeted.Omega	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CRA Reference Genotypes for 59 850K QC SNPs	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2013_CRA_GWAS_FULL_MERGE	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2015_NHLBI_DCC_GWAS_QC	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NHLBI_DCC_GWAS_QC	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2013_CRA_GWAS_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2013_CRA_GWAS_vs_1000Genomes_p3v5	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CRA-HRCr1.1	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMed Metabolomics	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CRA 450K Methylation Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CRA 450K Methylation Dataset	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CRA TopMed Methylation	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	remmg_issue_20143	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Feixiong	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed WGS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CRA_Gx	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CSS Combined GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CSS GWAS: Axiom_BioBank1WM	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Axiom_BioBank1WM_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CSS Imputed against 1000GenomesPhase3v5_ALL	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CSS_HRCr1.1	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPD_ECLIPSE_2009	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPD_ECLIPSE_2009_2017 Phased Haplotypes	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ECLIPSE Unified Genotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ECLIPSE chrX imputed against 1000G Phase3 v5	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ECLIPSE_HRC1-1	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ECLIPSE_vs_1000GPhase1v3	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	EclipseTopMed	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMed f8 missing NWD-IDs	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed ECLIPSE Submission to dbGaP	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed WGS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	methyECLIPSE_clean_1430052791_V10	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	UW 1300 EOCOPD ICGN exome seq	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed WGS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	EOCOPD Exome Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Castaldi_LungCancer_GSA	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ESCAPE_GDA_2021	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	EVE_Caucasians_vs_1000GenomesP3v5	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Create a final data set and dd for the Eczema/Atopic Dermatitis study	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	randell_8.18.2020 (bronchial_epithelial_cells)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FOREST_MEGAChip_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FOREST MEGA Chip GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FetalLung_GWAS_2011_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FetalLung_GWAS_2011	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	56919819-4_M450KChanning	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Fetal Lung June 2010	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FetalLung 850K Methylation Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FetalLung Expression Data 2012_Affymetrix_FetalLung	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FetalLung Expression Data 2012_Affymetrix_Placenta	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FetalLung Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FetalLung_GWAS_2012	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FetalLung_GWAS_2012_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Hersh_PT8_AERD_Fetal_Lung_PT1_miRNA_Sequencing_Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Mechanical Forces of Asthma ISOMER Dataset	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GWAS Kaiser_PSN185	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Imputed Kaiser_PSN185	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Kaiser_PSN185 Filtered for Missingness and HWE	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Kaiser_PSN185_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PSN185_2018: Updated Phenotype Data for PSN185	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PSN185_RaceData: PSN185/Iribarren/Asthma: one additional file	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GTEx v8	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GTEx_v7	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2013_HASM_Omni2.5	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPD Cohorts Affymetrix Axiom Genotyping	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	AxiomGenotyping_TOPMed	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Silverman_WGS_COPD_744	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed freeze.10 wgs	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Innate Immunity Project Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Omni2.5Exome_2017	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LOLCSE_HRC_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	RIKEN_SEPRACOR_LOCCS_LODO_2009	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LOCCS, LODO, SEPRACOR data imputed against 1000GenomesPhase3v5	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	"""LOTT 2015"" Expression Data"	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LOTT GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LOTT Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LOTT_GWAS_2016_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	MAF/R-Squared FIltered Impute Results for Minseok's Manuscript	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LTCOPD Genotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	finalData_vs_1000GPh3V5	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LTCOPD Methylation Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LTCOPD Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LTCOPD TopMed WGS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMed Mitochondrial Copy Number and Heteroplasmy Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	850K_control_snp_ref	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LTRC TOPMed WGS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMed Blood Methylation Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMed Lung Methylation Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LTRC Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	RNA Methylation	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	LTRC RNASeq Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ODOLLFA_2022 mirnaseq	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PHASIC Metabolomics	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Partners Biobank Asthma Phenotypes	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Partners Biobank Imputed Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Partners Biobank Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Partners Biobank mega_v1b3 merged with Partners Biobank mega_v2a2_r1	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NACC Phenotype Dataset	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NAS GWAS Megachip 2016	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016_NAS_GWAS_Megachip Imputed against 1000Genomes_Phase3_v5_ALL	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Revisions for hprke MetabolomicsOfLungFunction Manuscript	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NAS Metabolomic Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NAS Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	/proj/eepcb/eepcb00	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NETTNAS Unified Genotypes	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NETT_NAS GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TCGS_FINAL	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NETTNAS_vs_HRC	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	recs100	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GenKOLS_TopMed	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NORWAY_Hrc11	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NORWAY Unified Genotypes	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NORWAY_GSK_COPD_2009	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	NORWAY Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	OBTRIC rna mirna rehom PKG-0822-01005588 2022-12-19_for_rpc15 221208_NB552221_0127_AH5YNCBGXN 221208_NB551475_0306_AH5YKKBGXN	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	OBTRIC rna mrna rehom  220330_NB552221_0108_AH7WNKBGXL	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	OBTRIC rna mrna rehom data download and alignment qc	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	External Finotto UK Erlangen	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PDD rna mrna remhc PCLS contrast application 3	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PDD rna mrna remhc download, align, quantify	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PDD rna mrna remhc pcls contrast app 3 - correlation between pre sva post sva	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PDD rna mrna remhc pcls contrast app 3 overlap of top 10 genes pre sva post sva	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Sequoia rna mrna rehom 	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	pilot rna mrna exome restw lung FFPE 35932779149-5_NJH-PPG_FC1 PKG-0322-01005452 221025_NB552221_0121_AH7JF5AFX3 2022-11-09_for_rpc15	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	pilot rna scRNA relug data download	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed freeze.10 wgs	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2018-12-05_for_rpc15	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Calculate Missing variables in PPMI transplant REDCAP	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Data Set Cleaning/ Fill in Blank Lab Values in REDCAP	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	MUC5B SNP Results	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PPMI 850K dataset QC (second batch) 	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PPMI Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PPMI TERC Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PPMI Telomere Length	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PPMI Unified Genotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PPMI WES Tracking 	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PPMI_ExomeSeq_2017	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PPMI_M850K_2017	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Partners Biobank Sample Tracking	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Pulmonary Genetics Stem Cell Biobank Data Import	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	RPDR import into Asthma Samsung Registry	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Telomere Length Batch 3	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	MIMIC-IV	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	eICU	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	hg38	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	HGDP	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	1000Genomes_Phase1_v3	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Ensembl Release-94	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	IconDB GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2018_GIANT_plus_UKBB	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CAD	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Diagram: Type 2 Diabetes	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GWAS Anthropometric 2015 BMI	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PMID 27863252: The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PMID 28209224: Systematic Evaluation of Pleiotropy Identifies 6 Further Loci Associated With Coronary Artery Disease	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PMID 28604731: Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	SSGAC: Depression	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	The GEnetic Factors for OSteoporosis (GEFOS): bmd	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TCIA IvyGAP Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	IcondDB Imputed on  the UMich Server	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	dbSNP 154	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	miRBase Release 22	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PMID 28369058: Mapping of 79 loci for 83 plasma protein biomarkers in cardiovascular disease	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	rna_binding_protein_KD	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Barby HCA	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	"Crystal																		"	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	E-MTAB-8221 (Spence)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	EGAS00001001755 (Teichmann)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	EGAS00001004082 (Deprez)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE102592 (Peng)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE103918 (Kotton)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE122960 (Misharin_Reyfman)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE126111 (Hanley)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE128033 (Lafyatis_Morse)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE128169 (Lafyatis_Valenzi)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE130148 (Teichmann)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE132771 (Sheppard)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE133747 (Niklason)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE134174 (Seibold)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE135893 (Kropski)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE136831 (Naftali Kaminski)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Human Cell Atlas Preview Datasets	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Human Lung Cell Atlas (HLCA) v1	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Krasnow	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Linarsson (unpublished)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	"Meyer_b	(unpublished)"	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Misharin (unpublished)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PRJEB31843 (Meyer_a)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Rawlins (unpublished)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Regev (unpublished)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Regev_Rajagopal	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Schultze (unpublished)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Schultze_Falk (unpublished)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	"Teichmann	EGAS00001002649"	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Whitsett_Xu_10X	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Whitsett_Xu_dropSeq (unpublished)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Xavier (unpublished)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	CEU SomaLogic pQTLs	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Christensen-Lab-Dartmouth/MethylNet	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	EBI/eQTLCatalogue	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GENCODE	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE152779 - with liftover to GRCh38	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	GSE92742: L1000 Connectivity Map perturbational profiles from Broad Institute LINCS Center for Transcriptomics LINCS Pilot PHASE 	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Human Lung Cell Atlas (HLCA)	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	MSigDB	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	SLDP (Signed LD Profile) regression	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Sanger Mouse Genomes Project	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Tobacco and EtOH Use GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	dbSNP 151	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	dbSNP 152	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	dbSNP 153	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	dbSNP 156	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	dbsnp	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	refdata-cellranger-GRCh38-1.2.0	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	refdata-cellranger-hg19-1.2.0	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	refdata-cellranger-mm10-2.1.0	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	SAFARI WGS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	COPD-ILD Methylation 11627945261-0	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	FREEZE 20190723 - Download and processing for HumanCoreExData2	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Multi-cohort GWAS/Imputed Data from HSPH	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TESRA Unified Genotypes	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TESRA_02272012_GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TESRA_1000GP3v5_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TESRA_HRC_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Freeze8 Local Ancestry Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Structural Variants - Freeze.1	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TOPMed RNASeq	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed Freeze.10 Sample Annotations	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed Methylation Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed WGS Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	TopMed batch-adjusted telomere data - 20200810	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	freeze.10a	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	freeze.10a.irc	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	freeze.8_rewki_biallele_SNP	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	freeze.9	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	freeze.9b	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Addendum 001.a 	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	UK Biobank Exome Seq Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	UK Biobank Imputed Dataset EGAD00010001225	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	UK Biobank Imputed dataset – EGAD00010001474	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	UKBB GWAS Summary Statistics from Neale Lab	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	UKBiobank Directly genotyped dataset – EGAD00010001497	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	UK_Biobank/dna/whole_genome/ukbbRandom10k	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	UK_Biobank/phenotype	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART qPCR Biomass Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016_VDAART_Mother_TOPMed_Imputed	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016_VDAART_TOPMed_Imputed	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART 850K	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART_SNP_Genotyping_082016	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016_VDAART_GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDDART Mother GWAS	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016_VDAART_GWAS_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016_VDAART_Mother_UMich	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Asthma_Microbiome/Metabolome	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Fecal Acetic Acid Relative Abundance in Pregnancy is Inversely Associated with AsthmaRecurrent Wheeze with Atopy in Offspring	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Gut_Metabolome_Asthma	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Metabolomic Prediction of Childhood Asthma	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	PUFA_Asthma	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Selecting_VDAART_Samples	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ORMDL3 Manuscript Metabolomics Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART Asthma Metabolome	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART Serum Metabolomics	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART_FA_STOOL_101816	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART Methylation 450K_PCPGM_726775217-6	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016 VDAART Microbiome	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016 VDAART Microbiome Anonymized	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016_VDAART_Microbiome_PICRUSt	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART Infant_Gut_Predictors	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART/ECHO Extant Microbiome Data Transfer and Harmonization	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART Blood Pre-eclampsia mirnaseq	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART placenta miRNAseq	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Lee-Sarwar/Huttenhower Microbiome and GWAS Export	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART Pre-eclampsia blood mRNA data download alignment qc	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART rna mrna rehom preeclampsia pull list/data manifest discrepenacy	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	2016 VDAART Mother GWAS - GRCh38	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	ECHO 850K 2022	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Extant VDAART GWAS Data for sharing with ECHO	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART Derived Outcomes	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VDAART rna mrna Yr3 plate 4 2019-09-12_for_rpc15 190905_NB551475_0163_AHT5NFBGXB 190906_NB551475_0164_AHMNW2BGXB 190909_NB551475_0165_AHT5KFBGXB	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Various VDAART Datasets maintained by Nancy Laranjo	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	black0.2_clean	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VIVA Cell Count Datasets	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VIVA Plasma miRNASeq	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VIVA Phenotype Data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	VivaThousandQC_BMIQ	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	eMERGE GWAS Datsets	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	emERGE Principal Components Projected against 1000Genomes	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	Graz_cohort_clinical_data	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
-p0	graz_copd: BSA_0503_LBI_COPD	p0	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+id	project_id	submitter_id	project_id	url	associate_experiment	copy_numbers_identified	data_description	experimental_description	experimental_intent	indels_identified	marker_panel_description	number_experimental_group	number_samples_per_experimental_group	somatic_mutations_identified	type_of_data	type_of_sample	type_of_specimen	type
+22862	p0	A1A_2013_HumanCoreExome	p0	/proj/regeps/regep00/studies/A1A/data/dna/whole_genome/A1A_2013_HumanCoreExome	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24096	p0	A1A_HumanCoreExome_TOPMed	p0	/proj/regeps/regep00/studies/A1A/data/dna/whole_genome/A1A_HumanCoreExome_TOPMed	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22080	p0	A1A_850K_2021	p0	/proj/regeps/regep00/studies/A1A/data/epigenetic/methylation/A1A_850K_2021/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24110	p0	A1A olink Proteomics	p0	/proj/regeps/regep00/studies/A1A/data/protein/olink	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23928	p0	Olink Proteomic Data Freeze 20221220	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21007	p0	aBridge2020_UMich	p0	/proj/regeps/regep00/studies/ABRIG/data/dna/whole_genome/aBridge2020_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19138	p0	ABRIG Gene Expression Data	p0	file:///proj/regeps/regep00/studies/ABRIG/data/expression/ABRIDGE_GeneExpr_Final/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17302	p0	ABRIG_FULL_2012	p0	file:///proj/regeps/regep00/studies/ABRIG/data/gwas/ABRIG_FULL_2012/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14364	p0	ABRIG_FULL_vs_1000GenomesPhaseIv3	p0	file:///proj/regeps/regep00/studies/ABRIG/data/imputed/ABRIG_FULL_vs_1000GenomesPhaseIv3	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16330	p0	ABRIG Methylation Data	p0	file:///proj/regeps/regep00/studies/ABRIG/data/methylation	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20597	p0	ACRN_UMich	p0	/proj/regeps/regep00/studies/ACRN/data/dna/whole_genome/ACRN_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14974	p0	ACRN_SHARP GWAS	p0	file:////proj/regeps/regep00/studies/ACRN/data/gwas/ACRN_SHARP	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16485	p0	ADAPT_Combined_GWAS	p0	file:///proj/regeps/regep00/studies/ADAPT/data/gwas/ADAPT_Combined_GWAS	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20535	p0	ADAPT_MERGE Imputed	p0	/proj/regeps/regep00/studies/ADAPT/data/imputed/ADAPT_MERGE/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21618	p0	PgPOP Exome Genotyping	p0	/proj/regeps/regep00/studies/ADAPT/data/dna/whole_genome/PgPOP	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24191	p0	AEC_Tesfaigzi Protein Data	p0	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/protein/Somascan/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22824	p0	Broad_NHBE Pellets for Genotyped_RNA_with Demographics	p0	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/pheno	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22822	p0	Tesfaigzi_BWH_GSA_Array	p0	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/dna/whole_genome/Tesfaigzi_BWH_GSA_Array/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22888	p0	Tesfaigzi_BWH_GSA_Array_TOPMed	p0	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/dna/whole_genome/Tesfaigzi_BWH_GSA_Array_TOPMed	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24173	p0	Tesfaigzi_HEC-190_Singlecell	p0	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/rna/mrna/Tesfaigzi_HEC-190_Singlecell/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20841	p0	AERD_montelukast_PBMC	p0	/proj/regeps/regep00/studies/AERD/data/rna/mirna/readh/AERD_montelukast_PBMC/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21018	p0	AERD_montelukast_sera	p0	/proj/regeps/regep00/studies/AERD/data/rna/mirna/readh/AERD_montelukast_PBMC/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20422	p0	Freeze 20200502 - Joint-called Genotyping Data	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19959	p0	reykjavik_exome_seq	p0	/proj/regeps/regep00/studies/AGES/data/dna/exome/reykjavik_exome_seq/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14735	p0	BELT GWAS Data	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16230	p0	FLCN Exome Sequencing for 2 Birt-Hogg-Dube Patients	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16232	p0	Job's Syndrome Whole Exome (1 subject)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16552	p0	CAMP_LipidView_2017	p0	file:///proj/regeps/regep00/studies/CAMP/data/bioassay/CAMP_LipidView_2017	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19241	p0	TopMed WGS Data	p0	/proj/regeps/regep00/studies/CAMP/data/dna/whole_genome/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18928	p0	GWAS_CAMP_RIKEN_2010	p0	file:///proj/regeps/regep00/studies/CAMP/data/gwas/GWAS_CAMP_RIKEN_2010/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19578	p0	CAMP_FULL_MERGE_UMich	p0	/proj/regeps/regep00/studies/CAMP/data/imputed/CAMP_FULL_MERGE_UMich	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21158	p0	TOPMed Metabolomics	p0	/proj/regeps/regep00/studies/CAMP/data/metabolite/untargeted/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23882	p0	CAMP Metadata	p0	/proj/regeps/regep00/studies/CAMP/metadata/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16454	p0	CAMP 27K Methylation Dataset	p0	file:///proj/regeps/regep00/studies/CAMP/data/methylation/CAMP_27K	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20970	p0	CAMP TopMed Methylation	p0	/proj/regeps/regep00/studies/CAMP/data/epigenetic/methylation/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19825	p0	A Nasal Brush-based Classifier of Asthma Identified by Machine Learning Analysis of Nasal RNA Sequence Data	p0	/udd/reawa/Grant/CAMPnasalRNA/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20302	p0	CAMP Trio SNP Results	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18164	p0	CAMP_FULL_MERGE	p0	file:///proj/regeps/regep00/studies/CAMP/data/gwas/CAMP_FULL_MERGE/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18165	p0	CAMP_FULL_MERGE Anonymized for Barabasi Collaboration	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20575	p0	CARE_SHARP	p0	/proj/regeps/regep00/studies/CARE/data/gwas/CARE_SHARP/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15941	p0	CARE_SHARP Imputed against 1000Genomes Phase3v5	p0	/proj/regeps/regep00/studies/CARE/data/imputed/CARE_SHARP_vs_1000GP3v5	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20583	p0	CARE_SHARP_UMich	p0	/proj/regeps/regep00/studies/CARE/data/imputed/CARE_SHARP_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20574	p0	CARE_SHARP_UMich	p0	/proj/regeps/regep00/studies/CARE/data/imputed/CARE_SHARP_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22317	p0	RootStudyConsentSet_phs000930.CHARGE_SummaryResults.v9.p1.c1.GRU	p0	/proj/regeps/regep00/studies/CHARGE/data/PhenoGenotypeFiles/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23165	p0	CHILD_2022	p0	/proj/regeps/regep00/studies/CHILD/data/dna/whole_genome/CHILD_2022/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21094	p0	IgE Quantification (Phase 2)	p0	/proj/regeps/regep00/studies/COPDGene/data/biomarkers/ige/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19973	p0	Carolan_2014_Resp_Res	p0	/proj/regeps/regep00/studies/COPDGene/data/biomarkers/Carolan_2014_Resp_Res	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20521	p0	TopMed MitochondrialDNA 	p0	/proj/regeps/regep00/studies/GECOPD/data/dna/mitochondrial/TopMed	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24218	p0	F8 Somatic Chip Data	p0	/proj/regeps/regep00/studies/COPDGene/data/dna/somatic/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20368	p0	TOPMed Telomere Length	p0	/proj/regeps/regep00/studies/GECOPD/data/dna/telomere/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19234	p0	TopMed WGS Data	p0	file:///proj/regeps/regep00/studies/COPDGene/data/wgs/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21151	p0	king_ref_GRCh38	p0	/proj/regeps/regep00/studies/COPDGene/data/genotype/data/freezes/king_ref_GRCh38/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21323	p0	COPDGene TOPMed Blood Methylation	p0	/proj/regeps/regep00/studies/COPDGene/data/epigenetic/methylation/TopMed/Blood/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24049	p0	COPDGene TOPMed Nasal Methylation	p0	/proj/regeps/regep00/studies/COPDGene/data/epigenetic/methylation/TopMed/Nasal/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19897	p0	COPDGene_GOLDUproject_JAN2013	p0	/proj/regeps/regep00/studies/COPDGene/data/methylation/COPDGene_GOLDUproject_JAN2013	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19869	p0	COPDGene Excome Chip	p0	/proj/regeps/regep00/studies/COPDGene/data/exome/CleanExomeChip/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19805	p0	850K_RefPanel	p0	/proj/regeps/regep00/studies/COPDGene/data/dna/variants/850K_RefPanel/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18389	p0	COPDGene Unified Genotype Data	p0	file:///proj/regeps/regep00/studies/COPDGene/data/genotype/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17578	p0	COPDGene Canonical GWAS Data	p0	file:///proj/regeps/regep00/studies/COPDGene/data/gwas/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19253	p0	CgAa-HRC-1-1	p0	file:///proj/regeps/regep00/studies/COPDGene/data/imputed/CgAa-HRC-1-1/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14435	p0	CgNhw-HRC1-1	p0	file:///proj/regeps/regep00/studies/GECOPD/data/imputed/CgNhw-HRC1-1	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19448	p0	RNA-sequencing across three matched tissues highlights gene expression signatures in COPD	p0	file:///proj/regeps/regep00/studies/COPDGene/analyses/remdj/BRCOPD_three_tissue_expression/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21095	p0	Sphingolipid Quantification from Russ Bowler	p0	/proj/regeps/regep00/studies/COPDGene/data/metabolite/sphingolipid/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21935	p0	Metabolite Data	p0	/proj/edith/regeps/regep00/studies/COPDGene/data/metabolite/metabolon	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24231	p0	TOPMed metabolomics	p0	/proj/regeps/regep00/studies/COPDGene/data/metabolite/untargeted/TOPMed	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19512	p0	BRCOPD EPIC Methylation Data	p0	file:///proj/regeps/regep00/studies/COPDGene/data/methylation/BRCOPD/blood_airway_epithelial_lung_macrophages/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19458	p0	COPDGene Phenotype Data	p0	file:///proj/regeps/regep00/studies/COPDGene/data/pheno/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18356	p0	Final10000_Phase1_Rev_31aug16	p0	file:///proj/regeps/regep00/studies/COPDGene/data/pheno/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22728	p0	LFU Dataset 10/10/21	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21747	p0	COPDGene_SOMA1_3	p0	/proj/regeps/regep00/studies/COPDGene/data/protein/COPDGene_SOMA1_3	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22688	p0	SomaScan 5.0	p0	/proj/regeps/regep00/studies/TopMed/data/protein/SomaScan_5.0/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22993	p0	SomaScan_5.0_P2_TAB_13May2021_v2  & SomaScan_5.0_P3_TAB_13May2021_v2	p0	/proj/regeps/regep00/studies/TopMed/data/protein/SomaScan_5.0/data/raw/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23281	p0	COPDGene rna mrna repjc blood_shortread phase3 Conversion Files	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21113	p0	TOPMED_11.19.2019 nasal_shortread	p0	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/nasal_shortread/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22038	p0	vdjseq - Chris Vollmers IGH rnaseq data	p0	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/vdjseq/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14367	p0	COPDGene Blood rnaseq	p0	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/blood_shortread/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19886	p0	TopMed RNAseq Data	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21977	p0	850K_RefPanel	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21821	p0	COPDGene rna mirna miRNA Repeats - PKG-0820-01005076	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23334	p0	COPDGene rna mrna repjc phase 2 freeze 5	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24137	p0	COPDGene whole blood microRNA	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20679	p0	Freeze.8-based genotype data for Matrixeqtl	p0	/proj/regeps/regep00/studies/COPDGene/data/rnaseq/BLOOD/QCed_data/eqtl_files/genotype_files/TOPMED8_FREEZE3/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24266	p0	metabolite.targeted.Omega	p0	/proj/regeps/regep00/studies/COPDGene/data/metabolite/untargeted/Omega/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20256	p0	CRA Reference Genotypes for 59 850K QC SNPs	p0	file:///proj/regeps/regep00/studies/CRA/data/dna/merged/850K_RefSNPs/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15873	p0	2013_CRA_GWAS_FULL_MERGE	p0	/proj/regeps/regep00/studies/CRA/data/gwas/2013_CRA_GWAS_FULL_MERGE	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18904	p0	2015_NHLBI_DCC_GWAS_QC	p0	file:///proj/regeps/regep00/studies/CRA/data/gwas/2015_NHLBI_DCC_GWAS_QC/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18905	p0	NHLBI_DCC_GWAS_QC	p0	file:///proj/regeps/regep00/studies/CRA/data/gwas/NHLBI_DCC_GWAS_QC/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16901	p0	2013_CRA_GWAS_UMich	p0	file:///proj/regeps/regep00/studies/CRA/data/imputed/2013_CRA_GWAS_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15875	p0	2013_CRA_GWAS_vs_1000Genomes_p3v5	p0	/proj/regeps/regep00/studies/CRA/data/imputed/2013_CRA_GWAS_vs_1000Genomes_p3v5	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19571	p0	CRA-HRCr1.1	p0	/proj/regeps/regep00/studies/CRA/data/imputed/CRA-HRCr1.1/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21145	p0	TOPMed Metabolomics	p0	/proj/regeps/regep00/studies/CRA/data/metabolite/untargeted/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19036	p0	CRA 450K Methylation Data	p0	file:///udd/rekrv/methylation_projects/CRA_450k/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14325	p0	CRA 450K Methylation Dataset	p0	/proj/regeps/regep00/studies/CRA/data/methylation/450K_PCPGM_726775965-6	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20249	p0	CRA TopMed Methylation	p0	file:///proj/regeps/regep00/studies/CRA/data/epigenetic/methylation/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24135	p0	remmg_issue_20143	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18275	p0	Feixiong	p0	file:///proj/regeps/regep00/studies/CRA/data/wgs/Feixiong/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19238	p0	TopMed WGS Data	p0	file:///proj/regeps/regep00/studies/CRA/data/wgs/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20596	p0	CRA_Gx	p0	/proj/regeps/regep00/studies/CRA/data/expression/CRA_Gx/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14427	p0	CSS Combined GWAS	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17832	p0	CSS GWAS: Axiom_BioBank1WM	p0	file:///proj/regeps/regep00/studies/CSS/data/gwas/Axiom_BioBank1WM/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17877	p0	Axiom_BioBank1WM_UMich	p0	file:///proj/regeps/regep00/studies/CSS/data/imputed/Axiom_BioBank1WM_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15177	p0	CSS Imputed against 1000GenomesPhase3v5_ALL	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17285	p0	CSS_HRCr1.1	p0	file:///proj/regeps/regep00/studies/CSS/data/dna/whole_genome/CSS_HRCr1.1/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17160	p0	COPD_ECLIPSE_2009	p0	file:///proj/regeps/regep00/studies/ECLIPSE/data/gwas/COPD_ECLIPSE_2009/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17159	p0	COPD_ECLIPSE_2009_2017 Phased Haplotypes	p0	file:///proj/regeps/regep00/studies/ECLIPSE/data/haplotypes/COPD_ECLIPSE_2009_2017/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18685	p0	ECLIPSE Unified Genotype Data	p0	file:///proj/regeps/regep00/studies/ECLIPSE/data/geno/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16009	p0	ECLIPSE chrX imputed against 1000G Phase3 v5	p0	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/ECLIPSE_vs_1000GPhase3v5	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19327	p0	ECLIPSE_HRC1-1	p0	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/ECLIPSE_HRC1-1/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17164	p0	ECLIPSE_vs_1000GPhase1v3	p0	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/ECLIPSE_vs_1000GPhase1v3/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18510	p0	EclipseTopMed	p0	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/EclipseTopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20766	p0	TOPMed f8 missing NWD-IDs	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16963	p0	TopMed ECLIPSE Submission to dbGaP	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19240	p0	TopMed WGS Data	p0	file:///proj/regeps/regep00/studies/ECLIPSE/data/wgs/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19545	p0	methyECLIPSE_clean_1430052791_V10	p0	/proj/regeps/regep00/studies/ECLIPSE/data/epigenetic/methylation/ECLIPSE_450K	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+13016	p0	UW 1300 EOCOPD ICGN exome seq	p0	/proj/regeps/regep00/studies/EOCOPD/data/exome/EOCOPD_ICGN_1300_UW/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19239	p0	TopMed WGS Data	p0	file:///proj/regeps/regep00/studies/EOCOPD/data/wgs/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19541	p0	EOCOPD Exome Data	p0	/proj/regeps/regep00/studies/EOCOPD/data/exome/BWH_Silverman_Exome6k	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24050	p0	Castaldi_LungCancer_GSA	p0	/proj/regeps/regep00/studies/ESCAPE/data/dna/whole_genome/Castaldi_LungCancer_GSA	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22175	p0	ESCAPE_GDA_2021	p0	/proj/regeps/regep00/studies/ESCAPE/data/dna/whole_genome/ESCAPE_GDA_2021/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24104	p0	Phenotype Data	p0	/proj/regeps/regep00/studies/ESCAPE/data/pheno/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21717	p0	EVE_Caucasians_vs_1000GenomesP3v5	p0	/proj/regeps/regep00/studies/EVE/data/imputed/EVE_Caucasians_vs_1000GenomesP3v5	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17584	p0	Create a final data set and dd for the Eczema/Atopic Dermatitis study	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21468	p0	randell_8.18.2020 (bronchial_epithelial_cells)	p0	/proj/regeps/regep00/studies/ExternalCellLines/data/rna/mrna/bec/randell_8.18.2020/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18890	p0	FOREST_MEGAChip_UMich	p0	file:///proj/regeps/regep00/studies/Forest/data/imputation/FOREST_MEGAChip_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15692	p0	FOREST MEGA Chip GWAS	p0	file:///proj/regeps/regep00/studies/Forest/data/gwas/FOREST_MEGAChip_2017	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19352	p0	FetalLung_GWAS_2011_UMich	p0	file:///proj/regeps/regep00/studies/FetalLung/data/imputed/FetalLung_GWAS_2011_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19341	p0	FetalLung_GWAS_2011	p0	file:///proj/regeps/regep00/studies/FetalLung/data/gwas/FetalLung_GWAS_2011/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19231	p0	56919819-4_M450KChanning	p0	file:///proj/regeps/regep00/studies/FetalLung/data/methylation/56919819-4_M450KChanning/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19424	p0	Fetal Lung June 2010	p0	file:///proj/regeps/regep00/studies/FetalLung/data/expression/Fetal_Lung_June_2010/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17638	p0	FetalLung 850K Methylation Data	p0	file:///proj/regeps/regep00/studies/FetalLung/data/methylation/FetalLung_850K_2017/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18922	p0	FetalLung Expression Data 2012_Affymetrix_FetalLung	p0	file:///proj/regeps/regep00/studies/FetalLung/data/expression/2012_Affymetrix_FetalLung/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18923	p0	FetalLung Expression Data 2012_Affymetrix_Placenta	p0	file:///proj/regeps/regep00/studies/FetalLung/data/expression/2012_Affymetrix_Placenta/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18413	p0	FetalLung Phenotype Data	p0	file:///proj/regeps/regep00/studies/FetalLung/data/phenotype/FetalLung_2013-05-30_478_samples_QC_FINAL.csv	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15870	p0	FetalLung_GWAS_2012	p0	/proj/regeps/regep00/studies/FetalLung/data/gwas/FetalLung_GWAS_2012	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17374	p0	FetalLung_GWAS_2012_UMich	p0	file:///proj/regeps/regep00/studies/FetalLung/data/imputed/FetalLung_GWAS_2012_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17831	p0	Hersh_PT8_AERD_Fetal_Lung_PT1_miRNA_Sequencing_Data	p0	file:///proj/regeps/regep00/studies/FetalLung/data/mirnaseq/Hersh_PT8_AERD_Fetal_Lung_PT1_miRNA_Sequencing_Data/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20886	p0	Mechanical Forces of Asthma ISOMER Dataset	p0	/proj/regeps/regep00/studies/Fredberg/manuscripts/nhmja/Mechanical_forces_asthma/ISOMER/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17529	p0	GWAS Kaiser_PSN185	p0	file:///proj/regeps/regep00/studies/GERA/data/gwas/Kaiser_PSN185/genotype_plinks/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21004	p0	Imputed Kaiser_PSN185	p0	/proj/regeps/regep00/studies/GERA/data/imputed/Kaiser_PSN185/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17539	p0	Kaiser_PSN185 Filtered for Missingness and HWE	p0	file:///proj/regeps/regep00/studies/GERA/data/gwas/Kaiser_PSN185/filtered/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18975	p0	Kaiser_PSN185_UMich	p0	file:///proj/regeps/regep00/studies/GERA/data/imputed/Kaiser_PSN185_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18235	p0	PSN185_2018: Updated Phenotype Data for PSN185	p0	file:///proj/regeps/regep00/studies/GERA/data/multi/PSN185_2018/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18307	p0	PSN185_RaceData: PSN185/Iribarren/Asthma: one additional file	p0	file:///proj/regeps/regep00/studies/GERA/data/multi/PSN185_RaceData/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20921	p0	GTEx v8	p0	/proj/rerefs/reref00/Broad/GTEx_v8/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17699	p0	GTEx_v7	p0	file:///proj/rerefs/reref00/Broad/GTEx_v7/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19977	p0	2013_HASM_Omni2.5	p0	/proj/regeps/regep00/studies/HASM/data/gwas/2013_HASM_Omni2.5/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19841	p0	COPD Cohorts Affymetrix Axiom Genotyping	p0	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/AxiomGenotyping/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22887	p0	AxiomGenotyping_TOPMed	p0	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/AxiomGenotyping_TOPMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21037	p0	Silverman_WGS_COPD_744	p0	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/Silverman_WGS_COPD_744/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23026	p0	TopMed freeze.10 wgs	p0	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19032	p0	Innate Immunity Project Data	p0	file:///proj/regeps/regep00/studies/IIPGA/data/genotype/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16614	p0	Omni2.5Exome_2017	p0	file:///proj/reipfs/reipf00/data/exome/Omni2.5_Exome_2017/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20540	p0	LOLCSE_HRC_UMich	p0	/proj/regeps/regep00/studies/LOCCS/data/dna/whole_genome/LOLCSE_HRC_UMich	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20537	p0	RIKEN_SEPRACOR_LOCCS_LODO_2009	p0	/proj/regeps/regep00/studies/LOCCS/data/gwas/RIKEN_SEPRACOR_LOCCS_LODO_2009/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14591	p0	LOCCS, LODO, SEPRACOR data imputed against 1000GenomesPhase3v5	p0	/proj/regeps/regep00/studies/LOCCS/data/imputed/RIKEN_LOLCSE_vs_1000GenomesPhase3v5/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18369	p0	"""LOTT 2015"" Expression Data"	p0	file:///proj/regeps/regep00/studies/LOTT/data/expression/LOTT\ 2015/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14659	p0	LOTT GWAS	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15852	p0	LOTT Phenotype Data	p0	/proj/regeps/regep00/studies/LOTT/data/phenotype	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17185	p0	LOTT_GWAS_2016_UMich	p0	file:///proj/regeps/regep00/studies/LOTT/data/imputed/LOTT_GWAS_2016_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18370	p0	MAF/R-Squared FIltered Impute Results for Minseok's Manuscript	p0	file:///proj/regeps/regep00/studies/LOTT/analyses/remse/3.GWAS_Imputated/0.Imputated_343subjects/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17053	p0	LTCOPD Genotype Data	p0	file:///proj/regeps/regep00/studies/LTCOPD/data/genotype/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14363	p0	finalData_vs_1000GPh3V5	p0	file:///proj/regeps/regep00/studies/LTCOPD/data/imputed/finalData_vs_1000GPh3V5/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17050	p0	LTCOPD Methylation Data	p0	file:///proj/regeps/regep00/studies/LTCOPD/data/methylation/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17051	p0	LTCOPD Phenotype Data	p0	file:///proj/regeps/regep00/studies/LTCOPD/data/phenotype/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19252	p0	LTCOPD TopMed WGS Data	p0	file:///proj/regeps/regep00/studies/LTCOPD/data/wgs/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24243	p0	TOPMed Mitochondrial Copy Number and Heteroplasmy Data	p0	/proj/regeps/regep00/studies/LTRC/data/dna/mitochondrial/TOPMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21178	p0	850K_control_snp_ref	p0	/proj/regeps/regep00/studies/LTRC/data/dna/targeted/850K_control_snp_ref/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20642	p0	LTRC TOPMed WGS	p0	/proj/regeps/regep00/studies/LTRC/data/dna/whole_genome/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20644	p0	TOPMed Blood Methylation Data	p0	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/TopMed/Blood/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24098	p0	TOPMed Lung Methylation Data	p0	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/TopMed/Lung/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20272	p0	LTRC Phenotype Data	p0	/proj/regeps/regep00/studies/LTRC/data/phenotype/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22940	p0	RNA Methylation	p0	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/2022_RNA_Methylation	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20643	p0	LTRC RNASeq Data	p0	/proj/regeps/regep00/studies/LTRC/data/rna/mrna/lung_shortread/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23838	p0	ODOLLFA_2022 mirnaseq	p0	/proj/regeps/regep00/studies/MGBBiobank/data/rna/mirnaseq/ODOLLFA_2022/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24292	p0	PHASIC Metabolomics	p0	/proj/regeps/regep00/studies/MGBBiobank/data/metabolomics/untargeted/PHASIC/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18272	p0	Partners Biobank Asthma Phenotypes	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18268	p0	Partners Biobank Imputed Data	p0	file:///proj/regeps/regep00/studies/PartnersBiobank/data/imputed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18269	p0	Partners Biobank Phenotype Data	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15401	p0	Partners Biobank mega_v1b3 merged with Partners Biobank mega_v2a2_r1	p0	file:///proj/regeps/regep00/studies/eMERGE/data/imputed/PartnersBiobank/biobank_mega_v1v2_merge	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14465	p0	NACC Phenotype Dataset	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+14745	p0	NAS GWAS Megachip 2016	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16252	p0	2016_NAS_GWAS_Megachip Imputed against 1000Genomes_Phase3_v5_ALL	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21368	p0	Revisions for hprke MetabolomicsOfLungFunction Manuscript	p0	/proj/regeps/regep00/studies/NAS/data/metabolomics/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21072	p0	NAS Metabolomic Data	p0	/proj/regeps/regep00/studies/NAS/data/metabolomics/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15129	p0	NAS Phenotype Data	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19892	p0	/proj/eepcb/eepcb00	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18719	p0	NETTNAS Unified Genotypes	p0	file:///proj/regeps/regep00/studies/NETT/data/geno/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18718	p0	NETT_NAS GWAS	p0	file:///proj/regeps/regep00/studies/NETT/data/gwas/NETT_NAS/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19007	p0	TCGS_FINAL	p0	file:///proj/regeps/regep00/studies/TCGS/data/gwas/TCGS_FINAL/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18431	p0	NETTNAS_vs_HRC	p0	file:///proj/regeps/regep00/studies/NETT/data/imputed/NETTNAS_vs_HRC/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19027	p0	recs100	p0	file:///proj/regeps/regep00/studies/NETT/data/misc/recs100/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18511	p0	GenKOLS_TopMed	p0	file:///proj/regeps/regep00/studies/GENKOLS/data/imputed/GenKOLS_TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18731	p0	NORWAY_Hrc11	p0	file:///proj/regeps/regep00/studies/NORWAY/data/imputed/NORWAY_Hrc11/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18732	p0	NORWAY Unified Genotypes	p0	file:///proj/regeps/regep00/studies/NORWAY/data/geno/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16011	p0	NORWAY_GSK_COPD_2009	p0	file:///proj/regeps/regep00/studies/NORWAY/data/gwas/NORWAY_GSK_COPD_2009	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20008	p0	NORWAY Phenotype Data	p0	/proj/regeps/regep00/studies/NORWAY/data/phenotype/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23923	p0	OBTRIC rna mirna rehom PKG-0822-01005588 2022-12-19_for_rpc15 221208_NB552221_0127_AH5YNCBGXN 221208_NB551475_0306_AH5YKKBGXN	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23060	p0	OBTRIC rna mrna rehom  220330_NB552221_0108_AH7WNKBGXL	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22702	p0	OBTRIC rna mrna rehom data download and alignment qc	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22034	p0	External Finotto UK Erlangen	p0	/proj/regeps/regep00/studies/UKErlangen/data/epigenetic/methylation/finotto/data/raw/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23315	p0	PDD rna mrna remhc PCLS contrast application 3	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22416	p0	PDD rna mrna remhc download, align, quantify	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23318	p0	PDD rna mrna remhc pcls contrast app 3 - correlation between pre sva post sva	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23319	p0	PDD rna mrna remhc pcls contrast app 3 overlap of top 10 genes pre sva post sva	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24121	p0	Sequoia rna mrna rehom 	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23830	p0	pilot rna mrna exome restw lung FFPE 35932779149-5_NJH-PPG_FC1 PKG-0322-01005452 221025_NB552221_0121_AH7JF5AFX3 2022-11-09_for_rpc15	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24160	p0	pilot rna scRNA relug data download	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23025	p0	TopMed freeze.10 wgs	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20106	p0	2018-12-05_for_rpc15	p0	/proj/regeps/regep00/studies/PPMI/data/exome/2018-12-05_for_rpc15/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20347	p0	Calculate Missing variables in PPMI transplant REDCAP	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20400	p0	Data Set Cleaning/ Fill in Blank Lab Values in REDCAP	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19401	p0	MUC5B SNP Results	p0	/proj/regeps/regep00/studies/PPMI/data/dna/targeted/MUC5B/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20848	p0	PPMI 850K dataset QC (second batch) 	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15522	p0	PPMI Phenotype Data	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20242	p0	PPMI TERC Data	p0	/proj/regeps/regep00/studies/PPMI/data/dna/exome/TERC/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15521	p0	PPMI Telomere Length	p0	file:///proj/regeps/regep00/studies/PPMI/data/phenotype/Telomere_Data_2016	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20175	p0	PPMI Unified Genotype Data	p0	/proj/regeps/regep00/studies/PPMI/data/dna/merged/PPMI_GeneticData/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20899	p0	PPMI WES Tracking 	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17762	p0	PPMI_ExomeSeq_2017	p0	file:///proj/regeps/regep00/studies/PPMI/data/exome/PPMI_ExomeSeq_2017/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16541	p0	PPMI_M850K_2017	p0	file:///proj/regeps/regep00/studies/PPMI/data/methylation/PPMI_M850K_2017/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20148	p0	Partners Biobank Sample Tracking	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20342	p0	Pulmonary Genetics Stem Cell Biobank Data Import	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20344	p0	RPDR import into Asthma Samsung Registry	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19555	p0	Telomere Length Batch 3	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24158	p0	MIMIC-IV	p0	/proj/regeps/regep00/studies/Physionet/data/phenotype/MIMIC-IV/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24159	p0	eICU	p0	/proj/regeps/regep00/studies/Physionet/data/phenotype/eICU	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19217	p0	hg38	p0	file:///proj/rerefs/reref00/UCSC/hg38/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21253	p0	HGDP	p0	/proj/rerefs/reref00/dna/whole/HGDP	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18467	p0	1000Genomes_Phase1_v3	p0	file:///proj/rerefs/reref00/1000Genomes_Phase1_v3/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20705	p0	Ensembl Release-94	p0	/proj/rerefs/reref00/Ensembl/release-94/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17275	p0	IconDB GWAS	p0	file:///proj/rerefs/reref00/Illumina/iconDB/cleaned/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18486	p0	2018_GIANT_plus_UKBB	p0	file:///proj/rerefs/reref00/Broad/GIANT/2018_GIANT_plus_UKBB/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18362	p0	CAD	p0	file:///proj/rerefs/reref00/GWASSummaryStats/cad/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18364	p0	Diagram: Type 2 Diabetes	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18361	p0	GWAS Anthropometric 2015 BMI	p0	file:///proj/rerefs/reref00/GWASSummaryStats/bmi/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19112	p0	PMID 27863252: The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease	p0	file:///proj/rerefs/reref00/PubMed/27863252/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19107	p0	PMID 28209224: Systematic Evaluation of Pleiotropy Identifies 6 Further Loci Associated With Coronary Artery Disease	p0	file:///proj/rerefs/reref00/PubMed/28209224/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19104	p0	PMID 28604731: Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits	p0	file:///proj/rerefs/reref00/PubMed/28604731/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18363	p0	SSGAC: Depression	p0	file:///proj/rerefs/reref00/GWASSummaryStats/depress/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18360	p0	The GEnetic Factors for OSteoporosis (GEFOS): bmd	p0	file:///proj/rerefs/reref00/GWASSummaryStats/bmd/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16965	p0	TCIA IvyGAP Data	p0	file:///proj/rerefs/reref00/TCIA/Ivy_GAP/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17276	p0	IcondDB Imputed on  the UMich Server	p0	file:///proj/rerefs/reref00/Illumina/iconDB/imputed_vs_1000GP3v5	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21636	p0	dbSNP 154	p0	/proj/rerefs/reref00/dbsnp/snp154/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19137	p0	miRBase Release 22	p0	file:///proj/rerefs/reref00/mirbase/22/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19122	p0	PMID 28369058: Mapping of 79 loci for 83 plasma protein biomarkers in cardiovascular disease	p0	file://proj/rerefs/reref00/PubMed/28369058/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22349	p0	rna_binding_protein_KD	p0	/proj/rerefs/reref00/ENCODE/rna/rna_binding_protein_KD/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24066	p0	Barby HCA	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/Barby/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24086	p0	"Crystal																		"	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24078	p0	E-MTAB-8221 (Spence)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/Spence/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24061	p0	EGAS00001001755 (Teichmann)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24085	p0	EGAS00001004082 (Deprez)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24064	p0	GSE102592 (Peng)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24065	p0	GSE103918 (Kotton)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24058	p0	GSE122960 (Misharin_Reyfman)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE122960/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24059	p0	GSE126111 (Hanley)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE122960	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24057	p0	GSE128033 (Lafyatis_Morse)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE128033/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24056	p0	GSE128169 (Lafyatis_Valenzi)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE128169/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24063	p0	GSE130148 (Teichmann)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24082	p0	GSE132771 (Sheppard)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE132771/GSE132771/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24083	p0	GSE133747 (Niklason)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE133747/GSE133747/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24077	p0	GSE134174 (Seibold)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE134174/GSE134174/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24055	p0	GSE135893 (Kropski)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE135893/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24084	p0	GSE136831 (Naftali Kaminski)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE136831/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18375	p0	Human Cell Atlas Preview Datasets	p0	file:///proj/rerefs/reref00/HumanCellAtlas/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24060	p0	Human Lung Cell Atlas (HLCA) v1	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/HLCA_v1/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24067	p0	Krasnow	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24068	p0	Linarsson (unpublished)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24070	p0	"Meyer_b	(unpublished)"	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24071	p0	Misharin (unpublished)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24069	p0	PRJEB31843 (Meyer_a)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/Meyer_a/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24072	p0	Rawlins (unpublished)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24073	p0	Regev (unpublished)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24074	p0	Regev_Rajagopal	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24075	p0	Schultze (unpublished)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24076	p0	Schultze_Falk (unpublished)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24062	p0	"Teichmann	EGAS00001002649"	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24079	p0	Whitsett_Xu_10X	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24080	p0	Whitsett_Xu_dropSeq (unpublished)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24081	p0	Xavier (unpublished)	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18689	p0	CEU SomaLogic pQTLs	p0	file:///proj/rerefs/reref00/Cambridge/CEU/SomaLogic_pQTLs/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23850	p0	Christensen-Lab-Dartmouth/MethylNet	p0	/proj/rerefs/reref00/Christensen-Lab-Dartmouth/MethylNet/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22644	p0	EBI/eQTLCatalogue	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22352	p0	GENCODE	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23717	p0	GSE152779 - with liftover to GRCh38	p0	/proj/rerefs/reref00/GEO/GSE152779/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19128	p0	GSE92742: L1000 Connectivity Map perturbational profiles from Broad Institute LINCS Center for Transcriptomics LINCS Pilot PHASE 	p0	file:///proj/rerefs/reref00/Broad/CMAP/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24041	p0	Human Lung Cell Atlas (HLCA)	p0	/proj/rerefs/reref00/rna/whole/singlecell_lung/HLCA_v1	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19451	p0	MSigDB	p0	/proj/rerefs/reref00/Broad/GSEA/MSigDB/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19082	p0	SLDP (Signed LD Profile) regression	p0	file:///proj/rerefs/reref00/Broad/alkesgroup/SLDP/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20281	p0	Sanger Mouse Genomes Project	p0	/proj/rerefs/reref00/Sanger/mouse-genome-project/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20039	p0	Tobacco and EtOH Use GWAS	p0	/proj/rerefs/reref00/GWASSummaryStats/2019_Liu,M_TobaccoEtOH/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18396	p0	dbSNP 151	p0	file:///proj/rerefs/reref00/dbsnp/snp151/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19340	p0	dbSNP 152	p0	file:///proj/rerefs/reref00/dbsnp/snp152/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20356	p0	dbSNP 153	p0	file:///proj/rerefs/reref00/dbsnp/snp153/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24025	p0	dbSNP 156	p0	/proj/rerefs/reref00/dbsnp/snp156/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24042	p0	dbsnp	p0	/proj/rerefs/reref00/dbsnp/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18674	p0	refdata-cellranger-GRCh38-1.2.0	p0	file:///proj/rerefs/reref00/cellranger/refdata-cellranger-GRCh38-1.2.0/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18675	p0	refdata-cellranger-hg19-1.2.0	p0	file:///proj/rerefs/reref00/cellranger/refdata-cellranger-hg19-1.2.0/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18686	p0	refdata-cellranger-mm10-2.1.0	p0	file:///proj/rerefs/reref00/cellranger/refdata-cellranger-mm10-2.1.0/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22411	p0	SAFARI WGS Data	p0	/proj/regeps/regep00/studies/SFARI/data/dna/whole_genome/SFARI_WGS/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18238	p0	COPD-ILD Methylation 11627945261-0	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20274	p0	FREEZE 20190723 - Download and processing for HumanCoreExData2	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19018	p0	Multi-cohort GWAS/Imputed Data from HSPH	p0	file:///proj/nhomcs/nhomc00/GWAS/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19381	p0	TESRA Unified Genotypes	p0	file:///proj/regeps/regep00/studies/TESRA/data/genotype/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17413	p0	TESRA_02272012_GWAS	p0	file:///proj/regeps/regep00/studies/TESRA/data/gwas/TESRA_02272012_GWAS/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17422	p0	TESRA_1000GP3v5_UMich	p0	file:///proj/regeps/regep00/studies/TESRA/data/imputed/TESRA_1000GP3v5_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17526	p0	TESRA_HRC_UMich	p0	file:///proj/regeps/regep00/studies/TESRA/data/imputed/TESRA_HRC_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21990	p0	Freeze8 Local Ancestry Data	p0	/proj/regeps/regep00/studies/COPDGene/data/dna/whole_genome/TopMed/data/freezes/freeze.8/local_ancestry	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21989	p0	Structural Variants - Freeze.1	p0	/proj/regeps/regep00/studies/TopMed/data/dna/structural_variants/data/freezes/freeze.1/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20710	p0	TOPMed RNASeq	p0	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/blood_shortread/data/raw/topmed_transfer_batches/TOPMED_11.19.2019/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23146	p0	TopMed Freeze.10 Sample Annotations	p0	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.10a/sample_annotation	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20953	p0	TopMed Methylation Data	p0	/proj/regeps/regep00/studies/TopMed/data/epigenetic/methylation/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21013	p0	TopMed WGS Data	p0	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23063	p0	TopMed batch-adjusted telomere data - 20200810	p0	/proj/regeps/regep00/studies/TopMed/data/dna/telomeres/data/raw/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22153	p0	freeze.10a	p0	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.10a/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22165	p0	freeze.10a.irc	p0	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.10a.irc/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21987	p0	freeze.8_rewki_biallele_SNP	p0	/proj/regeps/regep00/studies/COPDGene/data/dna/whole_genome/TopMed/data/freezes/freeze.8_rewki_biallele_SN	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21014	p0	freeze.9	p0	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.9	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21490	p0	freeze.9b	p0	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.9b/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22652	p0	Addendum 001.a 	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19880	p0	UK Biobank Exome Seq Data	p0	/proj/regeps/regep00/studies/UK_Biobank/data/dna/exome	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19167	p0	UK Biobank Imputed Dataset EGAD00010001225	p0	file:///proj/regeps/regep00/studies/UK_Biobank/data/imputed/EGAD00010001225/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18311	p0	UK Biobank Imputed dataset – EGAD00010001474	p0	file:///proj/regeps/regep00/studies/UK_Biobank/data/imputed/EGAD00010001474/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19108	p0	UKBB GWAS Summary Statistics from Neale Lab	p0	file:///proj/rerefs/reref00/GWASSummaryStats/UKBB/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18312	p0	UKBiobank Directly genotyped dataset – EGAD00010001497	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23963	p0	UK_Biobank/dna/whole_genome/ukbbRandom10k	p0	/proj/regeps/regep00/studies/UK_Biobank/data/dna/whole_genome/ukbbRandom10k	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24203	p0	UK_Biobank/phenotype	p0	/proj/regeps/regep00/studies/UK_Biobank/data/phenotype	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18527	p0	VDAART qPCR Biomass Data	p0	file:///proj/regeps/regep00/studies/VDAART/data/biomass/VDAART_qPCR_Biomass/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22050	p0	2016_VDAART_Mother_TOPMed_Imputed	p0	/proj/regeps/regep00/studies/VDAART/data/dna/whole_genome/2016_VDAART_Mother_TOPMed_Imputed	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22042	p0	2016_VDAART_TOPMed_Imputed	p0	/proj/regeps/regep00/studies/VDAART/data/dna/whole_genome/2016_VDAART_TOPMed_Imputed	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21346	p0	VDAART 850K	p0	/proj/regeps/regep00/studies/VDAART/data/epigenetic/methylation/VDAART_850K/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18722	p0	VDAART_SNP_Genotyping_082016	p0	file:///proj/regeps/regep00/studies/VDAART/data/genotype/VDAART_SNP_Genotyping_082016/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18197	p0	2016_VDAART_GWAS	p0	file:///proj/regeps/regep00/studies/VDAART/data/gwas/2016_VDAART_GWAS/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+15553	p0	VDDART Mother GWAS	p0	file:///proj/regeps/regep00/studies/VDAART/data/gwas/2016_VDAART_Mother_GWAS/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18199	p0	2016_VDAART_GWAS_UMich	p0	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_GWAS_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16652	p0	2016_VDAART_Mother_UMich	p0	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_Mother_UMich/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18875	p0	Asthma_Microbiome/Metabolome	p0	file:///udd/rekle/Asthma_Microbiome/Metabolome/DATA/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+19408	p0	Fecal Acetic Acid Relative Abundance in Pregnancy is Inversely Associated with AsthmaRecurrent Wheeze with Atopy in Offspring	p0	file:///udd/rekle/SCFA/DATA/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18874	p0	Gut_Metabolome_Asthma	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18931	p0	Metabolomic Prediction of Childhood Asthma	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18876	p0	PUFA_Asthma	p0	file:///udd/rekle/PUFA_Asthma/DATA/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18877	p0	Selecting_VDAART_Samples	p0	file:///udd/rekle/Selecting_VDAART_Samples/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18723	p0	ORMDL3 Manuscript Metabolomics Data	p0	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/Asthma/ORMDL3_manuscript/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18935	p0	VDAART Asthma Metabolome	p0	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/Asthma/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17454	p0	VDAART Serum Metabolomics	p0	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17453	p0	VDAART_FA_STOOL_101816	p0	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/VDAART_FA_STOOL_101816/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16292	p0	VDAART Methylation 450K_PCPGM_726775217-6	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16076	p0	2016 VDAART Microbiome	p0	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_Microbiome	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17840	p0	2016 VDAART Microbiome Anonymized	p0	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_Microbiome_Anonymized	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17876	p0	2016_VDAART_Microbiome_PICRUSt	p0	file:///proj/regeps/regep00/studies/VDAART/data/microbiome/2016_VDAART_Microbiome_PICRUSt/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18384	p0	VDAART Infant_Gut_Predictors	p0	file:///proj/regeps/regep00/studies/VDAART/analyses/rejoa/Infant_Gut_Predictors/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23522	p0	VDAART/ECHO Extant Microbiome Data Transfer and Harmonization	p0	/proj/regeps/regep00/studies/VDAART/data/microbiome/2016_VDAART_Microbiome/data/freezes/20221007-ECHO-SOP-EAW-016	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18386	p0	VDAART Blood Pre-eclampsia mirnaseq	p0	file:///proj/regeps/regep00/studies/VDAART/data/mirnaseq/blood/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17388	p0	VDAART placenta miRNAseq	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21548	p0	Lee-Sarwar/Huttenhower Microbiome and GWAS Export	p0	/proj/regeps/regep00/studies/VDAART/data/multi-omics/Huttenhower_microbiome_gwas/data/freezes/20201006/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17642	p0	VDAART Pre-eclampsia blood mRNA data download alignment qc	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+24238	p0	VDAART rna mrna rehom preeclampsia pull list/data manifest discrepenacy	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18069	p0	2016 VDAART Mother GWAS - GRCh38	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23372	p0	ECHO 850K 2022	p0	/proj/regeps/regep00/studies/VDAART/data/epigenetic/methylation/VDAART_850K/data/raw/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21060	p0	Extant VDAART GWAS Data for sharing with ECHO	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18878	p0	VDAART Derived Outcomes	p0	file:///proj/stvtds/stvtd00/derived_outcomes/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+20455	p0	VDAART rna mrna Yr3 plate 4 2019-09-12_for_rpc15 190905_NB551475_0163_AHT5NFBGXB 190906_NB551475_0164_AHMNW2BGXB 190909_NB551475_0165_AHT5KFBGXB	p0		N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18385	p0	Various VDAART Datasets maintained by Nancy Laranjo	p0	file:///proj/stvtds/stvtd00/datasets/ file:///proj/stvtds/stvtd00/FINAL_datasets/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+21547	p0	black0.2_clean	p0	/proj/regeps/regep00/studies/VDAART/manuscripts/rekle/K08/Aim1/Data/PLINKinput/black0.2_clean_chr*	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18547	p0	VIVA Cell Count Datasets	p0	file:///udd/recpe/Data/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17634	p0	VIVA Plasma miRNASeq	p0	file:///proj/regeps/regep00/studies/VIVA/data/mirnaseq/plasma/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18546	p0	VIVA Phenotype Data	p0	file:///udd/recpe/clock/code/cp_032018.sas7bdat	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+18545	p0	VivaThousandQC_BMIQ	p0	file:///proj/regeps/regep00/studies/VIVA/data/methylation/analysis/thousand/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+16227	p0	eMERGE GWAS Datsets	p0	file:///proj/regeps/regep00/studies/eMERGE/data/gwas/emerge_sorted_201701/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+17846	p0	emERGE Principal Components Projected against 1000Genomes	p0	file:///proj/regeps/regep00/studies/eMERGE/data/pcs/	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+23145	p0	Graz_cohort_clinical_data	p0	/proj/rebays/rebay00/data/pheno/COPD Graz_Cohort_clinical data_05.05.2022.xlsx	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
+22764	p0	graz_copd: BSA_0503_LBI_COPD	p0	/proj/rebays/rebay00/data/dna/whole_genome/graz_copd	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	experiment
