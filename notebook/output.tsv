@@ -1,372 +1,372 @@
-submitter_id	projects.code	associated_experiment	copy_numbers_identified	data_description	experimental_description	experimental_intent	indels_identified	marker_panel_description	number_experimental_group	number_samples_per_experimental_group	somatic_mutations_identified	type_of_data	type_of_sample	type_of_specimen	type
-(#22862) A1A_2013_HumanCoreExome	p0														experiment
-(#24096) A1A_HumanCoreExome_TOPMed	p0														experiment
-(#22080) A1A_850K_2021	p0														experiment
-(#24110) A1A olink Proteomics	p0														experiment
-(#23928) Olink Proteomic Data Freeze 20221220	p0														experiment
-(#21007) aBridge2020_UMich	p0														experiment
-(#19138) ABRIG Gene Expression Data	p0														experiment
-(#17302) ABRIG_FULL_2012	p0														experiment
-(#14364) ABRIG_FULL_vs_1000GenomesPhaseIv3	p0														experiment
-(#16330) ABRIG Methylation Data	p0														experiment
-(#20597) ACRN_UMich	p0														experiment
-(#14974) ACRN_SHARP GWAS	p0														experiment
-(#16485) ADAPT_Combined_GWAS	p0														experiment
-(#20535) ADAPT_MERGE Imputed	p0														experiment
-(#21618) PgPOP Exome Genotyping	p0														experiment
-(#24191) AEC_Tesfaigzi Protein Data	p0														experiment
-(#22824) Broad_NHBE Pellets for Genotyped_RNA_with Demographics	p0														experiment
-(#22822) Tesfaigzi_BWH_GSA_Array	p0														experiment
-(#22888) Tesfaigzi_BWH_GSA_Array_TOPMed	p0														experiment
-(#24173) Tesfaigzi_HEC-190_Singlecell	p0														experiment
-(#20841) AERD_montelukast_PBMC	p0														experiment
-(#21018) AERD_montelukast_sera	p0														experiment
-(#20422) Freeze 20200502 - Joint-called Genotyping Data	p0														experiment
-(#19959) reykjavik_exome_seq	p0														experiment
-(#14735) BELT GWAS Data	p0														experiment
-(#16230) FLCN Exome Sequencing for 2 Birt-Hogg-Dube Patients	p0														experiment
-(#16232) Job's Syndrome Whole Exome (1 subject)	p0														experiment
-(#16552) CAMP_LipidView_2017	p0														experiment
-(#19241) TopMed WGS Data	p0														experiment
-(#18928) GWAS_CAMP_RIKEN_2010	p0														experiment
-(#19578) CAMP_FULL_MERGE_UMich	p0														experiment
-(#21158) TOPMed Metabolomics	p0														experiment
-(#23882) CAMP Metadata	p0														experiment
-(#16454) CAMP 27K Methylation Dataset	p0														experiment
-(#20970) CAMP TopMed Methylation	p0														experiment
-(#19825) A Nasal Brush-based Classifier of Asthma Identified by Machine Learning Analysis of Nasal RNA Sequence Data	p0														experiment
-(#20302) CAMP Trio SNP Results	p0														experiment
-(#18164) CAMP_FULL_MERGE	p0														experiment
-(#18165) CAMP_FULL_MERGE Anonymized for Barabasi Collaboration	p0														experiment
-(#20575) CARE_SHARP	p0														experiment
-(#15941) CARE_SHARP Imputed against 1000Genomes Phase3v5	p0														experiment
-(#20583) CARE_SHARP_UMich	p0														experiment
-(#20574) CARE_SHARP_UMich	p0														experiment
-(#22317) RootStudyConsentSet_phs000930.CHARGE_SummaryResults.v9.p1.c1.GRU	p0														experiment
-(#23165) CHILD_2022	p0														experiment
-(#21094) IgE Quantification (Phase 2)	p0														experiment
-(#19973) Carolan_2014_Resp_Res	p0														experiment
-(#20521) TopMed MitochondrialDNA 	p0														experiment
-(#24218) F8 Somatic Chip Data	p0														experiment
-(#20368) TOPMed Telomere Length	p0														experiment
-(#19234) TopMed WGS Data	p0														experiment
-(#21151) king_ref_GRCh38	p0														experiment
-(#21323) COPDGene TOPMed Blood Methylation	p0														experiment
-(#24049) COPDGene TOPMed Nasal Methylation	p0														experiment
-(#19897) COPDGene_GOLDUproject_JAN2013	p0														experiment
-(#19869) COPDGene Excome Chip	p0														experiment
-(#19805) 850K_RefPanel	p0														experiment
-(#18389) COPDGene Unified Genotype Data	p0														experiment
-(#17578) COPDGene Canonical GWAS Data	p0														experiment
-(#19253) CgAa-HRC-1-1	p0														experiment
-(#14435) CgNhw-HRC1-1	p0														experiment
-(#19448) RNA-sequencing across three matched tissues highlights gene expression signatures in COPD	p0														experiment
-(#21095) Sphingolipid Quantification from Russ Bowler	p0														experiment
-(#21935) Metabolite Data	p0														experiment
-(#24231) TOPMed metabolomics	p0														experiment
-(#19512) BRCOPD EPIC Methylation Data	p0														experiment
-(#19458) COPDGene Phenotype Data	p0														experiment
-(#18356) Final10000_Phase1_Rev_31aug16	p0														experiment
-(#22728) LFU Dataset 10/10/21	p0														experiment
-(#21747) COPDGene_SOMA1_3	p0														experiment
-(#22688) SomaScan 5.0	p0														experiment
-(#22993) SomaScan_5.0_P2_TAB_13May2021_v2  & SomaScan_5.0_P3_TAB_13May2021_v2	p0														experiment
-(#23281) COPDGene rna mrna repjc blood_shortread phase3 Conversion Files	p0														experiment
-(#21113) TOPMED_11.19.2019 nasal_shortread	p0														experiment
-(#22038) vdjseq - Chris Vollmers IGH rnaseq data	p0														experiment
-(#14367) COPDGene Blood rnaseq	p0														experiment
-(#19886) TopMed RNAseq Data	p0														experiment
-(#21977) 850K_RefPanel	p0														experiment
-(#21821) COPDGene rna mirna miRNA Repeats - PKG-0820-01005076	p0														experiment
-(#23334) COPDGene rna mrna repjc phase 2 freeze 5	p0														experiment
-(#24137) COPDGene whole blood microRNA	p0														experiment
-(#20679) Freeze.8-based genotype data for Matrixeqtl	p0														experiment
-(#24266) metabolite.targeted.Omega	p0														experiment
-(#20256) CRA Reference Genotypes for 59 850K QC SNPs	p0														experiment
-(#15873) 2013_CRA_GWAS_FULL_MERGE	p0														experiment
-(#18904) 2015_NHLBI_DCC_GWAS_QC	p0														experiment
-(#18905) NHLBI_DCC_GWAS_QC	p0														experiment
-(#16901) 2013_CRA_GWAS_UMich	p0														experiment
-(#15875) 2013_CRA_GWAS_vs_1000Genomes_p3v5	p0														experiment
-(#19571) CRA-HRCr1.1	p0														experiment
-(#21145) TOPMed Metabolomics	p0														experiment
-(#19036) CRA 450K Methylation Data	p0														experiment
-(#14325) CRA 450K Methylation Dataset	p0														experiment
-(#20249) CRA TopMed Methylation	p0														experiment
-(#24135) remmg_issue_20143	p0														experiment
-(#18275) Feixiong	p0														experiment
-(#19238) TopMed WGS Data	p0														experiment
-(#20596) CRA_Gx	p0														experiment
-(#14427) CSS Combined GWAS	p0														experiment
-(#17832) CSS GWAS: Axiom_BioBank1WM	p0														experiment
-(#17877) Axiom_BioBank1WM_UMich	p0														experiment
-(#15177) CSS Imputed against 1000GenomesPhase3v5_ALL	p0														experiment
-(#17285) CSS_HRCr1.1	p0														experiment
-(#17160) COPD_ECLIPSE_2009	p0														experiment
-(#17159) COPD_ECLIPSE_2009_2017 Phased Haplotypes	p0														experiment
-(#18685) ECLIPSE Unified Genotype Data	p0														experiment
-(#16009) ECLIPSE chrX imputed against 1000G Phase3 v5	p0														experiment
-(#19327) ECLIPSE_HRC1-1	p0														experiment
-(#17164) ECLIPSE_vs_1000GPhase1v3	p0														experiment
-(#18510) EclipseTopMed	p0														experiment
-(#20766) TOPMed f8 missing NWD-IDs	p0														experiment
-(#16963) TopMed ECLIPSE Submission to dbGaP	p0														experiment
-(#19240) TopMed WGS Data	p0														experiment
-(#19545) methyECLIPSE_clean_1430052791_V10	p0														experiment
-(#13016) UW 1300 EOCOPD ICGN exome seq	p0														experiment
-(#19239) TopMed WGS Data	p0														experiment
-(#19541) EOCOPD Exome Data	p0														experiment
-(#24050) Castaldi_LungCancer_GSA	p0														experiment
-(#22175) ESCAPE_GDA_2021	p0														experiment
-(#24104) Phenotype Data	p0														experiment
-(#21717) EVE_Caucasians_vs_1000GenomesP3v5	p0														experiment
-(#17584) Create a final data set and dd for the Eczema/Atopic Dermatitis study	p0														experiment
-(#21468) randell_8.18.2020 (bronchial_epithelial_cells)	p0														experiment
-(#18890) FOREST_MEGAChip_UMich	p0														experiment
-(#15692) FOREST MEGA Chip GWAS	p0														experiment
-(#19352) FetalLung_GWAS_2011_UMich	p0														experiment
-(#19341) FetalLung_GWAS_2011	p0														experiment
-(#19231) 56919819-4_M450KChanning	p0														experiment
-(#19424) Fetal Lung June 2010	p0														experiment
-(#17638) FetalLung 850K Methylation Data	p0														experiment
-(#18922) FetalLung Expression Data 2012_Affymetrix_FetalLung	p0														experiment
-(#18923) FetalLung Expression Data 2012_Affymetrix_Placenta	p0														experiment
-(#18413) FetalLung Phenotype Data	p0														experiment
-(#15870) FetalLung_GWAS_2012	p0														experiment
-(#17374) FetalLung_GWAS_2012_UMich	p0														experiment
-(#17831) Hersh_PT8_AERD_Fetal_Lung_PT1_miRNA_Sequencing_Data	p0														experiment
-(#20886) Mechanical Forces of Asthma ISOMER Dataset	p0														experiment
-(#17529) GWAS Kaiser_PSN185	p0														experiment
-(#21004) Imputed Kaiser_PSN185	p0														experiment
-(#17539) Kaiser_PSN185 Filtered for Missingness and HWE	p0														experiment
-(#18975) Kaiser_PSN185_UMich	p0														experiment
-(#18235) PSN185_2018: Updated Phenotype Data for PSN185	p0														experiment
-(#18307) PSN185_RaceData: PSN185/Iribarren/Asthma: one additional file	p0														experiment
-(#20921) GTEx v8	p0														experiment
-(#17699) GTEx_v7	p0														experiment
-(#19977) 2013_HASM_Omni2.5	p0														experiment
-(#19841) COPD Cohorts Affymetrix Axiom Genotyping	p0														experiment
-(#22887) AxiomGenotyping_TOPMed	p0														experiment
-(#21037) Silverman_WGS_COPD_744	p0														experiment
-(#23026) TopMed freeze.10 wgs	p0														experiment
-(#19032) Innate Immunity Project Data	p0														experiment
-(#16614) Omni2.5Exome_2017	p0														experiment
-(#20540) LOLCSE_HRC_UMich	p0														experiment
-(#20537) RIKEN_SEPRACOR_LOCCS_LODO_2009	p0														experiment
-(#14591) LOCCS, LODO, SEPRACOR data imputed against 1000GenomesPhase3v5	p0														experiment
-"(#18369) ""LOTT 2015"" Expression Data"	p0														experiment
-(#14659) LOTT GWAS	p0														experiment
-(#15852) LOTT Phenotype Data	p0														experiment
-(#17185) LOTT_GWAS_2016_UMich	p0														experiment
-(#18370) MAF/R-Squared FIltered Impute Results for Minseok's Manuscript	p0														experiment
-(#17053) LTCOPD Genotype Data	p0														experiment
-(#14363) finalData_vs_1000GPh3V5	p0														experiment
-(#17050) LTCOPD Methylation Data	p0														experiment
-(#17051) LTCOPD Phenotype Data	p0														experiment
-(#19252) LTCOPD TopMed WGS Data	p0														experiment
-(#24243) TOPMed Mitochondrial Copy Number and Heteroplasmy Data	p0														experiment
-(#21178) 850K_control_snp_ref	p0														experiment
-(#20642) LTRC TOPMed WGS	p0														experiment
-(#20644) TOPMed Blood Methylation Data	p0														experiment
-(#24098) TOPMed Lung Methylation Data	p0														experiment
-(#20272) LTRC Phenotype Data	p0														experiment
-(#22940) RNA Methylation	p0														experiment
-(#20643) LTRC RNASeq Data	p0														experiment
-(#23838) ODOLLFA_2022 mirnaseq	p0														experiment
-(#24292) PHASIC Metabolomics	p0														experiment
-(#18272) Partners Biobank Asthma Phenotypes	p0														experiment
-(#18268) Partners Biobank Imputed Data	p0														experiment
-(#18269) Partners Biobank Phenotype Data	p0														experiment
-(#15401) Partners Biobank mega_v1b3 merged with Partners Biobank mega_v2a2_r1	p0														experiment
-(#14465) NACC Phenotype Dataset	p0														experiment
-(#14745) NAS GWAS Megachip 2016	p0														experiment
-(#16252) 2016_NAS_GWAS_Megachip Imputed against 1000Genomes_Phase3_v5_ALL	p0														experiment
-(#21368) Revisions for hprke MetabolomicsOfLungFunction Manuscript	p0														experiment
-(#21072) NAS Metabolomic Data	p0														experiment
-(#15129) NAS Phenotype Data	p0														experiment
-(#19892) /proj/eepcb/eepcb00	p0														experiment
-(#18719) NETTNAS Unified Genotypes	p0														experiment
-(#18718) NETT_NAS GWAS	p0														experiment
-(#19007) TCGS_FINAL	p0														experiment
-(#18431) NETTNAS_vs_HRC	p0														experiment
-(#19027) recs100	p0														experiment
-(#18511) GenKOLS_TopMed	p0														experiment
-(#18731) NORWAY_Hrc11	p0														experiment
-(#18732) NORWAY Unified Genotypes	p0														experiment
-(#16011) NORWAY_GSK_COPD_2009	p0														experiment
-(#20008) NORWAY Phenotype Data	p0														experiment
-(#23923) OBTRIC rna mirna rehom PKG-0822-01005588 2022-12-19_for_rpc15 221208_NB552221_0127_AH5YNCBGXN 221208_NB551475_0306_AH5YKKBGXN	p0														experiment
-(#23060) OBTRIC rna mrna rehom  220330_NB552221_0108_AH7WNKBGXL	p0														experiment
-(#22702) OBTRIC rna mrna rehom data download and alignment qc	p0														experiment
-(#22034) External Finotto UK Erlangen	p0														experiment
-(#23315) PDD rna mrna remhc PCLS contrast application 3	p0														experiment
-(#22416) PDD rna mrna remhc download, align, quantify	p0														experiment
-(#23318) PDD rna mrna remhc pcls contrast app 3 - correlation between pre sva post sva	p0														experiment
-(#23319) PDD rna mrna remhc pcls contrast app 3 overlap of top 10 genes pre sva post sva	p0														experiment
-(#24121) Sequoia rna mrna rehom 	p0														experiment
-(#23830) pilot rna mrna exome restw lung FFPE 35932779149-5_NJH-PPG_FC1 PKG-0322-01005452 221025_NB552221_0121_AH7JF5AFX3 2022-11-09_for_rpc15	p0														experiment
-(#24160) pilot rna scRNA relug data download	p0														experiment
-(#23025) TopMed freeze.10 wgs	p0														experiment
-(#20106) 2018-12-05_for_rpc15	p0														experiment
-(#20347) Calculate Missing variables in PPMI transplant REDCAP	p0														experiment
-(#20400) Data Set Cleaning/ Fill in Blank Lab Values in REDCAP	p0														experiment
-(#19401) MUC5B SNP Results	p0														experiment
-(#20848) PPMI 850K dataset QC (second batch) 	p0														experiment
-(#15522) PPMI Phenotype Data	p0														experiment
-(#20242) PPMI TERC Data	p0														experiment
-(#15521) PPMI Telomere Length	p0														experiment
-(#20175) PPMI Unified Genotype Data	p0														experiment
-(#20899) PPMI WES Tracking 	p0														experiment
-(#17762) PPMI_ExomeSeq_2017	p0														experiment
-(#16541) PPMI_M850K_2017	p0														experiment
-(#20148) Partners Biobank Sample Tracking	p0														experiment
-(#20342) Pulmonary Genetics Stem Cell Biobank Data Import	p0														experiment
-(#20344) RPDR import into Asthma Samsung Registry	p0														experiment
-(#19555) Telomere Length Batch 3	p0														experiment
-(#24158) MIMIC-IV	p0														experiment
-(#24159) eICU	p0														experiment
-(#19217) hg38	p0														experiment
-(#21253) HGDP	p0														experiment
-(#18467) 1000Genomes_Phase1_v3	p0														experiment
-(#20705) Ensembl Release-94	p0														experiment
-(#17275) IconDB GWAS	p0														experiment
-(#18486) 2018_GIANT_plus_UKBB	p0														experiment
-(#18362) CAD	p0														experiment
-(#18364) Diagram: Type 2 Diabetes	p0														experiment
-(#18361) GWAS Anthropometric 2015 BMI	p0														experiment
-(#19112) PMID 27863252: The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease	p0														experiment
-(#19107) PMID 28209224: Systematic Evaluation of Pleiotropy Identifies 6 Further Loci Associated With Coronary Artery Disease	p0														experiment
-(#19104) PMID 28604731: Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits	p0														experiment
-(#18363) SSGAC: Depression	p0														experiment
-(#18360) The GEnetic Factors for OSteoporosis (GEFOS): bmd	p0														experiment
-(#16965) TCIA IvyGAP Data	p0														experiment
-(#17276) IcondDB Imputed on  the UMich Server	p0														experiment
-(#21636) dbSNP 154	p0														experiment
-(#19137) miRBase Release 22	p0														experiment
-(#19122) PMID 28369058: Mapping of 79 loci for 83 plasma protein biomarkers in cardiovascular disease	p0														experiment
-(#22349) rna_binding_protein_KD	p0														experiment
-(#24066) Barby HCA	p0														experiment
-"(#24086) Crystal																		"	p0														experiment
-(#24078) E-MTAB-8221 (Spence)	p0														experiment
-(#24061) EGAS00001001755 (Teichmann)	p0														experiment
-(#24085) EGAS00001004082 (Deprez)	p0														experiment
-(#24064) GSE102592 (Peng)	p0														experiment
-(#24065) GSE103918 (Kotton)	p0														experiment
-(#24058) GSE122960 (Misharin_Reyfman)	p0														experiment
-(#24059) GSE126111 (Hanley)	p0														experiment
-(#24057) GSE128033 (Lafyatis_Morse)	p0														experiment
-(#24056) GSE128169 (Lafyatis_Valenzi)	p0														experiment
-(#24063) GSE130148 (Teichmann)	p0														experiment
-(#24082) GSE132771 (Sheppard)	p0														experiment
-(#24083) GSE133747 (Niklason)	p0														experiment
-(#24077) GSE134174 (Seibold)	p0														experiment
-(#24055) GSE135893 (Kropski)	p0														experiment
-(#24084) GSE136831 (Naftali Kaminski)	p0														experiment
-(#18375) Human Cell Atlas Preview Datasets	p0														experiment
-(#24060) Human Lung Cell Atlas (HLCA) v1	p0														experiment
-(#24067) Krasnow	p0														experiment
-(#24068) Linarsson (unpublished)	p0														experiment
-"(#24070) Meyer_b	(unpublished)"	p0														experiment
-(#24071) Misharin (unpublished)	p0														experiment
-(#24069) PRJEB31843 (Meyer_a)	p0														experiment
-(#24072) Rawlins (unpublished)	p0														experiment
-(#24073) Regev (unpublished)	p0														experiment
-(#24074) Regev_Rajagopal	p0														experiment
-(#24075) Schultze (unpublished)	p0														experiment
-(#24076) Schultze_Falk (unpublished)	p0														experiment
-"(#24062) Teichmann	EGAS00001002649"	p0														experiment
-(#24079) Whitsett_Xu_10X	p0														experiment
-(#24080) Whitsett_Xu_dropSeq (unpublished)	p0														experiment
-(#24081) Xavier (unpublished)	p0														experiment
-(#18689) CEU SomaLogic pQTLs	p0														experiment
-(#23850) Christensen-Lab-Dartmouth/MethylNet	p0														experiment
-(#22644) EBI/eQTLCatalogue	p0														experiment
-(#22352) GENCODE	p0														experiment
-(#23717) GSE152779 - with liftover to GRCh38	p0														experiment
-(#19128) GSE92742: L1000 Connectivity Map perturbational profiles from Broad Institute LINCS Center for Transcriptomics LINCS Pilot PHASE 	p0														experiment
-(#24041) Human Lung Cell Atlas (HLCA)	p0														experiment
-(#19451) MSigDB	p0														experiment
-(#19082) SLDP (Signed LD Profile) regression	p0														experiment
-(#20281) Sanger Mouse Genomes Project	p0														experiment
-(#20039) Tobacco and EtOH Use GWAS	p0														experiment
-(#18396) dbSNP 151	p0														experiment
-(#19340) dbSNP 152	p0														experiment
-(#20356) dbSNP 153	p0														experiment
-(#24025) dbSNP 156	p0														experiment
-(#24042) dbsnp	p0														experiment
-(#18674) refdata-cellranger-GRCh38-1.2.0	p0														experiment
-(#18675) refdata-cellranger-hg19-1.2.0	p0														experiment
-(#18686) refdata-cellranger-mm10-2.1.0	p0														experiment
-(#22411) SAFARI WGS Data	p0														experiment
-(#18238) COPD-ILD Methylation 11627945261-0	p0														experiment
-(#20274) FREEZE 20190723 - Download and processing for HumanCoreExData2	p0														experiment
-(#19018) Multi-cohort GWAS/Imputed Data from HSPH	p0														experiment
-(#19381) TESRA Unified Genotypes	p0														experiment
-(#17413) TESRA_02272012_GWAS	p0														experiment
-(#17422) TESRA_1000GP3v5_UMich	p0														experiment
-(#17526) TESRA_HRC_UMich	p0														experiment
-(#21990) Freeze8 Local Ancestry Data	p0														experiment
-(#21989) Structural Variants - Freeze.1	p0														experiment
-(#20710) TOPMed RNASeq	p0														experiment
-(#23146) TopMed Freeze.10 Sample Annotations	p0														experiment
-(#20953) TopMed Methylation Data	p0														experiment
-(#21013) TopMed WGS Data	p0														experiment
-(#23063) TopMed batch-adjusted telomere data - 20200810	p0														experiment
-(#22153) freeze.10a	p0														experiment
-(#22165) freeze.10a.irc	p0														experiment
-(#21987) freeze.8_rewki_biallele_SNP	p0														experiment
-(#21014) freeze.9	p0														experiment
-(#21490) freeze.9b	p0														experiment
-(#22652) Addendum 001.a 	p0														experiment
-(#19880) UK Biobank Exome Seq Data	p0														experiment
-(#19167) UK Biobank Imputed Dataset EGAD00010001225	p0														experiment
-(#18311) UK Biobank Imputed dataset – EGAD00010001474	p0														experiment
-(#19108) UKBB GWAS Summary Statistics from Neale Lab	p0														experiment
-(#18312) UKBiobank Directly genotyped dataset – EGAD00010001497	p0														experiment
-(#23963) UK_Biobank/dna/whole_genome/ukbbRandom10k	p0														experiment
-(#24203) UK_Biobank/phenotype	p0														experiment
-(#18527) VDAART qPCR Biomass Data	p0														experiment
-(#22050) 2016_VDAART_Mother_TOPMed_Imputed	p0														experiment
-(#22042) 2016_VDAART_TOPMed_Imputed	p0														experiment
-(#21346) VDAART 850K	p0														experiment
-(#18722) VDAART_SNP_Genotyping_082016	p0														experiment
-(#18197) 2016_VDAART_GWAS	p0														experiment
-(#15553) VDDART Mother GWAS	p0														experiment
-(#18199) 2016_VDAART_GWAS_UMich	p0														experiment
-(#16652) 2016_VDAART_Mother_UMich	p0														experiment
-(#18875) Asthma_Microbiome/Metabolome	p0														experiment
-(#19408) Fecal Acetic Acid Relative Abundance in Pregnancy is Inversely Associated with AsthmaRecurrent Wheeze with Atopy in Offspring	p0														experiment
-(#18874) Gut_Metabolome_Asthma	p0														experiment
-(#18931) Metabolomic Prediction of Childhood Asthma	p0														experiment
-(#18876) PUFA_Asthma	p0														experiment
-(#18877) Selecting_VDAART_Samples	p0														experiment
-(#18723) ORMDL3 Manuscript Metabolomics Data	p0														experiment
-(#18935) VDAART Asthma Metabolome	p0														experiment
-(#17454) VDAART Serum Metabolomics	p0														experiment
-(#17453) VDAART_FA_STOOL_101816	p0														experiment
-(#16292) VDAART Methylation 450K_PCPGM_726775217-6	p0														experiment
-(#16076) 2016 VDAART Microbiome	p0														experiment
-(#17840) 2016 VDAART Microbiome Anonymized	p0														experiment
-(#17876) 2016_VDAART_Microbiome_PICRUSt	p0														experiment
-(#18384) VDAART Infant_Gut_Predictors	p0														experiment
-(#23522) VDAART/ECHO Extant Microbiome Data Transfer and Harmonization	p0														experiment
-(#18386) VDAART Blood Pre-eclampsia mirnaseq	p0														experiment
-(#17388) VDAART placenta miRNAseq	p0														experiment
-(#21548) Lee-Sarwar/Huttenhower Microbiome and GWAS Export	p0														experiment
-(#17642) VDAART Pre-eclampsia blood mRNA data download alignment qc	p0														experiment
-(#24238) VDAART rna mrna rehom preeclampsia pull list/data manifest discrepenacy	p0														experiment
-(#18069) 2016 VDAART Mother GWAS - GRCh38	p0														experiment
-(#23372) ECHO 850K 2022	p0														experiment
-(#21060) Extant VDAART GWAS Data for sharing with ECHO	p0														experiment
-(#18878) VDAART Derived Outcomes	p0														experiment
-(#20455) VDAART rna mrna Yr3 plate 4 2019-09-12_for_rpc15 190905_NB551475_0163_AHT5NFBGXB 190906_NB551475_0164_AHMNW2BGXB 190909_NB551475_0165_AHT5KFBGXB	p0														experiment
-(#18385) Various VDAART Datasets maintained by Nancy Laranjo	p0														experiment
-(#21547) black0.2_clean	p0														experiment
-(#18547) VIVA Cell Count Datasets	p0														experiment
-(#17634) VIVA Plasma miRNASeq	p0														experiment
-(#18546) VIVA Phenotype Data	p0														experiment
-(#18545) VivaThousandQC_BMIQ	p0														experiment
-(#16227) eMERGE GWAS Datsets	p0														experiment
-(#17846) emERGE Principal Components Projected against 1000Genomes	p0														experiment
-(#23145) Graz_cohort_clinical_data	p0														experiment
-(#22764) graz_copd: BSA_0503_LBI_COPD	p0														experiment
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
