@@ -1,0 +1,372 @@
+submitter_id
+(#22862) A1A_2013_HumanCoreExome
+(#24096) A1A_HumanCoreExome_TOPMed
+(#22080) A1A_850K_2021
+(#24110) A1A olink Proteomics
+(#23928) Olink Proteomic Data Freeze 20221220
+(#21007) aBridge2020_UMich
+(#19138) ABRIG Gene Expression Data
+(#17302) ABRIG_FULL_2012
+(#14364) ABRIG_FULL_vs_1000GenomesPhaseIv3
+(#16330) ABRIG Methylation Data
+(#20597) ACRN_UMich
+(#14974) ACRN_SHARP GWAS
+(#16485) ADAPT_Combined_GWAS
+(#20535) ADAPT_MERGE Imputed
+(#21618) PgPOP Exome Genotyping
+(#24191) AEC_Tesfaigzi Protein Data
+(#22824) Broad_NHBE Pellets for Genotyped_RNA_with Demographics
+(#22822) Tesfaigzi_BWH_GSA_Array
+(#22888) Tesfaigzi_BWH_GSA_Array_TOPMed
+(#24173) Tesfaigzi_HEC-190_Singlecell
+(#20841) AERD_montelukast_PBMC
+(#21018) AERD_montelukast_sera
+(#20422) Freeze 20200502 - Joint-called Genotyping Data
+(#19959) reykjavik_exome_seq
+(#14735) BELT GWAS Data
+(#16230) FLCN Exome Sequencing for 2 Birt-Hogg-Dube Patients
+(#16232) Job's Syndrome Whole Exome (1 subject)
+(#16552) CAMP_LipidView_2017
+(#19241) TopMed WGS Data
+(#18928) GWAS_CAMP_RIKEN_2010
+(#19578) CAMP_FULL_MERGE_UMich
+(#21158) TOPMed Metabolomics
+(#23882) CAMP Metadata
+(#16454) CAMP 27K Methylation Dataset
+(#20970) CAMP TopMed Methylation
+(#19825) A Nasal Brush-based Classifier of Asthma Identified by Machine Learning Analysis of Nasal RNA Sequence Data
+(#20302) CAMP Trio SNP Results
+(#18164) CAMP_FULL_MERGE
+(#18165) CAMP_FULL_MERGE Anonymized for Barabasi Collaboration
+(#20575) CARE_SHARP
+(#15941) CARE_SHARP Imputed against 1000Genomes Phase3v5
+(#20583) CARE_SHARP_UMich
+(#20574) CARE_SHARP_UMich
+(#22317) RootStudyConsentSet_phs000930.CHARGE_SummaryResults.v9.p1.c1.GRU
+(#23165) CHILD_2022
+(#21094) IgE Quantification (Phase 2)
+(#19973) Carolan_2014_Resp_Res
+(#20521) TopMed MitochondrialDNA 
+(#24218) F8 Somatic Chip Data
+(#20368) TOPMed Telomere Length
+(#19234) TopMed WGS Data
+(#21151) king_ref_GRCh38
+(#21323) COPDGene TOPMed Blood Methylation
+(#24049) COPDGene TOPMed Nasal Methylation
+(#19897) COPDGene_GOLDUproject_JAN2013
+(#19869) COPDGene Excome Chip
+(#19805) 850K_RefPanel
+(#18389) COPDGene Unified Genotype Data
+(#17578) COPDGene Canonical GWAS Data
+(#19253) CgAa-HRC-1-1
+(#14435) CgNhw-HRC1-1
+(#19448) RNA-sequencing across three matched tissues highlights gene expression signatures in COPD
+(#21095) Sphingolipid Quantification from Russ Bowler
+(#21935) Metabolite Data
+(#24231) TOPMed metabolomics
+(#19512) BRCOPD EPIC Methylation Data
+(#19458) COPDGene Phenotype Data
+(#18356) Final10000_Phase1_Rev_31aug16
+(#22728) LFU Dataset 10/10/21
+(#21747) COPDGene_SOMA1_3
+(#22688) SomaScan 5.0
+(#22993) SomaScan_5.0_P2_TAB_13May2021_v2  & SomaScan_5.0_P3_TAB_13May2021_v2
+(#23281) COPDGene rna mrna repjc blood_shortread phase3 Conversion Files
+(#21113) TOPMED_11.19.2019 nasal_shortread
+(#22038) vdjseq - Chris Vollmers IGH rnaseq data
+(#14367) COPDGene Blood rnaseq
+(#19886) TopMed RNAseq Data
+(#21977) 850K_RefPanel
+(#21821) COPDGene rna mirna miRNA Repeats - PKG-0820-01005076
+(#23334) COPDGene rna mrna repjc phase 2 freeze 5
+(#24137) COPDGene whole blood microRNA
+(#20679) Freeze.8-based genotype data for Matrixeqtl
+(#24266) metabolite.targeted.Omega
+(#20256) CRA Reference Genotypes for 59 850K QC SNPs
+(#15873) 2013_CRA_GWAS_FULL_MERGE
+(#18904) 2015_NHLBI_DCC_GWAS_QC
+(#18905) NHLBI_DCC_GWAS_QC
+(#16901) 2013_CRA_GWAS_UMich
+(#15875) 2013_CRA_GWAS_vs_1000Genomes_p3v5
+(#19571) CRA-HRCr1.1
+(#21145) TOPMed Metabolomics
+(#19036) CRA 450K Methylation Data
+(#14325) CRA 450K Methylation Dataset
+(#20249) CRA TopMed Methylation
+(#24135) remmg_issue_20143
+(#18275) Feixiong
+(#19238) TopMed WGS Data
+(#20596) CRA_Gx
+(#14427) CSS Combined GWAS
+(#17832) CSS GWAS: Axiom_BioBank1WM
+(#17877) Axiom_BioBank1WM_UMich
+(#15177) CSS Imputed against 1000GenomesPhase3v5_ALL
+(#17285) CSS_HRCr1.1
+(#17160) COPD_ECLIPSE_2009
+(#17159) COPD_ECLIPSE_2009_2017 Phased Haplotypes
+(#18685) ECLIPSE Unified Genotype Data
+(#16009) ECLIPSE chrX imputed against 1000G Phase3 v5
+(#19327) ECLIPSE_HRC1-1
+(#17164) ECLIPSE_vs_1000GPhase1v3
+(#18510) EclipseTopMed
+(#20766) TOPMed f8 missing NWD-IDs
+(#16963) TopMed ECLIPSE Submission to dbGaP
+(#19240) TopMed WGS Data
+(#19545) methyECLIPSE_clean_1430052791_V10
+(#13016) UW 1300 EOCOPD ICGN exome seq
+(#19239) TopMed WGS Data
+(#19541) EOCOPD Exome Data
+(#24050) Castaldi_LungCancer_GSA
+(#22175) ESCAPE_GDA_2021
+(#24104) Phenotype Data
+(#21717) EVE_Caucasians_vs_1000GenomesP3v5
+(#17584) Create a final data set and dd for the Eczema/Atopic Dermatitis study
+(#21468) randell_8.18.2020 (bronchial_epithelial_cells)
+(#18890) FOREST_MEGAChip_UMich
+(#15692) FOREST MEGA Chip GWAS
+(#19352) FetalLung_GWAS_2011_UMich
+(#19341) FetalLung_GWAS_2011
+(#19231) 56919819-4_M450KChanning
+(#19424) Fetal Lung June 2010
+(#17638) FetalLung 850K Methylation Data
+(#18922) FetalLung Expression Data 2012_Affymetrix_FetalLung
+(#18923) FetalLung Expression Data 2012_Affymetrix_Placenta
+(#18413) FetalLung Phenotype Data
+(#15870) FetalLung_GWAS_2012
+(#17374) FetalLung_GWAS_2012_UMich
+(#17831) Hersh_PT8_AERD_Fetal_Lung_PT1_miRNA_Sequencing_Data
+(#20886) Mechanical Forces of Asthma ISOMER Dataset
+(#17529) GWAS Kaiser_PSN185
+(#21004) Imputed Kaiser_PSN185
+(#17539) Kaiser_PSN185 Filtered for Missingness and HWE
+(#18975) Kaiser_PSN185_UMich
+(#18235) PSN185_2018: Updated Phenotype Data for PSN185
+(#18307) PSN185_RaceData: PSN185/Iribarren/Asthma: one additional file
+(#20921) GTEx v8
+(#17699) GTEx_v7
+(#23145) Graz_cohort_clinical_data
+(#22764) graz_copd: BSA_0503_LBI_COPD
+(#19977) 2013_HASM_Omni2.5
+(#19841) COPD Cohorts Affymetrix Axiom Genotyping
+(#22887) AxiomGenotyping_TOPMed
+(#21037) Silverman_WGS_COPD_744
+(#23026) TopMed freeze.10 wgs
+(#19032) Innate Immunity Project Data
+(#16614) Omni2.5Exome_2017
+(#20540) LOLCSE_HRC_UMich
+(#20537) RIKEN_SEPRACOR_LOCCS_LODO_2009
+(#14591) LOCCS, LODO, SEPRACOR data imputed against 1000GenomesPhase3v5
+"(#18369) ""LOTT 2015"" Expression Data"
+(#14659) LOTT GWAS
+(#15852) LOTT Phenotype Data
+(#17185) LOTT_GWAS_2016_UMich
+(#18370) MAF/R-Squared FIltered Impute Results for Minseok's Manuscript
+(#17053) LTCOPD Genotype Data
+(#14363) finalData_vs_1000GPh3V5
+(#17050) LTCOPD Methylation Data
+(#17051) LTCOPD Phenotype Data
+(#19252) LTCOPD TopMed WGS Data
+(#24243) TOPMed Mitochondrial Copy Number and Heteroplasmy Data
+(#21178) 850K_control_snp_ref
+(#20642) LTRC TOPMed WGS
+(#20644) TOPMed Blood Methylation Data
+(#24098) TOPMed Lung Methylation Data
+(#20272) LTRC Phenotype Data
+(#22940) RNA Methylation
+(#20643) LTRC RNASeq Data
+(#23838) ODOLLFA_2022 mirnaseq
+(#24292) PHASIC Metabolomics
+(#18272) Partners Biobank Asthma Phenotypes
+(#18268) Partners Biobank Imputed Data
+(#18269) Partners Biobank Phenotype Data
+(#15401) Partners Biobank mega_v1b3 merged with Partners Biobank mega_v2a2_r1
+(#14465) NACC Phenotype Dataset
+(#14745) NAS GWAS Megachip 2016
+(#16252) 2016_NAS_GWAS_Megachip Imputed against 1000Genomes_Phase3_v5_ALL
+(#21368) Revisions for hprke MetabolomicsOfLungFunction Manuscript
+(#21072) NAS Metabolomic Data
+(#15129) NAS Phenotype Data
+(#19892) /proj/eepcb/eepcb00
+(#18719) NETTNAS Unified Genotypes
+(#18718) NETT_NAS GWAS
+(#19007) TCGS_FINAL
+(#18431) NETTNAS_vs_HRC
+(#19027) recs100
+(#18511) GenKOLS_TopMed
+(#18731) NORWAY_Hrc11
+(#18732) NORWAY Unified Genotypes
+(#16011) NORWAY_GSK_COPD_2009
+(#20008) NORWAY Phenotype Data
+(#23923) OBTRIC rna mirna rehom PKG-0822-01005588 2022-12-19_for_rpc15 221208_NB552221_0127_AH5YNCBGXN 221208_NB551475_0306_AH5YKKBGXN
+(#23060) OBTRIC rna mrna rehom  220330_NB552221_0108_AH7WNKBGXL
+(#22702) OBTRIC rna mrna rehom data download and alignment qc
+(#22034) External Finotto UK Erlangen
+(#23315) PDD rna mrna remhc PCLS contrast application 3
+(#22416) PDD rna mrna remhc download, align, quantify
+(#23318) PDD rna mrna remhc pcls contrast app 3 - correlation between pre sva post sva
+(#23319) PDD rna mrna remhc pcls contrast app 3 overlap of top 10 genes pre sva post sva
+(#24121) Sequoia rna mrna rehom 
+(#23830) pilot rna mrna exome restw lung FFPE 35932779149-5_NJH-PPG_FC1 PKG-0322-01005452 221025_NB552221_0121_AH7JF5AFX3 2022-11-09_for_rpc15
+(#24160) pilot rna scRNA relug data download
+(#23025) TopMed freeze.10 wgs
+(#20106) 2018-12-05_for_rpc15
+(#20347) Calculate Missing variables in PPMI transplant REDCAP
+(#20400) Data Set Cleaning/ Fill in Blank Lab Values in REDCAP
+(#19401) MUC5B SNP Results
+(#20848) PPMI 850K dataset QC (second batch) 
+(#15522) PPMI Phenotype Data
+(#20242) PPMI TERC Data
+(#15521) PPMI Telomere Length
+(#20175) PPMI Unified Genotype Data
+(#20899) PPMI WES Tracking 
+(#17762) PPMI_ExomeSeq_2017
+(#16541) PPMI_M850K_2017
+(#20148) Partners Biobank Sample Tracking
+(#20342) Pulmonary Genetics Stem Cell Biobank Data Import
+(#20344) RPDR import into Asthma Samsung Registry
+(#19555) Telomere Length Batch 3
+(#24158) MIMIC-IV
+(#24159) eICU
+(#19217) hg38
+(#21253) HGDP
+(#18467) 1000Genomes_Phase1_v3
+(#20705) Ensembl Release-94
+(#17275) IconDB GWAS
+(#18486) 2018_GIANT_plus_UKBB
+(#18362) CAD
+(#18364) Diagram: Type 2 Diabetes
+(#18361) GWAS Anthropometric 2015 BMI
+(#19112) PMID 27863252: The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease
+(#19107) PMID 28209224: Systematic Evaluation of Pleiotropy Identifies 6 Further Loci Associated With Coronary Artery Disease
+(#19104) PMID 28604731: Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits
+(#18363) SSGAC: Depression
+(#18360) The GEnetic Factors for OSteoporosis (GEFOS): bmd
+(#16965) TCIA IvyGAP Data
+(#17276) IcondDB Imputed on  the UMich Server
+(#21636) dbSNP 154
+(#19137) miRBase Release 22
+(#19122) PMID 28369058: Mapping of 79 loci for 83 plasma protein biomarkers in cardiovascular disease
+(#22349) rna_binding_protein_KD
+(#24066) Barby HCA
+"(#24086) Crystal																		"
+(#24078) E-MTAB-8221 (Spence)
+(#24061) EGAS00001001755 (Teichmann)
+(#24085) EGAS00001004082 (Deprez)
+(#24064) GSE102592 (Peng)
+(#24065) GSE103918 (Kotton)
+(#24058) GSE122960 (Misharin_Reyfman)
+(#24059) GSE126111 (Hanley)
+(#24057) GSE128033 (Lafyatis_Morse)
+(#24056) GSE128169 (Lafyatis_Valenzi)
+(#24063) GSE130148 (Teichmann)
+(#24082) GSE132771 (Sheppard)
+(#24083) GSE133747 (Niklason)
+(#24077) GSE134174 (Seibold)
+(#24055) GSE135893 (Kropski)
+(#24084) GSE136831 (Naftali Kaminski)
+(#18375) Human Cell Atlas Preview Datasets
+(#24060) Human Lung Cell Atlas (HLCA) v1
+(#24067) Krasnow
+(#24068) Linarsson (unpublished)
+"(#24070) Meyer_b	(unpublished)"
+(#24071) Misharin (unpublished)
+(#24069) PRJEB31843 (Meyer_a)
+(#24072) Rawlins (unpublished)
+(#24073) Regev (unpublished)
+(#24074) Regev_Rajagopal
+(#24075) Schultze (unpublished)
+(#24076) Schultze_Falk (unpublished)
+"(#24062) Teichmann	EGAS00001002649"
+(#24079) Whitsett_Xu_10X
+(#24080) Whitsett_Xu_dropSeq (unpublished)
+(#24081) Xavier (unpublished)
+(#18689) CEU SomaLogic pQTLs
+(#23850) Christensen-Lab-Dartmouth/MethylNet
+(#22644) EBI/eQTLCatalogue
+(#22352) GENCODE
+(#23717) GSE152779 - with liftover to GRCh38
+(#19128) GSE92742: L1000 Connectivity Map perturbational profiles from Broad Institute LINCS Center for Transcriptomics LINCS Pilot PHASE 
+(#24041) Human Lung Cell Atlas (HLCA)
+(#19451) MSigDB
+(#19082) SLDP (Signed LD Profile) regression
+(#20281) Sanger Mouse Genomes Project
+(#20039) Tobacco and EtOH Use GWAS
+(#18396) dbSNP 151
+(#19340) dbSNP 152
+(#20356) dbSNP 153
+(#24025) dbSNP 156
+(#24042) dbsnp
+(#18674) refdata-cellranger-GRCh38-1.2.0
+(#18675) refdata-cellranger-hg19-1.2.0
+(#18686) refdata-cellranger-mm10-2.1.0
+(#22411) SAFARI WGS Data
+(#18238) COPD-ILD Methylation 11627945261-0
+(#20274) FREEZE 20190723 - Download and processing for HumanCoreExData2
+(#19018) Multi-cohort GWAS/Imputed Data from HSPH
+(#19381) TESRA Unified Genotypes
+(#17413) TESRA_02272012_GWAS
+(#17422) TESRA_1000GP3v5_UMich
+(#17526) TESRA_HRC_UMich
+(#21990) Freeze8 Local Ancestry Data
+(#21989) Structural Variants - Freeze.1
+(#20710) TOPMed RNASeq
+(#23146) TopMed Freeze.10 Sample Annotations
+(#20953) TopMed Methylation Data
+(#21013) TopMed WGS Data
+(#23063) TopMed batch-adjusted telomere data - 20200810
+(#22153) freeze.10a
+(#22165) freeze.10a.irc
+(#21987) freeze.8_rewki_biallele_SNP
+(#21014) freeze.9
+(#21490) freeze.9b
+(#22652) Addendum 001.a 
+(#19880) UK Biobank Exome Seq Data
+(#19167) UK Biobank Imputed Dataset EGAD00010001225
+(#18311) UK Biobank Imputed dataset – EGAD00010001474
+(#19108) UKBB GWAS Summary Statistics from Neale Lab
+(#18312) UKBiobank Directly genotyped dataset – EGAD00010001497
+(#23963) UK_Biobank/dna/whole_genome/ukbbRandom10k
+(#24203) UK_Biobank/phenotype
+(#18527) VDAART qPCR Biomass Data
+(#22050) 2016_VDAART_Mother_TOPMed_Imputed
+(#22042) 2016_VDAART_TOPMed_Imputed
+(#21346) VDAART 850K
+(#18722) VDAART_SNP_Genotyping_082016
+(#18197) 2016_VDAART_GWAS
+(#15553) VDDART Mother GWAS
+(#18199) 2016_VDAART_GWAS_UMich
+(#16652) 2016_VDAART_Mother_UMich
+(#18875) Asthma_Microbiome/Metabolome
+(#19408) Fecal Acetic Acid Relative Abundance in Pregnancy is Inversely Associated with AsthmaRecurrent Wheeze with Atopy in Offspring
+(#18874) Gut_Metabolome_Asthma
+(#18931) Metabolomic Prediction of Childhood Asthma
+(#18876) PUFA_Asthma
+(#18877) Selecting_VDAART_Samples
+(#18723) ORMDL3 Manuscript Metabolomics Data
+(#18935) VDAART Asthma Metabolome
+(#17454) VDAART Serum Metabolomics
+(#17453) VDAART_FA_STOOL_101816
+(#16292) VDAART Methylation 450K_PCPGM_726775217-6
+(#16076) 2016 VDAART Microbiome
+(#17840) 2016 VDAART Microbiome Anonymized
+(#17876) 2016_VDAART_Microbiome_PICRUSt
+(#18384) VDAART Infant_Gut_Predictors
+(#23522) VDAART/ECHO Extant Microbiome Data Transfer and Harmonization
+(#18386) VDAART Blood Pre-eclampsia mirnaseq
+(#17388) VDAART placenta miRNAseq
+(#21548) Lee-Sarwar/Huttenhower Microbiome and GWAS Export
+(#17642) VDAART Pre-eclampsia blood mRNA data download alignment qc
+(#24238) VDAART rna mrna rehom preeclampsia pull list/data manifest discrepenacy
+(#18069) 2016 VDAART Mother GWAS - GRCh38
+(#23372) ECHO 850K 2022
+(#21060) Extant VDAART GWAS Data for sharing with ECHO
+(#18878) VDAART Derived Outcomes
+(#20455) VDAART rna mrna Yr3 plate 4 2019-09-12_for_rpc15 190905_NB551475_0163_AHT5NFBGXB 190906_NB551475_0164_AHMNW2BGXB 190909_NB551475_0165_AHT5KFBGXB
+(#18385) Various VDAART Datasets maintained by Nancy Laranjo
+(#21547) black0.2_clean
+(#18547) VIVA Cell Count Datasets
+(#17634) VIVA Plasma miRNASeq
+(#18546) VIVA Phenotype Data
+(#18545) VivaThousandQC_BMIQ
+(#16227) eMERGE GWAS Datsets
+(#17846) emERGE Principal Components Projected against 1000Genomes

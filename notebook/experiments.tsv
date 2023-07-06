@@ -144,6 +144,8 @@ id	project	submitter_id	project	url	projects.code	associated_experiment	copy_num
 18307	{'id': 785, 'name': 'GERA'}	(#18307) PSN185_RaceData: PSN185/Iribarren/Asthma: one additional file	GERA	file:///proj/regeps/regep00/studies/GERA/data/multi/PSN185_RaceData/	p0														experiment
 20921	{'id': 930, 'name': 'GTEx'}	(#20921) GTEx v8	GTEx	/proj/rerefs/reref00/Broad/GTEx_v8/	p0														experiment
 17699	{'id': 930, 'name': 'GTEx'}	(#17699) GTEx_v7	GTEx	file:///proj/rerefs/reref00/Broad/GTEx_v7/	p0														experiment
+23145	{'id': 1156, 'name': 'GrazCOPD-PH'}	(#23145) Graz_cohort_clinical_data	GrazCOPD-PH	/proj/regeps/regep00/studies/GrazCOPD-PH/data/pheno/	p0														experiment
+22764	{'id': 1156, 'name': 'GrazCOPD-PH'}	(#22764) graz_copd: BSA_0503_LBI_COPD	GrazCOPD-PH	/proj/regeps/regep00/studies/GrazCOPD-PH/data/dna/whole_genome/graz_copd/	p0														experiment
 19977	{'id': 555, 'name': 'HASM'}	(#19977) 2013_HASM_Omni2.5	HASM	/proj/regeps/regep00/studies/HASM/data/gwas/2013_HASM_Omni2.5/	p0														experiment
 19841	{'id': 147, 'name': 'ICGN'}	(#19841) COPD Cohorts Affymetrix Axiom Genotyping	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/AxiomGenotyping/	p0														experiment
 22887	{'id': 147, 'name': 'ICGN'}	(#22887) AxiomGenotyping_TOPMed	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/AxiomGenotyping_TOPMed/	p0														experiment
@@ -368,5 +370,3 @@ id	project	submitter_id	project	url	projects.code	associated_experiment	copy_num
 18545	{'id': 235, 'name': 'VIVA'}	(#18545) VivaThousandQC_BMIQ	VIVA	file:///proj/regeps/regep00/studies/VIVA/data/methylation/analysis/thousand/	p0														experiment
 16227	{'id': 952, 'name': 'eMERGE'}	(#16227) eMERGE GWAS Datsets	eMERGE	file:///proj/regeps/regep00/studies/eMERGE/data/gwas/emerge_sorted_201701/	p0														experiment
 17846	{'id': 952, 'name': 'eMERGE'}	(#17846) emERGE Principal Components Projected against 1000Genomes	eMERGE	file:///proj/regeps/regep00/studies/eMERGE/data/pcs/	p0														experiment
-23145	{'id': 1135, 'name': 'rebays'}	(#23145) Graz_cohort_clinical_data	rebays	/proj/rebays/rebay00/data/pheno/COPD Graz_Cohort_clinical data_05.05.2022.xlsx	p0														experiment
-22764	{'id': 1135, 'name': 'rebays'}	(#22764) graz_copd: BSA_0503_LBI_COPD	rebays	/proj/rebays/rebay00/data/dna/whole_genome/graz_copd	p0														experiment
