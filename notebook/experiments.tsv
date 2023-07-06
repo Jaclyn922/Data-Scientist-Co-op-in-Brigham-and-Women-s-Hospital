@@ -1,372 +1,372 @@
-id	project	submitter_id	project	url	projects.code	associated_experiment	copy_numbers_identified	data_description	experimental_description	experimental_intent	indels_identified	marker_panel_description	number_experimental_group	number_samples_per_experimental_group	somatic_mutations_identified	type_of_data	type_of_sample	type_of_specimen	type
-22862	{'id': 28, 'name': 'A1A'}	(#22862) A1A_2013_HumanCoreExome	A1A	/proj/regeps/regep00/studies/A1A/data/dna/whole_genome/A1A_2013_HumanCoreExome	p0														experiment
-24096	{'id': 28, 'name': 'A1A'}	(#24096) A1A_HumanCoreExome_TOPMed	A1A	/proj/regeps/regep00/studies/A1A/data/dna/whole_genome/A1A_HumanCoreExome_TOPMed	p0														experiment
-22080	{'id': 28, 'name': 'A1A'}	(#22080) A1A_850K_2021	A1A	/proj/regeps/regep00/studies/A1A/data/epigenetic/methylation/A1A_850K_2021/	p0														experiment
-24110	{'id': 28, 'name': 'A1A'}	(#24110) A1A olink Proteomics	A1A	/proj/regeps/regep00/studies/A1A/data/protein/olink	p0														experiment
-23928	{'id': 28, 'name': 'A1A'}	(#23928) Olink Proteomic Data Freeze 20221220	A1A		p0														experiment
-21007	{'id': 37, 'name': 'ABRIG'}	(#21007) aBridge2020_UMich	ABRIG	/proj/regeps/regep00/studies/ABRIG/data/dna/whole_genome/aBridge2020_UMich/	p0														experiment
-19138	{'id': 37, 'name': 'ABRIG'}	(#19138) ABRIG Gene Expression Data	ABRIG	file:///proj/regeps/regep00/studies/ABRIG/data/expression/ABRIDGE_GeneExpr_Final/	p0														experiment
-17302	{'id': 37, 'name': 'ABRIG'}	(#17302) ABRIG_FULL_2012	ABRIG	file:///proj/regeps/regep00/studies/ABRIG/data/gwas/ABRIG_FULL_2012/	p0														experiment
-14364	{'id': 37, 'name': 'ABRIG'}	(#14364) ABRIG_FULL_vs_1000GenomesPhaseIv3	ABRIG	file:///proj/regeps/regep00/studies/ABRIG/data/imputed/ABRIG_FULL_vs_1000GenomesPhaseIv3	p0														experiment
-16330	{'id': 37, 'name': 'ABRIG'}	(#16330) ABRIG Methylation Data	ABRIG	file:///proj/regeps/regep00/studies/ABRIG/data/methylation	p0														experiment
-20597	{'id': 49, 'name': 'ACRN'}	(#20597) ACRN_UMich	ACRN	/proj/regeps/regep00/studies/ACRN/data/dna/whole_genome/ACRN_UMich/	p0														experiment
-14974	{'id': 49, 'name': 'ACRN'}	(#14974) ACRN_SHARP GWAS	ACRN	file:////proj/regeps/regep00/studies/ACRN/data/gwas/ACRN_SHARP	p0														experiment
-16485	{'id': 938, 'name': 'ADAPT'}	(#16485) ADAPT_Combined_GWAS	ADAPT	file:///proj/regeps/regep00/studies/ADAPT/data/gwas/ADAPT_Combined_GWAS	p0														experiment
-20535	{'id': 938, 'name': 'ADAPT'}	(#20535) ADAPT_MERGE Imputed	ADAPT	/proj/regeps/regep00/studies/ADAPT/data/imputed/ADAPT_MERGE/	p0														experiment
-21618	{'id': 938, 'name': 'ADAPT'}	(#21618) PgPOP Exome Genotyping	ADAPT	/proj/regeps/regep00/studies/ADAPT/data/dna/whole_genome/PgPOP	p0														experiment
-24191	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#24191) AEC_Tesfaigzi Protein Data	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/protein/Somascan/	p0														experiment
-22824	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#22824) Broad_NHBE Pellets for Genotyped_RNA_with Demographics	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/pheno	p0														experiment
-22822	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#22822) Tesfaigzi_BWH_GSA_Array	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/dna/whole_genome/Tesfaigzi_BWH_GSA_Array/	p0														experiment
-22888	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#22888) Tesfaigzi_BWH_GSA_Array_TOPMed	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/dna/whole_genome/Tesfaigzi_BWH_GSA_Array_TOPMed	p0														experiment
-24173	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#24173) Tesfaigzi_HEC-190_Singlecell	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/rna/mrna/Tesfaigzi_HEC-190_Singlecell/	p0														experiment
-20841	{'id': 800, 'name': 'AERD'}	(#20841) AERD_montelukast_PBMC	AERD	/proj/regeps/regep00/studies/AERD/data/rna/mirna/readh/AERD_montelukast_PBMC/	p0														experiment
-21018	{'id': 800, 'name': 'AERD'}	(#21018) AERD_montelukast_sera	AERD	/proj/regeps/regep00/studies/AERD/data/rna/mirna/readh/AERD_montelukast_PBMC/	p0														experiment
-20422	{'id': 1057, 'name': 'AGES'}	(#20422) Freeze 20200502 - Joint-called Genotyping Data	AGES		p0														experiment
-19959	{'id': 1057, 'name': 'AGES'}	(#19959) reykjavik_exome_seq	AGES	/proj/regeps/regep00/studies/AGES/data/dna/exome/reykjavik_exome_seq/	p0														experiment
-14735	{'id': 817, 'name': 'BELT'}	(#14735) BELT GWAS Data	BELT		p0														experiment
-16230	{'id': 982, 'name': 'BIOLIB'}	(#16230) FLCN Exome Sequencing for 2 Birt-Hogg-Dube Patients	BIOLIB		p0														experiment
-16232	{'id': 982, 'name': 'BIOLIB'}	(#16232) Job's Syndrome Whole Exome (1 subject)	BIOLIB		p0														experiment
-16552	{'id': 58, 'name': 'CAMP'}	(#16552) CAMP_LipidView_2017	CAMP	file:///proj/regeps/regep00/studies/CAMP/data/bioassay/CAMP_LipidView_2017	p0														experiment
-19241	{'id': 58, 'name': 'CAMP'}	(#19241) TopMed WGS Data	CAMP	/proj/regeps/regep00/studies/CAMP/data/dna/whole_genome/TopMed/	p0														experiment
-18928	{'id': 58, 'name': 'CAMP'}	(#18928) GWAS_CAMP_RIKEN_2010	CAMP	file:///proj/regeps/regep00/studies/CAMP/data/gwas/GWAS_CAMP_RIKEN_2010/	p0														experiment
-19578	{'id': 58, 'name': 'CAMP'}	(#19578) CAMP_FULL_MERGE_UMich	CAMP	/proj/regeps/regep00/studies/CAMP/data/imputed/CAMP_FULL_MERGE_UMich	p0														experiment
-21158	{'id': 58, 'name': 'CAMP'}	(#21158) TOPMed Metabolomics	CAMP	/proj/regeps/regep00/studies/CAMP/data/metabolite/untargeted/TopMed/	p0														experiment
-23882	{'id': 58, 'name': 'CAMP'}	(#23882) CAMP Metadata	CAMP	/proj/regeps/regep00/studies/CAMP/metadata/	p0														experiment
-16454	{'id': 58, 'name': 'CAMP'}	(#16454) CAMP 27K Methylation Dataset	CAMP	file:///proj/regeps/regep00/studies/CAMP/data/methylation/CAMP_27K	p0														experiment
-20970	{'id': 58, 'name': 'CAMP'}	(#20970) CAMP TopMed Methylation	CAMP	/proj/regeps/regep00/studies/CAMP/data/epigenetic/methylation/TopMed/	p0														experiment
-19825	{'id': 58, 'name': 'CAMP'}	(#19825) A Nasal Brush-based Classifier of Asthma Identified by Machine Learning Analysis of Nasal RNA Sequence Data	CAMP	/udd/reawa/Grant/CAMPnasalRNA/	p0														experiment
-20302	{'id': 58, 'name': 'CAMP'}	(#20302) CAMP Trio SNP Results	CAMP		p0														experiment
-18164	{'id': 58, 'name': 'CAMP'}	(#18164) CAMP_FULL_MERGE	CAMP	file:///proj/regeps/regep00/studies/CAMP/data/gwas/CAMP_FULL_MERGE/	p0														experiment
-18165	{'id': 58, 'name': 'CAMP'}	(#18165) CAMP_FULL_MERGE Anonymized for Barabasi Collaboration	CAMP		p0														experiment
-20575	{'id': 987, 'name': 'CARE'}	(#20575) CARE_SHARP	CARE	/proj/regeps/regep00/studies/CARE/data/gwas/CARE_SHARP/	p0														experiment
-15941	{'id': 987, 'name': 'CARE'}	(#15941) CARE_SHARP Imputed against 1000Genomes Phase3v5	CARE	/proj/regeps/regep00/studies/CARE/data/imputed/CARE_SHARP_vs_1000GP3v5	p0														experiment
-20583	{'id': 987, 'name': 'CARE'}	(#20583) CARE_SHARP_UMich	CARE	/proj/regeps/regep00/studies/CARE/data/imputed/CARE_SHARP_UMich/	p0														experiment
-20574	{'id': 987, 'name': 'CARE'}	(#20574) CARE_SHARP_UMich	CARE	/proj/regeps/regep00/studies/CARE/data/imputed/CARE_SHARP_UMich/	p0														experiment
-22317	{'id': 1115, 'name': 'CHARGE'}	(#22317) RootStudyConsentSet_phs000930.CHARGE_SummaryResults.v9.p1.c1.GRU	CHARGE	/proj/regeps/regep00/studies/CHARGE/data/PhenoGenotypeFiles/	p0														experiment
-23165	{'id': 1137, 'name': 'CHILD'}	(#23165) CHILD_2022	CHILD	/proj/regeps/regep00/studies/CHILD/data/dna/whole_genome/CHILD_2022/	p0														experiment
-21094	{'id': 137, 'name': 'COPDGene'}	(#21094) IgE Quantification (Phase 2)	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/biomarkers/ige/	p0														experiment
-19973	{'id': 137, 'name': 'COPDGene'}	(#19973) Carolan_2014_Resp_Res	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/biomarkers/Carolan_2014_Resp_Res	p0														experiment
-20521	{'id': 137, 'name': 'COPDGene'}	(#20521) TopMed MitochondrialDNA 	COPDGene	/proj/regeps/regep00/studies/GECOPD/data/dna/mitochondrial/TopMed	p0														experiment
-24218	{'id': 137, 'name': 'COPDGene'}	(#24218) F8 Somatic Chip Data	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/dna/somatic/	p0														experiment
-20368	{'id': 137, 'name': 'COPDGene'}	(#20368) TOPMed Telomere Length	COPDGene	/proj/regeps/regep00/studies/GECOPD/data/dna/telomere/TopMed/	p0														experiment
-19234	{'id': 137, 'name': 'COPDGene'}	(#19234) TopMed WGS Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/wgs/TopMed/	p0														experiment
-21151	{'id': 137, 'name': 'COPDGene'}	(#21151) king_ref_GRCh38	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/genotype/data/freezes/king_ref_GRCh38/	p0														experiment
-21323	{'id': 137, 'name': 'COPDGene'}	(#21323) COPDGene TOPMed Blood Methylation	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/epigenetic/methylation/TopMed/Blood/	p0														experiment
-24049	{'id': 137, 'name': 'COPDGene'}	(#24049) COPDGene TOPMed Nasal Methylation	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/epigenetic/methylation/TopMed/Nasal/	p0														experiment
-19897	{'id': 137, 'name': 'COPDGene'}	(#19897) COPDGene_GOLDUproject_JAN2013	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/methylation/COPDGene_GOLDUproject_JAN2013	p0														experiment
-19869	{'id': 137, 'name': 'COPDGene'}	(#19869) COPDGene Excome Chip	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/exome/CleanExomeChip/	p0														experiment
-19805	{'id': 137, 'name': 'COPDGene'}	(#19805) 850K_RefPanel	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/dna/variants/850K_RefPanel/	p0														experiment
-18389	{'id': 137, 'name': 'COPDGene'}	(#18389) COPDGene Unified Genotype Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/genotype/	p0														experiment
-17578	{'id': 137, 'name': 'COPDGene'}	(#17578) COPDGene Canonical GWAS Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/gwas/	p0														experiment
-19253	{'id': 137, 'name': 'COPDGene'}	(#19253) CgAa-HRC-1-1	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/imputed/CgAa-HRC-1-1/	p0														experiment
-14435	{'id': 137, 'name': 'COPDGene'}	(#14435) CgNhw-HRC1-1	COPDGene	file:///proj/regeps/regep00/studies/GECOPD/data/imputed/CgNhw-HRC1-1	p0														experiment
-19448	{'id': 137, 'name': 'COPDGene'}	(#19448) RNA-sequencing across three matched tissues highlights gene expression signatures in COPD	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/analyses/remdj/BRCOPD_three_tissue_expression/	p0														experiment
-21095	{'id': 137, 'name': 'COPDGene'}	(#21095) Sphingolipid Quantification from Russ Bowler	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/metabolite/sphingolipid/	p0														experiment
-21935	{'id': 137, 'name': 'COPDGene'}	(#21935) Metabolite Data	COPDGene	/proj/edith/regeps/regep00/studies/COPDGene/data/metabolite/metabolon	p0														experiment
-24231	{'id': 137, 'name': 'COPDGene'}	(#24231) TOPMed metabolomics	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/metabolite/untargeted/TOPMed	p0														experiment
-19512	{'id': 137, 'name': 'COPDGene'}	(#19512) BRCOPD EPIC Methylation Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/methylation/BRCOPD/blood_airway_epithelial_lung_macrophages/	p0														experiment
-19458	{'id': 137, 'name': 'COPDGene'}	(#19458) COPDGene Phenotype Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/pheno/	p0														experiment
-18356	{'id': 137, 'name': 'COPDGene'}	(#18356) Final10000_Phase1_Rev_31aug16	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/pheno/	p0														experiment
-22728	{'id': 137, 'name': 'COPDGene'}	(#22728) LFU Dataset 10/10/21	COPDGene		p0														experiment
-21747	{'id': 137, 'name': 'COPDGene'}	(#21747) COPDGene_SOMA1_3	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/protein/COPDGene_SOMA1_3	p0														experiment
-22688	{'id': 137, 'name': 'COPDGene'}	(#22688) SomaScan 5.0	COPDGene	/proj/regeps/regep00/studies/TopMed/data/protein/SomaScan_5.0/	p0														experiment
-22993	{'id': 137, 'name': 'COPDGene'}	(#22993) SomaScan_5.0_P2_TAB_13May2021_v2  & SomaScan_5.0_P3_TAB_13May2021_v2	COPDGene	/proj/regeps/regep00/studies/TopMed/data/protein/SomaScan_5.0/data/raw/	p0														experiment
-23281	{'id': 137, 'name': 'COPDGene'}	(#23281) COPDGene rna mrna repjc blood_shortread phase3 Conversion Files	COPDGene		p0														experiment
-21113	{'id': 137, 'name': 'COPDGene'}	(#21113) TOPMED_11.19.2019 nasal_shortread	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/nasal_shortread/	p0														experiment
-22038	{'id': 137, 'name': 'COPDGene'}	(#22038) vdjseq - Chris Vollmers IGH rnaseq data	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/vdjseq/	p0														experiment
-14367	{'id': 137, 'name': 'COPDGene'}	(#14367) COPDGene Blood rnaseq	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/blood_shortread/	p0														experiment
-19886	{'id': 137, 'name': 'COPDGene'}	(#19886) TopMed RNAseq Data	COPDGene		p0														experiment
-21977	{'id': 137, 'name': 'COPDGene'}	(#21977) 850K_RefPanel	COPDGene		p0														experiment
-21821	{'id': 137, 'name': 'COPDGene'}	(#21821) COPDGene rna mirna miRNA Repeats - PKG-0820-01005076	COPDGene		p0														experiment
-23334	{'id': 137, 'name': 'COPDGene'}	(#23334) COPDGene rna mrna repjc phase 2 freeze 5	COPDGene		p0														experiment
-24137	{'id': 137, 'name': 'COPDGene'}	(#24137) COPDGene whole blood microRNA	COPDGene		p0														experiment
-20679	{'id': 137, 'name': 'COPDGene'}	(#20679) Freeze.8-based genotype data for Matrixeqtl	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/rnaseq/BLOOD/QCed_data/eqtl_files/genotype_files/TOPMED8_FREEZE3/	p0														experiment
-24266	{'id': 137, 'name': 'COPDGene'}	(#24266) metabolite.targeted.Omega	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/metabolite/untargeted/Omega/	p0														experiment
-20256	{'id': 78, 'name': 'CRA'}	(#20256) CRA Reference Genotypes for 59 850K QC SNPs	CRA	file:///proj/regeps/regep00/studies/CRA/data/dna/merged/850K_RefSNPs/	p0														experiment
-15873	{'id': 78, 'name': 'CRA'}	(#15873) 2013_CRA_GWAS_FULL_MERGE	CRA	/proj/regeps/regep00/studies/CRA/data/gwas/2013_CRA_GWAS_FULL_MERGE	p0														experiment
-18904	{'id': 78, 'name': 'CRA'}	(#18904) 2015_NHLBI_DCC_GWAS_QC	CRA	file:///proj/regeps/regep00/studies/CRA/data/gwas/2015_NHLBI_DCC_GWAS_QC/	p0														experiment
-18905	{'id': 78, 'name': 'CRA'}	(#18905) NHLBI_DCC_GWAS_QC	CRA	file:///proj/regeps/regep00/studies/CRA/data/gwas/NHLBI_DCC_GWAS_QC/	p0														experiment
-16901	{'id': 78, 'name': 'CRA'}	(#16901) 2013_CRA_GWAS_UMich	CRA	file:///proj/regeps/regep00/studies/CRA/data/imputed/2013_CRA_GWAS_UMich/	p0														experiment
-15875	{'id': 78, 'name': 'CRA'}	(#15875) 2013_CRA_GWAS_vs_1000Genomes_p3v5	CRA	/proj/regeps/regep00/studies/CRA/data/imputed/2013_CRA_GWAS_vs_1000Genomes_p3v5	p0														experiment
-19571	{'id': 78, 'name': 'CRA'}	(#19571) CRA-HRCr1.1	CRA	/proj/regeps/regep00/studies/CRA/data/imputed/CRA-HRCr1.1/	p0														experiment
-21145	{'id': 78, 'name': 'CRA'}	(#21145) TOPMed Metabolomics	CRA	/proj/regeps/regep00/studies/CRA/data/metabolite/untargeted/TopMed/	p0														experiment
-19036	{'id': 78, 'name': 'CRA'}	(#19036) CRA 450K Methylation Data	CRA	file:///udd/rekrv/methylation_projects/CRA_450k/	p0														experiment
-14325	{'id': 78, 'name': 'CRA'}	(#14325) CRA 450K Methylation Dataset	CRA	/proj/regeps/regep00/studies/CRA/data/methylation/450K_PCPGM_726775965-6	p0														experiment
-20249	{'id': 78, 'name': 'CRA'}	(#20249) CRA TopMed Methylation	CRA	file:///proj/regeps/regep00/studies/CRA/data/epigenetic/methylation/TopMed/	p0														experiment
-24135	{'id': 78, 'name': 'CRA'}	(#24135) remmg_issue_20143	CRA		p0														experiment
-18275	{'id': 78, 'name': 'CRA'}	(#18275) Feixiong	CRA	file:///proj/regeps/regep00/studies/CRA/data/wgs/Feixiong/	p0														experiment
-19238	{'id': 78, 'name': 'CRA'}	(#19238) TopMed WGS Data	CRA	file:///proj/regeps/regep00/studies/CRA/data/wgs/TopMed/	p0														experiment
-20596	{'id': 78, 'name': 'CRA'}	(#20596) CRA_Gx	CRA	/proj/regeps/regep00/studies/CRA/data/expression/CRA_Gx/	p0														experiment
-14427	{'id': 768, 'name': 'CSS'}	(#14427) CSS Combined GWAS	CSS		p0														experiment
-17832	{'id': 768, 'name': 'CSS'}	(#17832) CSS GWAS: Axiom_BioBank1WM	CSS	file:///proj/regeps/regep00/studies/CSS/data/gwas/Axiom_BioBank1WM/	p0														experiment
-17877	{'id': 768, 'name': 'CSS'}	(#17877) Axiom_BioBank1WM_UMich	CSS	file:///proj/regeps/regep00/studies/CSS/data/imputed/Axiom_BioBank1WM_UMich/	p0														experiment
-15177	{'id': 768, 'name': 'CSS'}	(#15177) CSS Imputed against 1000GenomesPhase3v5_ALL	CSS		p0														experiment
-17285	{'id': 768, 'name': 'CSS'}	(#17285) CSS_HRCr1.1	CSS	file:///proj/regeps/regep00/studies/CSS/data/dna/whole_genome/CSS_HRCr1.1/	p0														experiment
-17160	{'id': 99, 'name': 'ECLIPSE'}	(#17160) COPD_ECLIPSE_2009	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/gwas/COPD_ECLIPSE_2009/	p0														experiment
-17159	{'id': 99, 'name': 'ECLIPSE'}	(#17159) COPD_ECLIPSE_2009_2017 Phased Haplotypes	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/haplotypes/COPD_ECLIPSE_2009_2017/	p0														experiment
-18685	{'id': 99, 'name': 'ECLIPSE'}	(#18685) ECLIPSE Unified Genotype Data	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/geno/	p0														experiment
-16009	{'id': 99, 'name': 'ECLIPSE'}	(#16009) ECLIPSE chrX imputed against 1000G Phase3 v5	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/ECLIPSE_vs_1000GPhase3v5	p0														experiment
-19327	{'id': 99, 'name': 'ECLIPSE'}	(#19327) ECLIPSE_HRC1-1	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/ECLIPSE_HRC1-1/	p0														experiment
-17164	{'id': 99, 'name': 'ECLIPSE'}	(#17164) ECLIPSE_vs_1000GPhase1v3	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/ECLIPSE_vs_1000GPhase1v3/	p0														experiment
-18510	{'id': 99, 'name': 'ECLIPSE'}	(#18510) EclipseTopMed	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/EclipseTopMed/	p0														experiment
-20766	{'id': 99, 'name': 'ECLIPSE'}	(#20766) TOPMed f8 missing NWD-IDs	ECLIPSE		p0														experiment
-16963	{'id': 99, 'name': 'ECLIPSE'}	(#16963) TopMed ECLIPSE Submission to dbGaP	ECLIPSE		p0														experiment
-19240	{'id': 99, 'name': 'ECLIPSE'}	(#19240) TopMed WGS Data	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/wgs/TopMed/	p0														experiment
-19545	{'id': 99, 'name': 'ECLIPSE'}	(#19545) methyECLIPSE_clean_1430052791_V10	ECLIPSE	/proj/regeps/regep00/studies/ECLIPSE/data/epigenetic/methylation/ECLIPSE_450K	p0														experiment
-13016	{'id': 106, 'name': 'EOCOPD'}	(#13016) UW 1300 EOCOPD ICGN exome seq	EOCOPD	/proj/regeps/regep00/studies/EOCOPD/data/exome/EOCOPD_ICGN_1300_UW/	p0														experiment
-19239	{'id': 106, 'name': 'EOCOPD'}	(#19239) TopMed WGS Data	EOCOPD	file:///proj/regeps/regep00/studies/EOCOPD/data/wgs/TopMed/	p0														experiment
-19541	{'id': 106, 'name': 'EOCOPD'}	(#19541) EOCOPD Exome Data	EOCOPD	/proj/regeps/regep00/studies/EOCOPD/data/exome/BWH_Silverman_Exome6k	p0														experiment
-24050	{'id': 1100, 'name': 'ESCAPE'}	(#24050) Castaldi_LungCancer_GSA	ESCAPE	/proj/regeps/regep00/studies/ESCAPE/data/dna/whole_genome/Castaldi_LungCancer_GSA	p0														experiment
-22175	{'id': 1100, 'name': 'ESCAPE'}	(#22175) ESCAPE_GDA_2021	ESCAPE	/proj/regeps/regep00/studies/ESCAPE/data/dna/whole_genome/ESCAPE_GDA_2021/	p0														experiment
-24104	{'id': 1100, 'name': 'ESCAPE'}	(#24104) Phenotype Data	ESCAPE	/proj/regeps/regep00/studies/ESCAPE/data/pheno/	p0														experiment
-21717	{'id': 480, 'name': 'EVE'}	(#21717) EVE_Caucasians_vs_1000GenomesP3v5	EVE	/proj/regeps/regep00/studies/EVE/data/imputed/EVE_Caucasians_vs_1000GenomesP3v5	p0														experiment
-17584	{'id': 942, 'name': 'Eczema/Atopic Dermatitis'}	(#17584) Create a final data set and dd for the Eczema/Atopic Dermatitis study	Eczema/Atopic Dermatitis		p0														experiment
-21468	{'id': 1085, 'name': 'ExternalCellLines'}	(#21468) randell_8.18.2020 (bronchial_epithelial_cells)	ExternalCellLines	/proj/regeps/regep00/studies/ExternalCellLines/data/rna/mrna/bec/randell_8.18.2020/	p0														experiment
-18890	{'id': 126, 'name': 'FOREST'}	(#18890) FOREST_MEGAChip_UMich	FOREST	file:///proj/regeps/regep00/studies/Forest/data/imputation/FOREST_MEGAChip_UMich/	p0														experiment
-15692	{'id': 126, 'name': 'FOREST'}	(#15692) FOREST MEGA Chip GWAS	FOREST	file:///proj/regeps/regep00/studies/Forest/data/gwas/FOREST_MEGAChip_2017	p0														experiment
-19352	{'id': 120, 'name': 'Fetal Lung'}	(#19352) FetalLung_GWAS_2011_UMich	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/imputed/FetalLung_GWAS_2011_UMich/	p0														experiment
-19341	{'id': 120, 'name': 'Fetal Lung'}	(#19341) FetalLung_GWAS_2011	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/gwas/FetalLung_GWAS_2011/	p0														experiment
-19231	{'id': 120, 'name': 'Fetal Lung'}	(#19231) 56919819-4_M450KChanning	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/methylation/56919819-4_M450KChanning/	p0														experiment
-19424	{'id': 120, 'name': 'Fetal Lung'}	(#19424) Fetal Lung June 2010	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/expression/Fetal_Lung_June_2010/	p0														experiment
-17638	{'id': 120, 'name': 'Fetal Lung'}	(#17638) FetalLung 850K Methylation Data	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/methylation/FetalLung_850K_2017/	p0														experiment
-18922	{'id': 120, 'name': 'Fetal Lung'}	(#18922) FetalLung Expression Data 2012_Affymetrix_FetalLung	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/expression/2012_Affymetrix_FetalLung/	p0														experiment
-18923	{'id': 120, 'name': 'Fetal Lung'}	(#18923) FetalLung Expression Data 2012_Affymetrix_Placenta	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/expression/2012_Affymetrix_Placenta/	p0														experiment
-18413	{'id': 120, 'name': 'Fetal Lung'}	(#18413) FetalLung Phenotype Data	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/phenotype/FetalLung_2013-05-30_478_samples_QC_FINAL.csv	p0														experiment
-15870	{'id': 120, 'name': 'Fetal Lung'}	(#15870) FetalLung_GWAS_2012	Fetal Lung	/proj/regeps/regep00/studies/FetalLung/data/gwas/FetalLung_GWAS_2012	p0														experiment
-17374	{'id': 120, 'name': 'Fetal Lung'}	(#17374) FetalLung_GWAS_2012_UMich	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/imputed/FetalLung_GWAS_2012_UMich/	p0														experiment
-17831	{'id': 120, 'name': 'Fetal Lung'}	(#17831) Hersh_PT8_AERD_Fetal_Lung_PT1_miRNA_Sequencing_Data	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/mirnaseq/Hersh_PT8_AERD_Fetal_Lung_PT1_miRNA_Sequencing_Data/	p0														experiment
-20886	{'id': 929, 'name': 'Fredberg'}	(#20886) Mechanical Forces of Asthma ISOMER Dataset	Fredberg	/proj/regeps/regep00/studies/Fredberg/manuscripts/nhmja/Mechanical_forces_asthma/ISOMER/	p0														experiment
-17529	{'id': 785, 'name': 'GERA'}	(#17529) GWAS Kaiser_PSN185	GERA	file:///proj/regeps/regep00/studies/GERA/data/gwas/Kaiser_PSN185/genotype_plinks/	p0														experiment
-21004	{'id': 785, 'name': 'GERA'}	(#21004) Imputed Kaiser_PSN185	GERA	/proj/regeps/regep00/studies/GERA/data/imputed/Kaiser_PSN185/	p0														experiment
-17539	{'id': 785, 'name': 'GERA'}	(#17539) Kaiser_PSN185 Filtered for Missingness and HWE	GERA	file:///proj/regeps/regep00/studies/GERA/data/gwas/Kaiser_PSN185/filtered/	p0														experiment
-18975	{'id': 785, 'name': 'GERA'}	(#18975) Kaiser_PSN185_UMich	GERA	file:///proj/regeps/regep00/studies/GERA/data/imputed/Kaiser_PSN185_UMich/	p0														experiment
-18235	{'id': 785, 'name': 'GERA'}	(#18235) PSN185_2018: Updated Phenotype Data for PSN185	GERA	file:///proj/regeps/regep00/studies/GERA/data/multi/PSN185_2018/	p0														experiment
-18307	{'id': 785, 'name': 'GERA'}	(#18307) PSN185_RaceData: PSN185/Iribarren/Asthma: one additional file	GERA	file:///proj/regeps/regep00/studies/GERA/data/multi/PSN185_RaceData/	p0														experiment
-20921	{'id': 930, 'name': 'GTEx'}	(#20921) GTEx v8	GTEx	/proj/rerefs/reref00/Broad/GTEx_v8/	p0														experiment
-17699	{'id': 930, 'name': 'GTEx'}	(#17699) GTEx_v7	GTEx	file:///proj/rerefs/reref00/Broad/GTEx_v7/	p0														experiment
-23145	{'id': 1156, 'name': 'GrazCOPD-PH'}	(#23145) Graz_cohort_clinical_data	GrazCOPD-PH	/proj/regeps/regep00/studies/GrazCOPD-PH/data/pheno/	p0														experiment
-22764	{'id': 1156, 'name': 'GrazCOPD-PH'}	(#22764) graz_copd: BSA_0503_LBI_COPD	GrazCOPD-PH	/proj/regeps/regep00/studies/GrazCOPD-PH/data/dna/whole_genome/graz_copd/	p0														experiment
-19977	{'id': 555, 'name': 'HASM'}	(#19977) 2013_HASM_Omni2.5	HASM	/proj/regeps/regep00/studies/HASM/data/gwas/2013_HASM_Omni2.5/	p0														experiment
-19841	{'id': 147, 'name': 'ICGN'}	(#19841) COPD Cohorts Affymetrix Axiom Genotyping	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/AxiomGenotyping/	p0														experiment
-22887	{'id': 147, 'name': 'ICGN'}	(#22887) AxiomGenotyping_TOPMed	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/AxiomGenotyping_TOPMed/	p0														experiment
-21037	{'id': 147, 'name': 'ICGN'}	(#21037) Silverman_WGS_COPD_744	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/Silverman_WGS_COPD_744/	p0														experiment
-23026	{'id': 147, 'name': 'ICGN'}	(#23026) TopMed freeze.10 wgs	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/TopMed/	p0														experiment
-19032	{'id': 1052, 'name': 'IIPGA'}	(#19032) Innate Immunity Project Data	IIPGA	file:///proj/regeps/regep00/studies/IIPGA/data/genotype/	p0														experiment
-16614	{'id': 863, 'name': 'IPF NET'}	(#16614) Omni2.5Exome_2017	IPF NET	file:///proj/reipfs/reipf00/data/exome/Omni2.5_Exome_2017/	p0														experiment
-20540	{'id': 172, 'name': 'LOCCS'}	(#20540) LOLCSE_HRC_UMich	LOCCS	/proj/regeps/regep00/studies/LOCCS/data/dna/whole_genome/LOLCSE_HRC_UMich	p0														experiment
-20537	{'id': 172, 'name': 'LOCCS'}	(#20537) RIKEN_SEPRACOR_LOCCS_LODO_2009	LOCCS	/proj/regeps/regep00/studies/LOCCS/data/gwas/RIKEN_SEPRACOR_LOCCS_LODO_2009/	p0														experiment
-14591	{'id': 172, 'name': 'LOCCS'}	(#14591) LOCCS, LODO, SEPRACOR data imputed against 1000GenomesPhase3v5	LOCCS	/proj/regeps/regep00/studies/LOCCS/data/imputed/RIKEN_LOLCSE_vs_1000GenomesPhase3v5/	p0														experiment
-18369	{'id': 796, 'name': 'LOTT'}	"(#18369) ""LOTT 2015"" Expression Data"	LOTT	file:///proj/regeps/regep00/studies/LOTT/data/expression/LOTT\ 2015/	p0														experiment
-14659	{'id': 796, 'name': 'LOTT'}	(#14659) LOTT GWAS	LOTT		p0														experiment
-15852	{'id': 796, 'name': 'LOTT'}	(#15852) LOTT Phenotype Data	LOTT	/proj/regeps/regep00/studies/LOTT/data/phenotype	p0														experiment
-17185	{'id': 796, 'name': 'LOTT'}	(#17185) LOTT_GWAS_2016_UMich	LOTT	file:///proj/regeps/regep00/studies/LOTT/data/imputed/LOTT_GWAS_2016_UMich/	p0														experiment
-18370	{'id': 796, 'name': 'LOTT'}	(#18370) MAF/R-Squared FIltered Impute Results for Minseok's Manuscript	LOTT	file:///proj/regeps/regep00/studies/LOTT/analyses/remse/3.GWAS_Imputated/0.Imputated_343subjects/	p0														experiment
-17053	{'id': 176, 'name': 'LTCOPD'}	(#17053) LTCOPD Genotype Data	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/genotype/	p0														experiment
-14363	{'id': 176, 'name': 'LTCOPD'}	(#14363) finalData_vs_1000GPh3V5	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/imputed/finalData_vs_1000GPh3V5/	p0														experiment
-17050	{'id': 176, 'name': 'LTCOPD'}	(#17050) LTCOPD Methylation Data	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/methylation/	p0														experiment
-17051	{'id': 176, 'name': 'LTCOPD'}	(#17051) LTCOPD Phenotype Data	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/phenotype/	p0														experiment
-19252	{'id': 176, 'name': 'LTCOPD'}	(#19252) LTCOPD TopMed WGS Data	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/wgs/TopMed/	p0														experiment
-24243	{'id': 532, 'name': 'LTRC'}	(#24243) TOPMed Mitochondrial Copy Number and Heteroplasmy Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/dna/mitochondrial/TOPMed/	p0														experiment
-21178	{'id': 532, 'name': 'LTRC'}	(#21178) 850K_control_snp_ref	LTRC	/proj/regeps/regep00/studies/LTRC/data/dna/targeted/850K_control_snp_ref/	p0														experiment
-20642	{'id': 532, 'name': 'LTRC'}	(#20642) LTRC TOPMed WGS	LTRC	/proj/regeps/regep00/studies/LTRC/data/dna/whole_genome/TopMed/	p0														experiment
-20644	{'id': 532, 'name': 'LTRC'}	(#20644) TOPMed Blood Methylation Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/TopMed/Blood/	p0														experiment
-24098	{'id': 532, 'name': 'LTRC'}	(#24098) TOPMed Lung Methylation Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/TopMed/Lung/	p0														experiment
-20272	{'id': 532, 'name': 'LTRC'}	(#20272) LTRC Phenotype Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/phenotype/	p0														experiment
-22940	{'id': 532, 'name': 'LTRC'}	(#22940) RNA Methylation	LTRC	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/2022_RNA_Methylation	p0														experiment
-20643	{'id': 532, 'name': 'LTRC'}	(#20643) LTRC RNASeq Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/rna/mrna/lung_shortread/	p0														experiment
-23838	{'id': 951, 'name': 'MGBBiobank'}	(#23838) ODOLLFA_2022 mirnaseq	MGBBiobank	/proj/regeps/regep00/studies/MGBBiobank/data/rna/mirnaseq/ODOLLFA_2022/	p0														experiment
-24292	{'id': 951, 'name': 'MGBBiobank'}	(#24292) PHASIC Metabolomics	MGBBiobank	/proj/regeps/regep00/studies/MGBBiobank/data/metabolomics/untargeted/PHASIC/	p0														experiment
-18272	{'id': 951, 'name': 'MGBBiobank'}	(#18272) Partners Biobank Asthma Phenotypes	MGBBiobank		p0														experiment
-18268	{'id': 951, 'name': 'MGBBiobank'}	(#18268) Partners Biobank Imputed Data	MGBBiobank	file:///proj/regeps/regep00/studies/PartnersBiobank/data/imputed/	p0														experiment
-18269	{'id': 951, 'name': 'MGBBiobank'}	(#18269) Partners Biobank Phenotype Data	MGBBiobank		p0														experiment
-15401	{'id': 951, 'name': 'MGBBiobank'}	(#15401) Partners Biobank mega_v1b3 merged with Partners Biobank mega_v2a2_r1	MGBBiobank	file:///proj/regeps/regep00/studies/eMERGE/data/imputed/PartnersBiobank/biobank_mega_v1v2_merge	p0														experiment
-14465	{'id': 186, 'name': 'NACC'}	(#14465) NACC Phenotype Dataset	NACC		p0														experiment
-14745	{'id': 188, 'name': 'NAS'}	(#14745) NAS GWAS Megachip 2016	NAS		p0														experiment
-16252	{'id': 188, 'name': 'NAS'}	(#16252) 2016_NAS_GWAS_Megachip Imputed against 1000Genomes_Phase3_v5_ALL	NAS		p0														experiment
-21368	{'id': 188, 'name': 'NAS'}	(#21368) Revisions for hprke MetabolomicsOfLungFunction Manuscript	NAS	/proj/regeps/regep00/studies/NAS/data/metabolomics/	p0														experiment
-21072	{'id': 188, 'name': 'NAS'}	(#21072) NAS Metabolomic Data	NAS	/proj/regeps/regep00/studies/NAS/data/metabolomics/	p0														experiment
-15129	{'id': 188, 'name': 'NAS'}	(#15129) NAS Phenotype Data	NAS		p0														experiment
-19892	{'id': 1056, 'name': 'NBC'}	(#19892) /proj/eepcb/eepcb00	NBC		p0														experiment
-18719	{'id': 557, 'name': 'NETT'}	(#18719) NETTNAS Unified Genotypes	NETT	file:///proj/regeps/regep00/studies/NETT/data/geno/	p0														experiment
-18718	{'id': 557, 'name': 'NETT'}	(#18718) NETT_NAS GWAS	NETT	file:///proj/regeps/regep00/studies/NETT/data/gwas/NETT_NAS/	p0														experiment
-19007	{'id': 557, 'name': 'NETT'}	(#19007) TCGS_FINAL	NETT	file:///proj/regeps/regep00/studies/TCGS/data/gwas/TCGS_FINAL/	p0														experiment
-18431	{'id': 557, 'name': 'NETT'}	(#18431) NETTNAS_vs_HRC	NETT	file:///proj/regeps/regep00/studies/NETT/data/imputed/NETTNAS_vs_HRC/	p0														experiment
-19027	{'id': 557, 'name': 'NETT'}	(#19027) recs100	NETT	file:///proj/regeps/regep00/studies/NETT/data/misc/recs100/	p0														experiment
-18511	{'id': 710, 'name': 'NORWAY'}	(#18511) GenKOLS_TopMed	NORWAY	file:///proj/regeps/regep00/studies/GENKOLS/data/imputed/GenKOLS_TopMed/	p0														experiment
-18731	{'id': 710, 'name': 'NORWAY'}	(#18731) NORWAY_Hrc11	NORWAY	file:///proj/regeps/regep00/studies/NORWAY/data/imputed/NORWAY_Hrc11/	p0														experiment
-18732	{'id': 710, 'name': 'NORWAY'}	(#18732) NORWAY Unified Genotypes	NORWAY	file:///proj/regeps/regep00/studies/NORWAY/data/geno/	p0														experiment
-16011	{'id': 710, 'name': 'NORWAY'}	(#16011) NORWAY_GSK_COPD_2009	NORWAY	file:///proj/regeps/regep00/studies/NORWAY/data/gwas/NORWAY_GSK_COPD_2009	p0														experiment
-20008	{'id': 710, 'name': 'NORWAY'}	(#20008) NORWAY Phenotype Data	NORWAY	/proj/regeps/regep00/studies/NORWAY/data/phenotype/	p0														experiment
-23923	{'id': 1131, 'name': 'OBTRIC'}	(#23923) OBTRIC rna mirna rehom PKG-0822-01005588 2022-12-19_for_rpc15 221208_NB552221_0127_AH5YNCBGXN 221208_NB551475_0306_AH5YKKBGXN	OBTRIC		p0														experiment
-23060	{'id': 1131, 'name': 'OBTRIC'}	(#23060) OBTRIC rna mrna rehom  220330_NB552221_0108_AH7WNKBGXL	OBTRIC		p0														experiment
-22702	{'id': 1131, 'name': 'OBTRIC'}	(#22702) OBTRIC rna mrna rehom data download and alignment qc	OBTRIC		p0														experiment
-22034	{'id': 92, 'name': 'PILOT Study Projects'}	(#22034) External Finotto UK Erlangen	PILOT Study Projects	/proj/regeps/regep00/studies/UKErlangen/data/epigenetic/methylation/finotto/data/raw/	p0														experiment
-23315	{'id': 92, 'name': 'PILOT Study Projects'}	(#23315) PDD rna mrna remhc PCLS contrast application 3	PILOT Study Projects		p0														experiment
-22416	{'id': 92, 'name': 'PILOT Study Projects'}	(#22416) PDD rna mrna remhc download, align, quantify	PILOT Study Projects		p0														experiment
-23318	{'id': 92, 'name': 'PILOT Study Projects'}	(#23318) PDD rna mrna remhc pcls contrast app 3 - correlation between pre sva post sva	PILOT Study Projects		p0														experiment
-23319	{'id': 92, 'name': 'PILOT Study Projects'}	(#23319) PDD rna mrna remhc pcls contrast app 3 overlap of top 10 genes pre sva post sva	PILOT Study Projects		p0														experiment
-24121	{'id': 92, 'name': 'PILOT Study Projects'}	(#24121) Sequoia rna mrna rehom 	PILOT Study Projects		p0														experiment
-23830	{'id': 92, 'name': 'PILOT Study Projects'}	(#23830) pilot rna mrna exome restw lung FFPE 35932779149-5_NJH-PPG_FC1 PKG-0322-01005452 221025_NB552221_0121_AH7JF5AFX3 2022-11-09_for_rpc15	PILOT Study Projects		p0														experiment
-24160	{'id': 92, 'name': 'PILOT Study Projects'}	(#24160) pilot rna scRNA relug data download	PILOT Study Projects		p0														experiment
-23025	{'id': 207, 'name': 'PLCOPD'}	(#23025) TopMed freeze.10 wgs	PLCOPD		p0														experiment
-20106	{'id': 957, 'name': 'PPMI'}	(#20106) 2018-12-05_for_rpc15	PPMI	/proj/regeps/regep00/studies/PPMI/data/exome/2018-12-05_for_rpc15/	p0														experiment
-20347	{'id': 957, 'name': 'PPMI'}	(#20347) Calculate Missing variables in PPMI transplant REDCAP	PPMI		p0														experiment
-20400	{'id': 957, 'name': 'PPMI'}	(#20400) Data Set Cleaning/ Fill in Blank Lab Values in REDCAP	PPMI		p0														experiment
-19401	{'id': 957, 'name': 'PPMI'}	(#19401) MUC5B SNP Results	PPMI	/proj/regeps/regep00/studies/PPMI/data/dna/targeted/MUC5B/	p0														experiment
-20848	{'id': 957, 'name': 'PPMI'}	(#20848) PPMI 850K dataset QC (second batch) 	PPMI		p0														experiment
-15522	{'id': 957, 'name': 'PPMI'}	(#15522) PPMI Phenotype Data	PPMI		p0														experiment
-20242	{'id': 957, 'name': 'PPMI'}	(#20242) PPMI TERC Data	PPMI	/proj/regeps/regep00/studies/PPMI/data/dna/exome/TERC/	p0														experiment
-15521	{'id': 957, 'name': 'PPMI'}	(#15521) PPMI Telomere Length	PPMI	file:///proj/regeps/regep00/studies/PPMI/data/phenotype/Telomere_Data_2016	p0														experiment
-20175	{'id': 957, 'name': 'PPMI'}	(#20175) PPMI Unified Genotype Data	PPMI	/proj/regeps/regep00/studies/PPMI/data/dna/merged/PPMI_GeneticData/	p0														experiment
-20899	{'id': 957, 'name': 'PPMI'}	(#20899) PPMI WES Tracking 	PPMI		p0														experiment
-17762	{'id': 957, 'name': 'PPMI'}	(#17762) PPMI_ExomeSeq_2017	PPMI	file:///proj/regeps/regep00/studies/PPMI/data/exome/PPMI_ExomeSeq_2017/	p0														experiment
-16541	{'id': 957, 'name': 'PPMI'}	(#16541) PPMI_M850K_2017	PPMI	file:///proj/regeps/regep00/studies/PPMI/data/methylation/PPMI_M850K_2017/	p0														experiment
-20148	{'id': 957, 'name': 'PPMI'}	(#20148) Partners Biobank Sample Tracking	PPMI		p0														experiment
-20342	{'id': 957, 'name': 'PPMI'}	(#20342) Pulmonary Genetics Stem Cell Biobank Data Import	PPMI		p0														experiment
-20344	{'id': 957, 'name': 'PPMI'}	(#20344) RPDR import into Asthma Samsung Registry	PPMI		p0														experiment
-19555	{'id': 957, 'name': 'PPMI'}	(#19555) Telomere Length Batch 3	PPMI		p0														experiment
-24158	{'id': 1154, 'name': 'Physionet'}	(#24158) MIMIC-IV	Physionet	/proj/regeps/regep00/studies/Physionet/data/phenotype/MIMIC-IV/	p0														experiment
-24159	{'id': 1154, 'name': 'Physionet'}	(#24159) eICU	Physionet	/proj/regeps/regep00/studies/Physionet/data/phenotype/eICU	p0														experiment
-19217	{'id': 588, 'name': 'Reference Datasets'}	(#19217) hg38	Reference Datasets	file:///proj/rerefs/reref00/UCSC/hg38/	p0														experiment
-21253	{'id': 588, 'name': 'Reference Datasets'}	(#21253) HGDP	Reference Datasets	/proj/rerefs/reref00/dna/whole/HGDP	p0														experiment
-18467	{'id': 588, 'name': 'Reference Datasets'}	(#18467) 1000Genomes_Phase1_v3	Reference Datasets	file:///proj/rerefs/reref00/1000Genomes_Phase1_v3/	p0														experiment
-20705	{'id': 588, 'name': 'Reference Datasets'}	(#20705) Ensembl Release-94	Reference Datasets	/proj/rerefs/reref00/Ensembl/release-94/	p0														experiment
-17275	{'id': 588, 'name': 'Reference Datasets'}	(#17275) IconDB GWAS	Reference Datasets	file:///proj/rerefs/reref00/Illumina/iconDB/cleaned/	p0														experiment
-18486	{'id': 588, 'name': 'Reference Datasets'}	(#18486) 2018_GIANT_plus_UKBB	Reference Datasets	file:///proj/rerefs/reref00/Broad/GIANT/2018_GIANT_plus_UKBB/	p0														experiment
-18362	{'id': 588, 'name': 'Reference Datasets'}	(#18362) CAD	Reference Datasets	file:///proj/rerefs/reref00/GWASSummaryStats/cad/	p0														experiment
-18364	{'id': 588, 'name': 'Reference Datasets'}	(#18364) Diagram: Type 2 Diabetes	Reference Datasets		p0														experiment
-18361	{'id': 588, 'name': 'Reference Datasets'}	(#18361) GWAS Anthropometric 2015 BMI	Reference Datasets	file:///proj/rerefs/reref00/GWASSummaryStats/bmi/	p0														experiment
-19112	{'id': 588, 'name': 'Reference Datasets'}	(#19112) PMID 27863252: The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease	Reference Datasets	file:///proj/rerefs/reref00/PubMed/27863252/	p0														experiment
-19107	{'id': 588, 'name': 'Reference Datasets'}	(#19107) PMID 28209224: Systematic Evaluation of Pleiotropy Identifies 6 Further Loci Associated With Coronary Artery Disease	Reference Datasets	file:///proj/rerefs/reref00/PubMed/28209224/	p0														experiment
-19104	{'id': 588, 'name': 'Reference Datasets'}	(#19104) PMID 28604731: Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits	Reference Datasets	file:///proj/rerefs/reref00/PubMed/28604731/	p0														experiment
-18363	{'id': 588, 'name': 'Reference Datasets'}	(#18363) SSGAC: Depression	Reference Datasets	file:///proj/rerefs/reref00/GWASSummaryStats/depress/	p0														experiment
-18360	{'id': 588, 'name': 'Reference Datasets'}	(#18360) The GEnetic Factors for OSteoporosis (GEFOS): bmd	Reference Datasets	file:///proj/rerefs/reref00/GWASSummaryStats/bmd/	p0														experiment
-16965	{'id': 588, 'name': 'Reference Datasets'}	(#16965) TCIA IvyGAP Data	Reference Datasets	file:///proj/rerefs/reref00/TCIA/Ivy_GAP/	p0														experiment
-17276	{'id': 588, 'name': 'Reference Datasets'}	(#17276) IcondDB Imputed on  the UMich Server	Reference Datasets	file:///proj/rerefs/reref00/Illumina/iconDB/imputed_vs_1000GP3v5	p0														experiment
-21636	{'id': 588, 'name': 'Reference Datasets'}	(#21636) dbSNP 154	Reference Datasets	/proj/rerefs/reref00/dbsnp/snp154/	p0														experiment
-19137	{'id': 588, 'name': 'Reference Datasets'}	(#19137) miRBase Release 22	Reference Datasets	file:///proj/rerefs/reref00/mirbase/22/	p0														experiment
-19122	{'id': 588, 'name': 'Reference Datasets'}	(#19122) PMID 28369058: Mapping of 79 loci for 83 plasma protein biomarkers in cardiovascular disease	Reference Datasets	file://proj/rerefs/reref00/PubMed/28369058/	p0														experiment
-22349	{'id': 588, 'name': 'Reference Datasets'}	(#22349) rna_binding_protein_KD	Reference Datasets	/proj/rerefs/reref00/ENCODE/rna/rna_binding_protein_KD/	p0														experiment
-24066	{'id': 588, 'name': 'Reference Datasets'}	(#24066) Barby HCA	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/Barby/	p0														experiment
-24086	{'id': 588, 'name': 'Reference Datasets'}	"(#24086) Crystal																		"	Reference Datasets		p0														experiment
-24078	{'id': 588, 'name': 'Reference Datasets'}	(#24078) E-MTAB-8221 (Spence)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/Spence/	p0														experiment
-24061	{'id': 588, 'name': 'Reference Datasets'}	(#24061) EGAS00001001755 (Teichmann)	Reference Datasets		p0														experiment
-24085	{'id': 588, 'name': 'Reference Datasets'}	(#24085) EGAS00001004082 (Deprez)	Reference Datasets		p0														experiment
-24064	{'id': 588, 'name': 'Reference Datasets'}	(#24064) GSE102592 (Peng)	Reference Datasets		p0														experiment
-24065	{'id': 588, 'name': 'Reference Datasets'}	(#24065) GSE103918 (Kotton)	Reference Datasets		p0														experiment
-24058	{'id': 588, 'name': 'Reference Datasets'}	(#24058) GSE122960 (Misharin_Reyfman)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE122960/	p0														experiment
-24059	{'id': 588, 'name': 'Reference Datasets'}	(#24059) GSE126111 (Hanley)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE122960	p0														experiment
-24057	{'id': 588, 'name': 'Reference Datasets'}	(#24057) GSE128033 (Lafyatis_Morse)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE128033/	p0														experiment
-24056	{'id': 588, 'name': 'Reference Datasets'}	(#24056) GSE128169 (Lafyatis_Valenzi)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE128169/	p0														experiment
-24063	{'id': 588, 'name': 'Reference Datasets'}	(#24063) GSE130148 (Teichmann)	Reference Datasets		p0														experiment
-24082	{'id': 588, 'name': 'Reference Datasets'}	(#24082) GSE132771 (Sheppard)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE132771/GSE132771/	p0														experiment
-24083	{'id': 588, 'name': 'Reference Datasets'}	(#24083) GSE133747 (Niklason)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE133747/GSE133747/	p0														experiment
-24077	{'id': 588, 'name': 'Reference Datasets'}	(#24077) GSE134174 (Seibold)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE134174/GSE134174/	p0														experiment
-24055	{'id': 588, 'name': 'Reference Datasets'}	(#24055) GSE135893 (Kropski)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE135893/	p0														experiment
-24084	{'id': 588, 'name': 'Reference Datasets'}	(#24084) GSE136831 (Naftali Kaminski)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE136831/	p0														experiment
-18375	{'id': 588, 'name': 'Reference Datasets'}	(#18375) Human Cell Atlas Preview Datasets	Reference Datasets	file:///proj/rerefs/reref00/HumanCellAtlas/	p0														experiment
-24060	{'id': 588, 'name': 'Reference Datasets'}	(#24060) Human Lung Cell Atlas (HLCA) v1	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/HLCA_v1/	p0														experiment
-24067	{'id': 588, 'name': 'Reference Datasets'}	(#24067) Krasnow	Reference Datasets		p0														experiment
-24068	{'id': 588, 'name': 'Reference Datasets'}	(#24068) Linarsson (unpublished)	Reference Datasets		p0														experiment
-24070	{'id': 588, 'name': 'Reference Datasets'}	"(#24070) Meyer_b	(unpublished)"	Reference Datasets		p0														experiment
-24071	{'id': 588, 'name': 'Reference Datasets'}	(#24071) Misharin (unpublished)	Reference Datasets		p0														experiment
-24069	{'id': 588, 'name': 'Reference Datasets'}	(#24069) PRJEB31843 (Meyer_a)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/Meyer_a/	p0														experiment
-24072	{'id': 588, 'name': 'Reference Datasets'}	(#24072) Rawlins (unpublished)	Reference Datasets		p0														experiment
-24073	{'id': 588, 'name': 'Reference Datasets'}	(#24073) Regev (unpublished)	Reference Datasets		p0														experiment
-24074	{'id': 588, 'name': 'Reference Datasets'}	(#24074) Regev_Rajagopal	Reference Datasets		p0														experiment
-24075	{'id': 588, 'name': 'Reference Datasets'}	(#24075) Schultze (unpublished)	Reference Datasets		p0														experiment
-24076	{'id': 588, 'name': 'Reference Datasets'}	(#24076) Schultze_Falk (unpublished)	Reference Datasets		p0														experiment
-24062	{'id': 588, 'name': 'Reference Datasets'}	"(#24062) Teichmann	EGAS00001002649"	Reference Datasets		p0														experiment
-24079	{'id': 588, 'name': 'Reference Datasets'}	(#24079) Whitsett_Xu_10X	Reference Datasets		p0														experiment
-24080	{'id': 588, 'name': 'Reference Datasets'}	(#24080) Whitsett_Xu_dropSeq (unpublished)	Reference Datasets		p0														experiment
-24081	{'id': 588, 'name': 'Reference Datasets'}	(#24081) Xavier (unpublished)	Reference Datasets		p0														experiment
-18689	{'id': 588, 'name': 'Reference Datasets'}	(#18689) CEU SomaLogic pQTLs	Reference Datasets	file:///proj/rerefs/reref00/Cambridge/CEU/SomaLogic_pQTLs/	p0														experiment
-23850	{'id': 588, 'name': 'Reference Datasets'}	(#23850) Christensen-Lab-Dartmouth/MethylNet	Reference Datasets	/proj/rerefs/reref00/Christensen-Lab-Dartmouth/MethylNet/	p0														experiment
-22644	{'id': 588, 'name': 'Reference Datasets'}	(#22644) EBI/eQTLCatalogue	Reference Datasets		p0														experiment
-22352	{'id': 588, 'name': 'Reference Datasets'}	(#22352) GENCODE	Reference Datasets		p0														experiment
-23717	{'id': 588, 'name': 'Reference Datasets'}	(#23717) GSE152779 - with liftover to GRCh38	Reference Datasets	/proj/rerefs/reref00/GEO/GSE152779/	p0														experiment
-19128	{'id': 588, 'name': 'Reference Datasets'}	(#19128) GSE92742: L1000 Connectivity Map perturbational profiles from Broad Institute LINCS Center for Transcriptomics LINCS Pilot PHASE 	Reference Datasets	file:///proj/rerefs/reref00/Broad/CMAP/	p0														experiment
-24041	{'id': 588, 'name': 'Reference Datasets'}	(#24041) Human Lung Cell Atlas (HLCA)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/HLCA_v1	p0														experiment
-19451	{'id': 588, 'name': 'Reference Datasets'}	(#19451) MSigDB	Reference Datasets	/proj/rerefs/reref00/Broad/GSEA/MSigDB/	p0														experiment
-19082	{'id': 588, 'name': 'Reference Datasets'}	(#19082) SLDP (Signed LD Profile) regression	Reference Datasets	file:///proj/rerefs/reref00/Broad/alkesgroup/SLDP/	p0														experiment
-20281	{'id': 588, 'name': 'Reference Datasets'}	(#20281) Sanger Mouse Genomes Project	Reference Datasets	/proj/rerefs/reref00/Sanger/mouse-genome-project/	p0														experiment
-20039	{'id': 588, 'name': 'Reference Datasets'}	(#20039) Tobacco and EtOH Use GWAS	Reference Datasets	/proj/rerefs/reref00/GWASSummaryStats/2019_Liu,M_TobaccoEtOH/	p0														experiment
-18396	{'id': 588, 'name': 'Reference Datasets'}	(#18396) dbSNP 151	Reference Datasets	file:///proj/rerefs/reref00/dbsnp/snp151/	p0														experiment
-19340	{'id': 588, 'name': 'Reference Datasets'}	(#19340) dbSNP 152	Reference Datasets	file:///proj/rerefs/reref00/dbsnp/snp152/	p0														experiment
-20356	{'id': 588, 'name': 'Reference Datasets'}	(#20356) dbSNP 153	Reference Datasets	file:///proj/rerefs/reref00/dbsnp/snp153/	p0														experiment
-24025	{'id': 588, 'name': 'Reference Datasets'}	(#24025) dbSNP 156	Reference Datasets	/proj/rerefs/reref00/dbsnp/snp156/	p0														experiment
-24042	{'id': 588, 'name': 'Reference Datasets'}	(#24042) dbsnp	Reference Datasets	/proj/rerefs/reref00/dbsnp/	p0														experiment
-18674	{'id': 588, 'name': 'Reference Datasets'}	(#18674) refdata-cellranger-GRCh38-1.2.0	Reference Datasets	file:///proj/rerefs/reref00/cellranger/refdata-cellranger-GRCh38-1.2.0/	p0														experiment
-18675	{'id': 588, 'name': 'Reference Datasets'}	(#18675) refdata-cellranger-hg19-1.2.0	Reference Datasets	file:///proj/rerefs/reref00/cellranger/refdata-cellranger-hg19-1.2.0/	p0														experiment
-18686	{'id': 588, 'name': 'Reference Datasets'}	(#18686) refdata-cellranger-mm10-2.1.0	Reference Datasets	file:///proj/rerefs/reref00/cellranger/refdata-cellranger-mm10-2.1.0/	p0														experiment
-22411	{'id': 1125, 'name': 'SFARI'}	(#22411) SAFARI WGS Data	SFARI	/proj/regeps/regep00/studies/SFARI/data/dna/whole_genome/SFARI_WGS/	p0														experiment
-18238	{'id': 711, 'name': 'SGG Cohort Tracking'}	(#18238) COPD-ILD Methylation 11627945261-0	SGG Cohort Tracking		p0														experiment
-20274	{'id': 711, 'name': 'SGG Cohort Tracking'}	(#20274) FREEZE 20190723 - Download and processing for HumanCoreExData2	SGG Cohort Tracking		p0														experiment
-19018	{'id': 711, 'name': 'SGG Cohort Tracking'}	(#19018) Multi-cohort GWAS/Imputed Data from HSPH	SGG Cohort Tracking	file:///proj/nhomcs/nhomc00/GWAS/	p0														experiment
-19381	{'id': 713, 'name': 'TESRA'}	(#19381) TESRA Unified Genotypes	TESRA	file:///proj/regeps/regep00/studies/TESRA/data/genotype/	p0														experiment
-17413	{'id': 713, 'name': 'TESRA'}	(#17413) TESRA_02272012_GWAS	TESRA	file:///proj/regeps/regep00/studies/TESRA/data/gwas/TESRA_02272012_GWAS/	p0														experiment
-17422	{'id': 713, 'name': 'TESRA'}	(#17422) TESRA_1000GP3v5_UMich	TESRA	file:///proj/regeps/regep00/studies/TESRA/data/imputed/TESRA_1000GP3v5_UMich/	p0														experiment
-17526	{'id': 713, 'name': 'TESRA'}	(#17526) TESRA_HRC_UMich	TESRA	file:///proj/regeps/regep00/studies/TESRA/data/imputed/TESRA_HRC_UMich/	p0														experiment
-21990	{'id': 1062, 'name': 'TOPMed'}	(#21990) Freeze8 Local Ancestry Data	TOPMed	/proj/regeps/regep00/studies/COPDGene/data/dna/whole_genome/TopMed/data/freezes/freeze.8/local_ancestry	p0														experiment
-21989	{'id': 1062, 'name': 'TOPMed'}	(#21989) Structural Variants - Freeze.1	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/structural_variants/data/freezes/freeze.1/	p0														experiment
-20710	{'id': 1062, 'name': 'TOPMed'}	(#20710) TOPMed RNASeq	TOPMed	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/blood_shortread/data/raw/topmed_transfer_batches/TOPMED_11.19.2019/	p0														experiment
-23146	{'id': 1062, 'name': 'TOPMed'}	(#23146) TopMed Freeze.10 Sample Annotations	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.10a/sample_annotation	p0														experiment
-20953	{'id': 1062, 'name': 'TOPMed'}	(#20953) TopMed Methylation Data	TOPMed	/proj/regeps/regep00/studies/TopMed/data/epigenetic/methylation/	p0														experiment
-21013	{'id': 1062, 'name': 'TOPMed'}	(#21013) TopMed WGS Data	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/	p0														experiment
-23063	{'id': 1062, 'name': 'TOPMed'}	(#23063) TopMed batch-adjusted telomere data - 20200810	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/telomeres/data/raw/	p0														experiment
-22153	{'id': 1062, 'name': 'TOPMed'}	(#22153) freeze.10a	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.10a/	p0														experiment
-22165	{'id': 1062, 'name': 'TOPMed'}	(#22165) freeze.10a.irc	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.10a.irc/	p0														experiment
-21987	{'id': 1062, 'name': 'TOPMed'}	(#21987) freeze.8_rewki_biallele_SNP	TOPMed	/proj/regeps/regep00/studies/COPDGene/data/dna/whole_genome/TopMed/data/freezes/freeze.8_rewki_biallele_SN	p0														experiment
-21014	{'id': 1062, 'name': 'TOPMed'}	(#21014) freeze.9	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.9	p0														experiment
-21490	{'id': 1062, 'name': 'TOPMed'}	(#21490) freeze.9b	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.9b/	p0														experiment
-22652	{'id': 1043, 'name': 'UK_Biobank'}	(#22652) Addendum 001.a 	UK_Biobank		p0														experiment
-19880	{'id': 1043, 'name': 'UK_Biobank'}	(#19880) UK Biobank Exome Seq Data	UK_Biobank	/proj/regeps/regep00/studies/UK_Biobank/data/dna/exome	p0														experiment
-19167	{'id': 1043, 'name': 'UK_Biobank'}	(#19167) UK Biobank Imputed Dataset EGAD00010001225	UK_Biobank	file:///proj/regeps/regep00/studies/UK_Biobank/data/imputed/EGAD00010001225/	p0														experiment
-18311	{'id': 1043, 'name': 'UK_Biobank'}	(#18311) UK Biobank Imputed dataset – EGAD00010001474	UK_Biobank	file:///proj/regeps/regep00/studies/UK_Biobank/data/imputed/EGAD00010001474/	p0														experiment
-19108	{'id': 1043, 'name': 'UK_Biobank'}	(#19108) UKBB GWAS Summary Statistics from Neale Lab	UK_Biobank	file:///proj/rerefs/reref00/GWASSummaryStats/UKBB/	p0														experiment
-18312	{'id': 1043, 'name': 'UK_Biobank'}	(#18312) UKBiobank Directly genotyped dataset – EGAD00010001497	UK_Biobank		p0														experiment
-23963	{'id': 1043, 'name': 'UK_Biobank'}	(#23963) UK_Biobank/dna/whole_genome/ukbbRandom10k	UK_Biobank	/proj/regeps/regep00/studies/UK_Biobank/data/dna/whole_genome/ukbbRandom10k	p0														experiment
-24203	{'id': 1043, 'name': 'UK_Biobank'}	(#24203) UK_Biobank/phenotype	UK_Biobank	/proj/regeps/regep00/studies/UK_Biobank/data/phenotype	p0														experiment
-18527	{'id': 231, 'name': 'VDAART'}	(#18527) VDAART qPCR Biomass Data	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/biomass/VDAART_qPCR_Biomass/	p0														experiment
-22050	{'id': 231, 'name': 'VDAART'}	(#22050) 2016_VDAART_Mother_TOPMed_Imputed	VDAART	/proj/regeps/regep00/studies/VDAART/data/dna/whole_genome/2016_VDAART_Mother_TOPMed_Imputed	p0														experiment
-22042	{'id': 231, 'name': 'VDAART'}	(#22042) 2016_VDAART_TOPMed_Imputed	VDAART	/proj/regeps/regep00/studies/VDAART/data/dna/whole_genome/2016_VDAART_TOPMed_Imputed	p0														experiment
-21346	{'id': 231, 'name': 'VDAART'}	(#21346) VDAART 850K	VDAART	/proj/regeps/regep00/studies/VDAART/data/epigenetic/methylation/VDAART_850K/	p0														experiment
-18722	{'id': 231, 'name': 'VDAART'}	(#18722) VDAART_SNP_Genotyping_082016	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/genotype/VDAART_SNP_Genotyping_082016/	p0														experiment
-18197	{'id': 231, 'name': 'VDAART'}	(#18197) 2016_VDAART_GWAS	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/gwas/2016_VDAART_GWAS/	p0														experiment
-15553	{'id': 231, 'name': 'VDAART'}	(#15553) VDDART Mother GWAS	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/gwas/2016_VDAART_Mother_GWAS/	p0														experiment
-18199	{'id': 231, 'name': 'VDAART'}	(#18199) 2016_VDAART_GWAS_UMich	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_GWAS_UMich/	p0														experiment
-16652	{'id': 231, 'name': 'VDAART'}	(#16652) 2016_VDAART_Mother_UMich	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_Mother_UMich/	p0														experiment
-18875	{'id': 231, 'name': 'VDAART'}	(#18875) Asthma_Microbiome/Metabolome	VDAART	file:///udd/rekle/Asthma_Microbiome/Metabolome/DATA/	p0														experiment
-19408	{'id': 231, 'name': 'VDAART'}	(#19408) Fecal Acetic Acid Relative Abundance in Pregnancy is Inversely Associated with AsthmaRecurrent Wheeze with Atopy in Offspring	VDAART	file:///udd/rekle/SCFA/DATA/	p0														experiment
-18874	{'id': 231, 'name': 'VDAART'}	(#18874) Gut_Metabolome_Asthma	VDAART		p0														experiment
-18931	{'id': 231, 'name': 'VDAART'}	(#18931) Metabolomic Prediction of Childhood Asthma	VDAART		p0														experiment
-18876	{'id': 231, 'name': 'VDAART'}	(#18876) PUFA_Asthma	VDAART	file:///udd/rekle/PUFA_Asthma/DATA/	p0														experiment
-18877	{'id': 231, 'name': 'VDAART'}	(#18877) Selecting_VDAART_Samples	VDAART	file:///udd/rekle/Selecting_VDAART_Samples/	p0														experiment
-18723	{'id': 231, 'name': 'VDAART'}	(#18723) ORMDL3 Manuscript Metabolomics Data	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/Asthma/ORMDL3_manuscript/	p0														experiment
-18935	{'id': 231, 'name': 'VDAART'}	(#18935) VDAART Asthma Metabolome	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/Asthma/	p0														experiment
-17454	{'id': 231, 'name': 'VDAART'}	(#17454) VDAART Serum Metabolomics	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/	p0														experiment
-17453	{'id': 231, 'name': 'VDAART'}	(#17453) VDAART_FA_STOOL_101816	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/VDAART_FA_STOOL_101816/	p0														experiment
-16292	{'id': 231, 'name': 'VDAART'}	(#16292) VDAART Methylation 450K_PCPGM_726775217-6	VDAART		p0														experiment
-16076	{'id': 231, 'name': 'VDAART'}	(#16076) 2016 VDAART Microbiome	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_Microbiome	p0														experiment
-17840	{'id': 231, 'name': 'VDAART'}	(#17840) 2016 VDAART Microbiome Anonymized	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_Microbiome_Anonymized	p0														experiment
-17876	{'id': 231, 'name': 'VDAART'}	(#17876) 2016_VDAART_Microbiome_PICRUSt	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/microbiome/2016_VDAART_Microbiome_PICRUSt/	p0														experiment
-18384	{'id': 231, 'name': 'VDAART'}	(#18384) VDAART Infant_Gut_Predictors	VDAART	file:///proj/regeps/regep00/studies/VDAART/analyses/rejoa/Infant_Gut_Predictors/	p0														experiment
-23522	{'id': 231, 'name': 'VDAART'}	(#23522) VDAART/ECHO Extant Microbiome Data Transfer and Harmonization	VDAART	/proj/regeps/regep00/studies/VDAART/data/microbiome/2016_VDAART_Microbiome/data/freezes/20221007-ECHO-SOP-EAW-016	p0														experiment
-18386	{'id': 231, 'name': 'VDAART'}	(#18386) VDAART Blood Pre-eclampsia mirnaseq	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/mirnaseq/blood/	p0														experiment
-17388	{'id': 231, 'name': 'VDAART'}	(#17388) VDAART placenta miRNAseq	VDAART		p0														experiment
-21548	{'id': 231, 'name': 'VDAART'}	(#21548) Lee-Sarwar/Huttenhower Microbiome and GWAS Export	VDAART	/proj/regeps/regep00/studies/VDAART/data/multi-omics/Huttenhower_microbiome_gwas/data/freezes/20201006/	p0														experiment
-17642	{'id': 231, 'name': 'VDAART'}	(#17642) VDAART Pre-eclampsia blood mRNA data download alignment qc	VDAART		p0														experiment
-24238	{'id': 231, 'name': 'VDAART'}	(#24238) VDAART rna mrna rehom preeclampsia pull list/data manifest discrepenacy	VDAART		p0														experiment
-18069	{'id': 231, 'name': 'VDAART'}	(#18069) 2016 VDAART Mother GWAS - GRCh38	VDAART		p0														experiment
-23372	{'id': 231, 'name': 'VDAART'}	(#23372) ECHO 850K 2022	VDAART	/proj/regeps/regep00/studies/VDAART/data/epigenetic/methylation/VDAART_850K/data/raw/	p0														experiment
-21060	{'id': 231, 'name': 'VDAART'}	(#21060) Extant VDAART GWAS Data for sharing with ECHO	VDAART		p0														experiment
-18878	{'id': 231, 'name': 'VDAART'}	(#18878) VDAART Derived Outcomes	VDAART	file:///proj/stvtds/stvtd00/derived_outcomes/	p0														experiment
-20455	{'id': 231, 'name': 'VDAART'}	(#20455) VDAART rna mrna Yr3 plate 4 2019-09-12_for_rpc15 190905_NB551475_0163_AHT5NFBGXB 190906_NB551475_0164_AHMNW2BGXB 190909_NB551475_0165_AHT5KFBGXB	VDAART		p0														experiment
-18385	{'id': 231, 'name': 'VDAART'}	(#18385) Various VDAART Datasets maintained by Nancy Laranjo	VDAART	file:///proj/stvtds/stvtd00/datasets/ file:///proj/stvtds/stvtd00/FINAL_datasets/	p0														experiment
-21547	{'id': 231, 'name': 'VDAART'}	(#21547) black0.2_clean	VDAART	/proj/regeps/regep00/studies/VDAART/manuscripts/rekle/K08/Aim1/Data/PLINKinput/black0.2_clean_chr*	p0														experiment
-18547	{'id': 235, 'name': 'VIVA'}	(#18547) VIVA Cell Count Datasets	VIVA	file:///udd/recpe/Data/	p0														experiment
-17634	{'id': 235, 'name': 'VIVA'}	(#17634) VIVA Plasma miRNASeq	VIVA	file:///proj/regeps/regep00/studies/VIVA/data/mirnaseq/plasma/	p0														experiment
-18546	{'id': 235, 'name': 'VIVA'}	(#18546) VIVA Phenotype Data	VIVA	file:///udd/recpe/clock/code/cp_032018.sas7bdat	p0														experiment
-18545	{'id': 235, 'name': 'VIVA'}	(#18545) VivaThousandQC_BMIQ	VIVA	file:///proj/regeps/regep00/studies/VIVA/data/methylation/analysis/thousand/	p0														experiment
-16227	{'id': 952, 'name': 'eMERGE'}	(#16227) eMERGE GWAS Datsets	eMERGE	file:///proj/regeps/regep00/studies/eMERGE/data/gwas/emerge_sorted_201701/	p0														experiment
-17846	{'id': 952, 'name': 'eMERGE'}	(#17846) emERGE Principal Components Projected against 1000Genomes	eMERGE	file:///proj/regeps/regep00/studies/eMERGE/data/pcs/	p0														experiment
+id	project	submitter_id	project	url	redmine_url	S	N	sample-manifest	projects.code	associated_experiment	copy_numbers_identified	data_description	experimental_description	experimental_intent	indels_identified	marker_panel_description	number_experimental_group	number_samples_per_experimental_group	somatic_mutations_identified	type_of_data	type_of_sample	type_of_specimen	type
+22862	{'id': 28, 'name': 'A1A'}	(#22862) A1A_2013_HumanCoreExome	A1A	/proj/regeps/regep00/studies/A1A/data/dna/whole_genome/A1A_2013_HumanCoreExome	https://chanmine.bwh.harvard.edu/issues/22862	0	0		p0														experiment
+24096	{'id': 28, 'name': 'A1A'}	(#24096) A1A_HumanCoreExome_TOPMed	A1A	/proj/regeps/regep00/studies/A1A/data/dna/whole_genome/A1A_HumanCoreExome_TOPMed	https://chanmine.bwh.harvard.edu/issues/24096	0	0		p0														experiment
+22080	{'id': 28, 'name': 'A1A'}	(#22080) A1A_850K_2021	A1A	/proj/regeps/regep00/studies/A1A/data/epigenetic/methylation/A1A_850K_2021/	https://chanmine.bwh.harvard.edu/issues/22080	302	0	/proj/regeps/regep00/studies/A1A/data/epigenetic/methylation/A1A_850K_2021/.chammps/sample-manifest.csv	p0														experiment
+24110	{'id': 28, 'name': 'A1A'}	(#24110) A1A olink Proteomics	A1A	/proj/regeps/regep00/studies/A1A/data/protein/olink	https://chanmine.bwh.harvard.edu/issues/24110	0	0		p0														experiment
+23928	{'id': 28, 'name': 'A1A'}	(#23928) Olink Proteomic Data Freeze 20221220	A1A		https://chanmine.bwh.harvard.edu/issues/23928	0	0		p0														experiment
+21007	{'id': 37, 'name': 'ABRIG'}	(#21007) aBridge2020_UMich	ABRIG	/proj/regeps/regep00/studies/ABRIG/data/dna/whole_genome/aBridge2020_UMich/	https://chanmine.bwh.harvard.edu/issues/21007	0	0		p0														experiment
+19138	{'id': 37, 'name': 'ABRIG'}	(#19138) ABRIG Gene Expression Data	ABRIG	file:///proj/regeps/regep00/studies/ABRIG/data/expression/ABRIDGE_GeneExpr_Final/	https://chanmine.bwh.harvard.edu/issues/19138	0	0		p0														experiment
+17302	{'id': 37, 'name': 'ABRIG'}	(#17302) ABRIG_FULL_2012	ABRIG	file:///proj/regeps/regep00/studies/ABRIG/data/gwas/ABRIG_FULL_2012/	https://chanmine.bwh.harvard.edu/issues/17302	0	0		p0														experiment
+14364	{'id': 37, 'name': 'ABRIG'}	(#14364) ABRIG_FULL_vs_1000GenomesPhaseIv3	ABRIG	file:///proj/regeps/regep00/studies/ABRIG/data/imputed/ABRIG_FULL_vs_1000GenomesPhaseIv3	https://chanmine.bwh.harvard.edu/issues/14364	0	0		p0														experiment
+16330	{'id': 37, 'name': 'ABRIG'}	(#16330) ABRIG Methylation Data	ABRIG	file:///proj/regeps/regep00/studies/ABRIG/data/methylation	https://chanmine.bwh.harvard.edu/issues/16330	0	0		p0														experiment
+20597	{'id': 49, 'name': 'ACRN'}	(#20597) ACRN_UMich	ACRN	/proj/regeps/regep00/studies/ACRN/data/dna/whole_genome/ACRN_UMich/	https://chanmine.bwh.harvard.edu/issues/20597	0	0		p0														experiment
+14974	{'id': 49, 'name': 'ACRN'}	(#14974) ACRN_SHARP GWAS	ACRN	file:////proj/regeps/regep00/studies/ACRN/data/gwas/ACRN_SHARP	https://chanmine.bwh.harvard.edu/issues/14974	0	0		p0														experiment
+16485	{'id': 938, 'name': 'ADAPT'}	(#16485) ADAPT_Combined_GWAS	ADAPT	file:///proj/regeps/regep00/studies/ADAPT/data/gwas/ADAPT_Combined_GWAS	https://chanmine.bwh.harvard.edu/issues/16485	0	0		p0														experiment
+20535	{'id': 938, 'name': 'ADAPT'}	(#20535) ADAPT_MERGE Imputed	ADAPT	/proj/regeps/regep00/studies/ADAPT/data/imputed/ADAPT_MERGE/	https://chanmine.bwh.harvard.edu/issues/20535	0	0		p0														experiment
+21618	{'id': 938, 'name': 'ADAPT'}	(#21618) PgPOP Exome Genotyping	ADAPT	/proj/regeps/regep00/studies/ADAPT/data/dna/whole_genome/PgPOP	https://chanmine.bwh.harvard.edu/issues/21618	0	0		p0														experiment
+24191	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#24191) AEC_Tesfaigzi Protein Data	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/protein/Somascan/	https://chanmine.bwh.harvard.edu/issues/24191	0	0		p0														experiment
+22824	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#22824) Broad_NHBE Pellets for Genotyped_RNA_with Demographics	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/pheno	https://chanmine.bwh.harvard.edu/issues/22824	0	0		p0														experiment
+22822	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#22822) Tesfaigzi_BWH_GSA_Array	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/dna/whole_genome/Tesfaigzi_BWH_GSA_Array/	https://chanmine.bwh.harvard.edu/issues/22822	0	0		p0														experiment
+22888	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#22888) Tesfaigzi_BWH_GSA_Array_TOPMed	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/dna/whole_genome/Tesfaigzi_BWH_GSA_Array_TOPMed	https://chanmine.bwh.harvard.edu/issues/22888	0	0		p0														experiment
+24173	{'id': 1134, 'name': 'AEC_Tesfaigzi'}	(#24173) Tesfaigzi_HEC-190_Singlecell	AEC_Tesfaigzi	/proj/regeps/regep00/studies/AEC_Tesfaigzi/data/rna/mrna/Tesfaigzi_HEC-190_Singlecell/	https://chanmine.bwh.harvard.edu/issues/24173	0	0		p0														experiment
+20841	{'id': 800, 'name': 'AERD'}	(#20841) AERD_montelukast_PBMC	AERD	/proj/regeps/regep00/studies/AERD/data/rna/mirna/readh/AERD_montelukast_PBMC/	https://chanmine.bwh.harvard.edu/issues/20841	0	0		p0														experiment
+21018	{'id': 800, 'name': 'AERD'}	(#21018) AERD_montelukast_sera	AERD	/proj/regeps/regep00/studies/AERD/data/rna/mirna/readh/AERD_montelukast_PBMC/	https://chanmine.bwh.harvard.edu/issues/21018	0	0		p0														experiment
+20422	{'id': 1057, 'name': 'AGES'}	(#20422) Freeze 20200502 - Joint-called Genotyping Data	AGES		https://chanmine.bwh.harvard.edu/issues/20422	0	0		p0														experiment
+19959	{'id': 1057, 'name': 'AGES'}	(#19959) reykjavik_exome_seq	AGES	/proj/regeps/regep00/studies/AGES/data/dna/exome/reykjavik_exome_seq/	https://chanmine.bwh.harvard.edu/issues/19959	0	0		p0														experiment
+14735	{'id': 817, 'name': 'BELT'}	(#14735) BELT GWAS Data	BELT		https://chanmine.bwh.harvard.edu/issues/14735	0	0		p0														experiment
+16230	{'id': 982, 'name': 'BIOLIB'}	(#16230) FLCN Exome Sequencing for 2 Birt-Hogg-Dube Patients	BIOLIB		https://chanmine.bwh.harvard.edu/issues/16230	0	0		p0														experiment
+16232	{'id': 982, 'name': 'BIOLIB'}	(#16232) Job's Syndrome Whole Exome (1 subject)	BIOLIB		https://chanmine.bwh.harvard.edu/issues/16232	0	0		p0														experiment
+16552	{'id': 58, 'name': 'CAMP'}	(#16552) CAMP_LipidView_2017	CAMP	file:///proj/regeps/regep00/studies/CAMP/data/bioassay/CAMP_LipidView_2017	https://chanmine.bwh.harvard.edu/issues/16552	0	0		p0														experiment
+19241	{'id': 58, 'name': 'CAMP'}	(#19241) TopMed WGS Data	CAMP	/proj/regeps/regep00/studies/CAMP/data/dna/whole_genome/TopMed/	https://chanmine.bwh.harvard.edu/issues/19241	1919	0	/proj/regeps/regep00/studies/CAMP/data/dna/whole_genome/TopMed/.chammps/sample-manifest.csv	p0														experiment
+18928	{'id': 58, 'name': 'CAMP'}	(#18928) GWAS_CAMP_RIKEN_2010	CAMP	file:///proj/regeps/regep00/studies/CAMP/data/gwas/GWAS_CAMP_RIKEN_2010/	https://chanmine.bwh.harvard.edu/issues/18928	998	0	/proj/regeps/regep00/studies/CAMP/data/gwas/GWAS_CAMP_RIKEN_2010/.chammps/sample-manifest.csv	p0														experiment
+19578	{'id': 58, 'name': 'CAMP'}	(#19578) CAMP_FULL_MERGE_UMich	CAMP	/proj/regeps/regep00/studies/CAMP/data/imputed/CAMP_FULL_MERGE_UMich	https://chanmine.bwh.harvard.edu/issues/19578	0	0		p0														experiment
+21158	{'id': 58, 'name': 'CAMP'}	(#21158) TOPMed Metabolomics	CAMP	/proj/regeps/regep00/studies/CAMP/data/metabolite/untargeted/TopMed/	https://chanmine.bwh.harvard.edu/issues/21158	960	0	/proj/regeps/regep00/studies/CAMP/data/metabolite/untargeted/TopMed/.chammps/sample-manifest.csv	p0														experiment
+23882	{'id': 58, 'name': 'CAMP'}	(#23882) CAMP Metadata	CAMP	/proj/regeps/regep00/studies/CAMP/metadata/	https://chanmine.bwh.harvard.edu/issues/23882	0	0		p0														experiment
+16454	{'id': 58, 'name': 'CAMP'}	(#16454) CAMP 27K Methylation Dataset	CAMP	file:///proj/regeps/regep00/studies/CAMP/data/methylation/CAMP_27K	https://chanmine.bwh.harvard.edu/issues/16454	0	0		p0														experiment
+20970	{'id': 58, 'name': 'CAMP'}	(#20970) CAMP TopMed Methylation	CAMP	/proj/regeps/regep00/studies/CAMP/data/epigenetic/methylation/TopMed/	https://chanmine.bwh.harvard.edu/issues/20970	1616	0	/proj/regeps/regep00/studies/CAMP/data/epigenetic/methylation/TopMed/.chammps/sample-manifest.csv	p0														experiment
+19825	{'id': 58, 'name': 'CAMP'}	(#19825) A Nasal Brush-based Classifier of Asthma Identified by Machine Learning Analysis of Nasal RNA Sequence Data	CAMP	/udd/reawa/Grant/CAMPnasalRNA/	https://chanmine.bwh.harvard.edu/issues/19825	0	0		p0														experiment
+20302	{'id': 58, 'name': 'CAMP'}	(#20302) CAMP Trio SNP Results	CAMP		https://chanmine.bwh.harvard.edu/issues/20302	0	0		p0														experiment
+18164	{'id': 58, 'name': 'CAMP'}	(#18164) CAMP_FULL_MERGE	CAMP	file:///proj/regeps/regep00/studies/CAMP/data/gwas/CAMP_FULL_MERGE/	https://chanmine.bwh.harvard.edu/issues/18164	0	0		p0														experiment
+18165	{'id': 58, 'name': 'CAMP'}	(#18165) CAMP_FULL_MERGE Anonymized for Barabasi Collaboration	CAMP		https://chanmine.bwh.harvard.edu/issues/18165	0	0		p0														experiment
+20575	{'id': 987, 'name': 'CARE'}	(#20575) CARE_SHARP	CARE	/proj/regeps/regep00/studies/CARE/data/gwas/CARE_SHARP/	https://chanmine.bwh.harvard.edu/issues/20575	0	0		p0														experiment
+15941	{'id': 987, 'name': 'CARE'}	(#15941) CARE_SHARP Imputed against 1000Genomes Phase3v5	CARE	/proj/regeps/regep00/studies/CARE/data/imputed/CARE_SHARP_vs_1000GP3v5	https://chanmine.bwh.harvard.edu/issues/15941	0	0		p0														experiment
+20583	{'id': 987, 'name': 'CARE'}	(#20583) CARE_SHARP_UMich	CARE	/proj/regeps/regep00/studies/CARE/data/imputed/CARE_SHARP_UMich/	https://chanmine.bwh.harvard.edu/issues/20583	0	0		p0														experiment
+20574	{'id': 987, 'name': 'CARE'}	(#20574) CARE_SHARP_UMich	CARE	/proj/regeps/regep00/studies/CARE/data/imputed/CARE_SHARP_UMich/	https://chanmine.bwh.harvard.edu/issues/20574	0	0		p0														experiment
+22317	{'id': 1115, 'name': 'CHARGE'}	(#22317) RootStudyConsentSet_phs000930.CHARGE_SummaryResults.v9.p1.c1.GRU	CHARGE	/proj/regeps/regep00/studies/CHARGE/data/PhenoGenotypeFiles/	https://chanmine.bwh.harvard.edu/issues/22317	0	0		p0														experiment
+23165	{'id': 1137, 'name': 'CHILD'}	(#23165) CHILD_2022	CHILD	/proj/regeps/regep00/studies/CHILD/data/dna/whole_genome/CHILD_2022/	https://chanmine.bwh.harvard.edu/issues/23165	191	0	/proj/regeps/regep00/studies/CHILD/data/dna/whole_genome/CHILD_2022/.chammps/sample-manifest.csv	p0														experiment
+21094	{'id': 137, 'name': 'COPDGene'}	(#21094) IgE Quantification (Phase 2)	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/biomarkers/ige/	https://chanmine.bwh.harvard.edu/issues/21094	1506	0	/proj/regeps/regep00/studies/COPDGene/data/biomarkers/ige/.chammps/sample-manifest.csv	p0														experiment
+19973	{'id': 137, 'name': 'COPDGene'}	(#19973) Carolan_2014_Resp_Res	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/biomarkers/Carolan_2014_Resp_Res	https://chanmine.bwh.harvard.edu/issues/19973	0	0		p0														experiment
+20521	{'id': 137, 'name': 'COPDGene'}	(#20521) TopMed MitochondrialDNA 	COPDGene	/proj/regeps/regep00/studies/GECOPD/data/dna/mitochondrial/TopMed	https://chanmine.bwh.harvard.edu/issues/20521	10660	0	/proj/regeps/regep00/studies/GECOPD/data/dna/mitochondrial/TopMed/.chammps/sample-manifest.csv	p0														experiment
+24218	{'id': 137, 'name': 'COPDGene'}	(#24218) F8 Somatic Chip Data	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/dna/somatic/	https://chanmine.bwh.harvard.edu/issues/24218	8394	0	/proj/regeps/regep00/studies/COPDGene/data/dna/somatic/.chammps/sample-manifest.csv	p0														experiment
+20368	{'id': 137, 'name': 'COPDGene'}	(#20368) TOPMed Telomere Length	COPDGene	/proj/regeps/regep00/studies/GECOPD/data/dna/telomere/TopMed/	https://chanmine.bwh.harvard.edu/issues/20368	9764	0	/proj/regeps/regep00/studies/GECOPD/data/dna/telomere/TopMed/.chammps/sample-manifest.csv	p0														experiment
+19234	{'id': 137, 'name': 'COPDGene'}	(#19234) TopMed WGS Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/wgs/TopMed/	https://chanmine.bwh.harvard.edu/issues/19234	10550	0	/proj/regeps/regep00/studies/COPDGene/data/wgs/TopMed/.chammps/sample-manifest.csv	p0														experiment
+21151	{'id': 137, 'name': 'COPDGene'}	(#21151) king_ref_GRCh38	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/genotype/data/freezes/king_ref_GRCh38/	https://chanmine.bwh.harvard.edu/issues/21151	0	0		p0														experiment
+21323	{'id': 137, 'name': 'COPDGene'}	(#21323) COPDGene TOPMed Blood Methylation	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/epigenetic/methylation/TopMed/Blood/	https://chanmine.bwh.harvard.edu/issues/21323	12004	0	/proj/regeps/regep00/studies/COPDGene/data/epigenetic/methylation/TopMed/Blood/.chammps/sample-manifest.csv	p0														experiment
+24049	{'id': 137, 'name': 'COPDGene'}	(#24049) COPDGene TOPMed Nasal Methylation	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/epigenetic/methylation/TopMed/Nasal/	https://chanmine.bwh.harvard.edu/issues/24049	280	0	/proj/regeps/regep00/studies/COPDGene/data/epigenetic/methylation/TopMed/Nasal/.chammps/sample-manifest.csv	p0														experiment
+19897	{'id': 137, 'name': 'COPDGene'}	(#19897) COPDGene_GOLDUproject_JAN2013	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/methylation/COPDGene_GOLDUproject_JAN2013	https://chanmine.bwh.harvard.edu/issues/19897	0	0		p0														experiment
+19869	{'id': 137, 'name': 'COPDGene'}	(#19869) COPDGene Excome Chip	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/exome/CleanExomeChip/	https://chanmine.bwh.harvard.edu/issues/19869	0	9802		p0														experiment
+19805	{'id': 137, 'name': 'COPDGene'}	(#19805) 850K_RefPanel	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/dna/variants/850K_RefPanel/	https://chanmine.bwh.harvard.edu/issues/19805	0	0		p0														experiment
+18389	{'id': 137, 'name': 'COPDGene'}	(#18389) COPDGene Unified Genotype Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/genotype/	https://chanmine.bwh.harvard.edu/issues/18389	10062	0	/proj/regeps/regep00/studies/COPDGene/data/genotype/.chammps/sample-manifest.csv	p0														experiment
+17578	{'id': 137, 'name': 'COPDGene'}	(#17578) COPDGene Canonical GWAS Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/gwas/	https://chanmine.bwh.harvard.edu/issues/17578	7017	0	/proj/regeps/regep00/studies/COPDGene/data/gwas/.chammps/sample-manifest.csv	p0														experiment
+19253	{'id': 137, 'name': 'COPDGene'}	(#19253) CgAa-HRC-1-1	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/imputed/CgAa-HRC-1-1/	https://chanmine.bwh.harvard.edu/issues/19253	0	0		p0														experiment
+14435	{'id': 137, 'name': 'COPDGene'}	(#14435) CgNhw-HRC1-1	COPDGene	file:///proj/regeps/regep00/studies/GECOPD/data/imputed/CgNhw-HRC1-1	https://chanmine.bwh.harvard.edu/issues/14435	0	0		p0														experiment
+19448	{'id': 137, 'name': 'COPDGene'}	(#19448) RNA-sequencing across three matched tissues highlights gene expression signatures in COPD	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/analyses/remdj/BRCOPD_three_tissue_expression/	https://chanmine.bwh.harvard.edu/issues/19448	0	0		p0														experiment
+21095	{'id': 137, 'name': 'COPDGene'}	(#21095) Sphingolipid Quantification from Russ Bowler	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/metabolite/sphingolipid/	https://chanmine.bwh.harvard.edu/issues/21095	0	0		p0														experiment
+21935	{'id': 137, 'name': 'COPDGene'}	(#21935) Metabolite Data	COPDGene	/proj/edith/regeps/regep00/studies/COPDGene/data/metabolite/metabolon	https://chanmine.bwh.harvard.edu/issues/21935	0	1137		p0														experiment
+24231	{'id': 137, 'name': 'COPDGene'}	(#24231) TOPMed metabolomics	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/metabolite/untargeted/TOPMed	https://chanmine.bwh.harvard.edu/issues/24231	0	0		p0														experiment
+19512	{'id': 137, 'name': 'COPDGene'}	(#19512) BRCOPD EPIC Methylation Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/methylation/BRCOPD/blood_airway_epithelial_lung_macrophages/	https://chanmine.bwh.harvard.edu/issues/19512	134	0	/proj/regeps/regep00/studies/COPDGene/data/methylation/BRCOPD/blood_airway_epithelial_lung_macrophages/.chammps/sample-manifest.csv	p0														experiment
+19458	{'id': 137, 'name': 'COPDGene'}	(#19458) COPDGene Phenotype Data	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/pheno/	https://chanmine.bwh.harvard.edu/issues/19458	0	0		p0														experiment
+18356	{'id': 137, 'name': 'COPDGene'}	(#18356) Final10000_Phase1_Rev_31aug16	COPDGene	file:///proj/regeps/regep00/studies/COPDGene/data/pheno/	https://chanmine.bwh.harvard.edu/issues/18356	0	0		p0														experiment
+22728	{'id': 137, 'name': 'COPDGene'}	(#22728) LFU Dataset 10/10/21	COPDGene		https://chanmine.bwh.harvard.edu/issues/22728	0	0		p0														experiment
+21747	{'id': 137, 'name': 'COPDGene'}	(#21747) COPDGene_SOMA1_3	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/protein/COPDGene_SOMA1_3	https://chanmine.bwh.harvard.edu/issues/21747	0	1667		p0														experiment
+22688	{'id': 137, 'name': 'COPDGene'}	(#22688) SomaScan 5.0	COPDGene	/proj/regeps/regep00/studies/TopMed/data/protein/SomaScan_5.0/	https://chanmine.bwh.harvard.edu/issues/22688	0	0		p0														experiment
+22993	{'id': 137, 'name': 'COPDGene'}	(#22993) SomaScan_5.0_P2_TAB_13May2021_v2  & SomaScan_5.0_P3_TAB_13May2021_v2	COPDGene	/proj/regeps/regep00/studies/TopMed/data/protein/SomaScan_5.0/data/raw/	https://chanmine.bwh.harvard.edu/issues/22993	0	0		p0														experiment
+23281	{'id': 137, 'name': 'COPDGene'}	(#23281) COPDGene rna mrna repjc blood_shortread phase3 Conversion Files	COPDGene		https://chanmine.bwh.harvard.edu/issues/23281	0	0		p0														experiment
+21113	{'id': 137, 'name': 'COPDGene'}	(#21113) TOPMED_11.19.2019 nasal_shortread	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/nasal_shortread/	https://chanmine.bwh.harvard.edu/issues/21113	0	0		p0														experiment
+22038	{'id': 137, 'name': 'COPDGene'}	(#22038) vdjseq - Chris Vollmers IGH rnaseq data	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/vdjseq/	https://chanmine.bwh.harvard.edu/issues/22038	0	0		p0														experiment
+14367	{'id': 137, 'name': 'COPDGene'}	(#14367) COPDGene Blood rnaseq	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/blood_shortread/	https://chanmine.bwh.harvard.edu/issues/14367	0	0		p0														experiment
+19886	{'id': 137, 'name': 'COPDGene'}	(#19886) TopMed RNAseq Data	COPDGene		https://chanmine.bwh.harvard.edu/issues/19886	0	0		p0														experiment
+21977	{'id': 137, 'name': 'COPDGene'}	(#21977) 850K_RefPanel	COPDGene		https://chanmine.bwh.harvard.edu/issues/21977	0	0		p0														experiment
+21821	{'id': 137, 'name': 'COPDGene'}	(#21821) COPDGene rna mirna miRNA Repeats - PKG-0820-01005076	COPDGene		https://chanmine.bwh.harvard.edu/issues/21821	0	0		p0														experiment
+23334	{'id': 137, 'name': 'COPDGene'}	(#23334) COPDGene rna mrna repjc phase 2 freeze 5	COPDGene		https://chanmine.bwh.harvard.edu/issues/23334	0	0		p0														experiment
+24137	{'id': 137, 'name': 'COPDGene'}	(#24137) COPDGene whole blood microRNA	COPDGene		https://chanmine.bwh.harvard.edu/issues/24137	0	0		p0														experiment
+20679	{'id': 137, 'name': 'COPDGene'}	(#20679) Freeze.8-based genotype data for Matrixeqtl	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/rnaseq/BLOOD/QCed_data/eqtl_files/genotype_files/TOPMED8_FREEZE3/	https://chanmine.bwh.harvard.edu/issues/20679	0	0		p0														experiment
+24266	{'id': 137, 'name': 'COPDGene'}	(#24266) metabolite.targeted.Omega	COPDGene	/proj/regeps/regep00/studies/COPDGene/data/metabolite/untargeted/Omega/	https://chanmine.bwh.harvard.edu/issues/24266	0	0		p0														experiment
+20256	{'id': 78, 'name': 'CRA'}	(#20256) CRA Reference Genotypes for 59 850K QC SNPs	CRA	file:///proj/regeps/regep00/studies/CRA/data/dna/merged/850K_RefSNPs/	https://chanmine.bwh.harvard.edu/issues/20256	0	0		p0														experiment
+15873	{'id': 78, 'name': 'CRA'}	(#15873) 2013_CRA_GWAS_FULL_MERGE	CRA	/proj/regeps/regep00/studies/CRA/data/gwas/2013_CRA_GWAS_FULL_MERGE	https://chanmine.bwh.harvard.edu/issues/15873	0	0		p0														experiment
+18904	{'id': 78, 'name': 'CRA'}	(#18904) 2015_NHLBI_DCC_GWAS_QC	CRA	file:///proj/regeps/regep00/studies/CRA/data/gwas/2015_NHLBI_DCC_GWAS_QC/	https://chanmine.bwh.harvard.edu/issues/18904	0	0		p0														experiment
+18905	{'id': 78, 'name': 'CRA'}	(#18905) NHLBI_DCC_GWAS_QC	CRA	file:///proj/regeps/regep00/studies/CRA/data/gwas/NHLBI_DCC_GWAS_QC/	https://chanmine.bwh.harvard.edu/issues/18905	0	0		p0														experiment
+16901	{'id': 78, 'name': 'CRA'}	(#16901) 2013_CRA_GWAS_UMich	CRA	file:///proj/regeps/regep00/studies/CRA/data/imputed/2013_CRA_GWAS_UMich/	https://chanmine.bwh.harvard.edu/issues/16901	0	0		p0														experiment
+15875	{'id': 78, 'name': 'CRA'}	(#15875) 2013_CRA_GWAS_vs_1000Genomes_p3v5	CRA	/proj/regeps/regep00/studies/CRA/data/imputed/2013_CRA_GWAS_vs_1000Genomes_p3v5	https://chanmine.bwh.harvard.edu/issues/15875	0	0		p0														experiment
+19571	{'id': 78, 'name': 'CRA'}	(#19571) CRA-HRCr1.1	CRA	/proj/regeps/regep00/studies/CRA/data/imputed/CRA-HRCr1.1/	https://chanmine.bwh.harvard.edu/issues/19571	0	0		p0														experiment
+21145	{'id': 78, 'name': 'CRA'}	(#21145) TOPMed Metabolomics	CRA	/proj/regeps/regep00/studies/CRA/data/metabolite/untargeted/TopMed/	https://chanmine.bwh.harvard.edu/issues/21145	0	0		p0														experiment
+19036	{'id': 78, 'name': 'CRA'}	(#19036) CRA 450K Methylation Data	CRA	file:///udd/rekrv/methylation_projects/CRA_450k/	https://chanmine.bwh.harvard.edu/issues/19036	0	0		p0														experiment
+14325	{'id': 78, 'name': 'CRA'}	(#14325) CRA 450K Methylation Dataset	CRA	/proj/regeps/regep00/studies/CRA/data/methylation/450K_PCPGM_726775965-6	https://chanmine.bwh.harvard.edu/issues/14325	0	0		p0														experiment
+20249	{'id': 78, 'name': 'CRA'}	(#20249) CRA TopMed Methylation	CRA	file:///proj/regeps/regep00/studies/CRA/data/epigenetic/methylation/TopMed/	https://chanmine.bwh.harvard.edu/issues/20249	0	0		p0														experiment
+24135	{'id': 78, 'name': 'CRA'}	(#24135) remmg_issue_20143	CRA		https://chanmine.bwh.harvard.edu/issues/24135	0	0		p0														experiment
+18275	{'id': 78, 'name': 'CRA'}	(#18275) Feixiong	CRA	file:///proj/regeps/regep00/studies/CRA/data/wgs/Feixiong/	https://chanmine.bwh.harvard.edu/issues/18275	0	0		p0														experiment
+19238	{'id': 78, 'name': 'CRA'}	(#19238) TopMed WGS Data	CRA	file:///proj/regeps/regep00/studies/CRA/data/wgs/TopMed/	https://chanmine.bwh.harvard.edu/issues/19238	10550	0	/proj/regeps/regep00/studies/CRA/data/wgs/TopMed/.chammps/sample-manifest.csv	p0														experiment
+20596	{'id': 78, 'name': 'CRA'}	(#20596) CRA_Gx	CRA	/proj/regeps/regep00/studies/CRA/data/expression/CRA_Gx/	https://chanmine.bwh.harvard.edu/issues/20596	0	0		p0														experiment
+14427	{'id': 768, 'name': 'CSS'}	(#14427) CSS Combined GWAS	CSS		https://chanmine.bwh.harvard.edu/issues/14427	0	0		p0														experiment
+17832	{'id': 768, 'name': 'CSS'}	(#17832) CSS GWAS: Axiom_BioBank1WM	CSS	file:///proj/regeps/regep00/studies/CSS/data/gwas/Axiom_BioBank1WM/	https://chanmine.bwh.harvard.edu/issues/17832	0	0		p0														experiment
+17877	{'id': 768, 'name': 'CSS'}	(#17877) Axiom_BioBank1WM_UMich	CSS	file:///proj/regeps/regep00/studies/CSS/data/imputed/Axiom_BioBank1WM_UMich/	https://chanmine.bwh.harvard.edu/issues/17877	0	0		p0														experiment
+15177	{'id': 768, 'name': 'CSS'}	(#15177) CSS Imputed against 1000GenomesPhase3v5_ALL	CSS		https://chanmine.bwh.harvard.edu/issues/15177	0	0		p0														experiment
+17285	{'id': 768, 'name': 'CSS'}	(#17285) CSS_HRCr1.1	CSS	file:///proj/regeps/regep00/studies/CSS/data/dna/whole_genome/CSS_HRCr1.1/	https://chanmine.bwh.harvard.edu/issues/17285	0	0		p0														experiment
+17160	{'id': 99, 'name': 'ECLIPSE'}	(#17160) COPD_ECLIPSE_2009	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/gwas/COPD_ECLIPSE_2009/	https://chanmine.bwh.harvard.edu/issues/17160	0	0		p0														experiment
+17159	{'id': 99, 'name': 'ECLIPSE'}	(#17159) COPD_ECLIPSE_2009_2017 Phased Haplotypes	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/haplotypes/COPD_ECLIPSE_2009_2017/	https://chanmine.bwh.harvard.edu/issues/17159	0	0		p0														experiment
+18685	{'id': 99, 'name': 'ECLIPSE'}	(#18685) ECLIPSE Unified Genotype Data	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/geno/	https://chanmine.bwh.harvard.edu/issues/18685	0	0		p0														experiment
+16009	{'id': 99, 'name': 'ECLIPSE'}	(#16009) ECLIPSE chrX imputed against 1000G Phase3 v5	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/ECLIPSE_vs_1000GPhase3v5	https://chanmine.bwh.harvard.edu/issues/16009	0	0		p0														experiment
+19327	{'id': 99, 'name': 'ECLIPSE'}	(#19327) ECLIPSE_HRC1-1	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/ECLIPSE_HRC1-1/	https://chanmine.bwh.harvard.edu/issues/19327	0	0		p0														experiment
+17164	{'id': 99, 'name': 'ECLIPSE'}	(#17164) ECLIPSE_vs_1000GPhase1v3	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/ECLIPSE_vs_1000GPhase1v3/	https://chanmine.bwh.harvard.edu/issues/17164	0	0		p0														experiment
+18510	{'id': 99, 'name': 'ECLIPSE'}	(#18510) EclipseTopMed	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/imputed/EclipseTopMed/	https://chanmine.bwh.harvard.edu/issues/18510	0	0		p0														experiment
+20766	{'id': 99, 'name': 'ECLIPSE'}	(#20766) TOPMed f8 missing NWD-IDs	ECLIPSE		https://chanmine.bwh.harvard.edu/issues/20766	0	0		p0														experiment
+16963	{'id': 99, 'name': 'ECLIPSE'}	(#16963) TopMed ECLIPSE Submission to dbGaP	ECLIPSE		https://chanmine.bwh.harvard.edu/issues/16963	0	0		p0														experiment
+19240	{'id': 99, 'name': 'ECLIPSE'}	(#19240) TopMed WGS Data	ECLIPSE	file:///proj/regeps/regep00/studies/ECLIPSE/data/wgs/TopMed/	https://chanmine.bwh.harvard.edu/issues/19240	2346	0	/proj/regeps/regep00/studies/ECLIPSE/data/wgs/TopMed/.chammps/sample-manifest.csv	p0														experiment
+19545	{'id': 99, 'name': 'ECLIPSE'}	(#19545) methyECLIPSE_clean_1430052791_V10	ECLIPSE	/proj/regeps/regep00/studies/ECLIPSE/data/epigenetic/methylation/ECLIPSE_450K	https://chanmine.bwh.harvard.edu/issues/19545	0	0		p0														experiment
+13016	{'id': 106, 'name': 'EOCOPD'}	(#13016) UW 1300 EOCOPD ICGN exome seq	EOCOPD	/proj/regeps/regep00/studies/EOCOPD/data/exome/EOCOPD_ICGN_1300_UW/	https://chanmine.bwh.harvard.edu/issues/13016	1305	0	/proj/regeps/regep00/studies/EOCOPD/data/exome/EOCOPD_ICGN_1300_UW/.chammps/sample-manifest.csv	p0														experiment
+19239	{'id': 106, 'name': 'EOCOPD'}	(#19239) TopMed WGS Data	EOCOPD	file:///proj/regeps/regep00/studies/EOCOPD/data/wgs/TopMed/	https://chanmine.bwh.harvard.edu/issues/19239	237	0	/proj/regeps/regep00/studies/EOCOPD/data/wgs/TopMed/.chammps/sample-manifest.csv	p0														experiment
+19541	{'id': 106, 'name': 'EOCOPD'}	(#19541) EOCOPD Exome Data	EOCOPD	/proj/regeps/regep00/studies/EOCOPD/data/exome/BWH_Silverman_Exome6k	https://chanmine.bwh.harvard.edu/issues/19541	5704	0	/proj/regeps/regep00/studies/EOCOPD/data/exome/BWH_Silverman_Exome6k/.chammps/sample-manifest.csv	p0														experiment
+24050	{'id': 1100, 'name': 'ESCAPE'}	(#24050) Castaldi_LungCancer_GSA	ESCAPE	/proj/regeps/regep00/studies/ESCAPE/data/dna/whole_genome/Castaldi_LungCancer_GSA	https://chanmine.bwh.harvard.edu/issues/24050	134	0	/proj/regeps/regep00/studies/ESCAPE/data/dna/whole_genome/Castaldi_LungCancer_GSA/.chammps/sample-manifest.csv	p0														experiment
+22175	{'id': 1100, 'name': 'ESCAPE'}	(#22175) ESCAPE_GDA_2021	ESCAPE	/proj/regeps/regep00/studies/ESCAPE/data/dna/whole_genome/ESCAPE_GDA_2021/	https://chanmine.bwh.harvard.edu/issues/22175	0	0		p0														experiment
+24104	{'id': 1100, 'name': 'ESCAPE'}	(#24104) Phenotype Data	ESCAPE	/proj/regeps/regep00/studies/ESCAPE/data/pheno/	https://chanmine.bwh.harvard.edu/issues/24104	0	0		p0														experiment
+21717	{'id': 480, 'name': 'EVE'}	(#21717) EVE_Caucasians_vs_1000GenomesP3v5	EVE	/proj/regeps/regep00/studies/EVE/data/imputed/EVE_Caucasians_vs_1000GenomesP3v5	https://chanmine.bwh.harvard.edu/issues/21717	0	0		p0														experiment
+17584	{'id': 942, 'name': 'Eczema/Atopic Dermatitis'}	(#17584) Create a final data set and dd for the Eczema/Atopic Dermatitis study	Eczema/Atopic Dermatitis		https://chanmine.bwh.harvard.edu/issues/17584	0	0		p0														experiment
+21468	{'id': 1085, 'name': 'ExternalCellLines'}	(#21468) randell_8.18.2020 (bronchial_epithelial_cells)	ExternalCellLines	/proj/regeps/regep00/studies/ExternalCellLines/data/rna/mrna/bec/randell_8.18.2020/	https://chanmine.bwh.harvard.edu/issues/21468	0	0		p0														experiment
+18890	{'id': 126, 'name': 'FOREST'}	(#18890) FOREST_MEGAChip_UMich	FOREST	file:///proj/regeps/regep00/studies/Forest/data/imputation/FOREST_MEGAChip_UMich/	https://chanmine.bwh.harvard.edu/issues/18890	0	0		p0														experiment
+15692	{'id': 126, 'name': 'FOREST'}	(#15692) FOREST MEGA Chip GWAS	FOREST	file:///proj/regeps/regep00/studies/Forest/data/gwas/FOREST_MEGAChip_2017	https://chanmine.bwh.harvard.edu/issues/15692	0	0		p0														experiment
+19352	{'id': 120, 'name': 'Fetal Lung'}	(#19352) FetalLung_GWAS_2011_UMich	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/imputed/FetalLung_GWAS_2011_UMich/	https://chanmine.bwh.harvard.edu/issues/19352	0	0		p0														experiment
+19341	{'id': 120, 'name': 'Fetal Lung'}	(#19341) FetalLung_GWAS_2011	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/gwas/FetalLung_GWAS_2011/	https://chanmine.bwh.harvard.edu/issues/19341	0	0		p0														experiment
+19231	{'id': 120, 'name': 'Fetal Lung'}	(#19231) 56919819-4_M450KChanning	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/methylation/56919819-4_M450KChanning/	https://chanmine.bwh.harvard.edu/issues/19231	0	0		p0														experiment
+19424	{'id': 120, 'name': 'Fetal Lung'}	(#19424) Fetal Lung June 2010	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/expression/Fetal_Lung_June_2010/	https://chanmine.bwh.harvard.edu/issues/19424	0	0		p0														experiment
+17638	{'id': 120, 'name': 'Fetal Lung'}	(#17638) FetalLung 850K Methylation Data	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/methylation/FetalLung_850K_2017/	https://chanmine.bwh.harvard.edu/issues/17638	0	0		p0														experiment
+18922	{'id': 120, 'name': 'Fetal Lung'}	(#18922) FetalLung Expression Data 2012_Affymetrix_FetalLung	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/expression/2012_Affymetrix_FetalLung/	https://chanmine.bwh.harvard.edu/issues/18922	0	0		p0														experiment
+18923	{'id': 120, 'name': 'Fetal Lung'}	(#18923) FetalLung Expression Data 2012_Affymetrix_Placenta	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/expression/2012_Affymetrix_Placenta/	https://chanmine.bwh.harvard.edu/issues/18923	0	0		p0														experiment
+18413	{'id': 120, 'name': 'Fetal Lung'}	(#18413) FetalLung Phenotype Data	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/phenotype/FetalLung_2013-05-30_478_samples_QC_FINAL.csv	https://chanmine.bwh.harvard.edu/issues/18413	0	0		p0														experiment
+15870	{'id': 120, 'name': 'Fetal Lung'}	(#15870) FetalLung_GWAS_2012	Fetal Lung	/proj/regeps/regep00/studies/FetalLung/data/gwas/FetalLung_GWAS_2012	https://chanmine.bwh.harvard.edu/issues/15870	0	0		p0														experiment
+17374	{'id': 120, 'name': 'Fetal Lung'}	(#17374) FetalLung_GWAS_2012_UMich	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/imputed/FetalLung_GWAS_2012_UMich/	https://chanmine.bwh.harvard.edu/issues/17374	0	0		p0														experiment
+17831	{'id': 120, 'name': 'Fetal Lung'}	(#17831) Hersh_PT8_AERD_Fetal_Lung_PT1_miRNA_Sequencing_Data	Fetal Lung	file:///proj/regeps/regep00/studies/FetalLung/data/mirnaseq/Hersh_PT8_AERD_Fetal_Lung_PT1_miRNA_Sequencing_Data/	https://chanmine.bwh.harvard.edu/issues/17831	0	0		p0														experiment
+20886	{'id': 929, 'name': 'Fredberg'}	(#20886) Mechanical Forces of Asthma ISOMER Dataset	Fredberg	/proj/regeps/regep00/studies/Fredberg/manuscripts/nhmja/Mechanical_forces_asthma/ISOMER/	https://chanmine.bwh.harvard.edu/issues/20886	0	0		p0														experiment
+17529	{'id': 785, 'name': 'GERA'}	(#17529) GWAS Kaiser_PSN185	GERA	file:///proj/regeps/regep00/studies/GERA/data/gwas/Kaiser_PSN185/genotype_plinks/	https://chanmine.bwh.harvard.edu/issues/17529	0	0		p0														experiment
+21004	{'id': 785, 'name': 'GERA'}	(#21004) Imputed Kaiser_PSN185	GERA	/proj/regeps/regep00/studies/GERA/data/imputed/Kaiser_PSN185/	https://chanmine.bwh.harvard.edu/issues/21004	0	0		p0														experiment
+17539	{'id': 785, 'name': 'GERA'}	(#17539) Kaiser_PSN185 Filtered for Missingness and HWE	GERA	file:///proj/regeps/regep00/studies/GERA/data/gwas/Kaiser_PSN185/filtered/	https://chanmine.bwh.harvard.edu/issues/17539	0	0		p0														experiment
+18975	{'id': 785, 'name': 'GERA'}	(#18975) Kaiser_PSN185_UMich	GERA	file:///proj/regeps/regep00/studies/GERA/data/imputed/Kaiser_PSN185_UMich/	https://chanmine.bwh.harvard.edu/issues/18975	0	0		p0														experiment
+18235	{'id': 785, 'name': 'GERA'}	(#18235) PSN185_2018: Updated Phenotype Data for PSN185	GERA	file:///proj/regeps/regep00/studies/GERA/data/multi/PSN185_2018/	https://chanmine.bwh.harvard.edu/issues/18235	0	0		p0														experiment
+18307	{'id': 785, 'name': 'GERA'}	(#18307) PSN185_RaceData: PSN185/Iribarren/Asthma: one additional file	GERA	file:///proj/regeps/regep00/studies/GERA/data/multi/PSN185_RaceData/	https://chanmine.bwh.harvard.edu/issues/18307	0	0		p0														experiment
+20921	{'id': 930, 'name': 'GTEx'}	(#20921) GTEx v8	GTEx	/proj/rerefs/reref00/Broad/GTEx_v8/	https://chanmine.bwh.harvard.edu/issues/20921	0	0		p0														experiment
+17699	{'id': 930, 'name': 'GTEx'}	(#17699) GTEx_v7	GTEx	file:///proj/rerefs/reref00/Broad/GTEx_v7/	https://chanmine.bwh.harvard.edu/issues/17699	0	0		p0														experiment
+23145	{'id': 1156, 'name': 'GrazCOPD-PH'}	(#23145) Graz_cohort_clinical_data	GrazCOPD-PH	/proj/regeps/regep00/studies/GrazCOPD-PH/data/pheno/	https://chanmine.bwh.harvard.edu/issues/23145	0	0		p0														experiment
+22764	{'id': 1156, 'name': 'GrazCOPD-PH'}	(#22764) graz_copd: BSA_0503_LBI_COPD	GrazCOPD-PH	/proj/regeps/regep00/studies/GrazCOPD-PH/data/dna/whole_genome/graz_copd/	https://chanmine.bwh.harvard.edu/issues/22764	0	0		p0														experiment
+19977	{'id': 555, 'name': 'HASM'}	(#19977) 2013_HASM_Omni2.5	HASM	/proj/regeps/regep00/studies/HASM/data/gwas/2013_HASM_Omni2.5/	https://chanmine.bwh.harvard.edu/issues/19977	0	0		p0														experiment
+19841	{'id': 147, 'name': 'ICGN'}	(#19841) COPD Cohorts Affymetrix Axiom Genotyping	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/AxiomGenotyping/	https://chanmine.bwh.harvard.edu/issues/19841	0	0		p0														experiment
+22887	{'id': 147, 'name': 'ICGN'}	(#22887) AxiomGenotyping_TOPMed	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/AxiomGenotyping_TOPMed/	https://chanmine.bwh.harvard.edu/issues/22887	0	0		p0														experiment
+21037	{'id': 147, 'name': 'ICGN'}	(#21037) Silverman_WGS_COPD_744	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/Silverman_WGS_COPD_744/	https://chanmine.bwh.harvard.edu/issues/21037	0	0		p0														experiment
+23026	{'id': 147, 'name': 'ICGN'}	(#23026) TopMed freeze.10 wgs	ICGN	/proj/regeps/regep00/studies/ICGN/data/dna/whole_genome/TopMed/	https://chanmine.bwh.harvard.edu/issues/23026	0	0		p0														experiment
+19032	{'id': 1052, 'name': 'IIPGA'}	(#19032) Innate Immunity Project Data	IIPGA	file:///proj/regeps/regep00/studies/IIPGA/data/genotype/	https://chanmine.bwh.harvard.edu/issues/19032	0	0		p0														experiment
+16614	{'id': 863, 'name': 'IPF NET'}	(#16614) Omni2.5Exome_2017	IPF NET	file:///proj/reipfs/reipf00/data/exome/Omni2.5_Exome_2017/	https://chanmine.bwh.harvard.edu/issues/16614	0	0		p0														experiment
+20540	{'id': 172, 'name': 'LOCCS'}	(#20540) LOLCSE_HRC_UMich	LOCCS	/proj/regeps/regep00/studies/LOCCS/data/dna/whole_genome/LOLCSE_HRC_UMich	https://chanmine.bwh.harvard.edu/issues/20540	0	0		p0														experiment
+20537	{'id': 172, 'name': 'LOCCS'}	(#20537) RIKEN_SEPRACOR_LOCCS_LODO_2009	LOCCS	/proj/regeps/regep00/studies/LOCCS/data/gwas/RIKEN_SEPRACOR_LOCCS_LODO_2009/	https://chanmine.bwh.harvard.edu/issues/20537	0	0		p0														experiment
+14591	{'id': 172, 'name': 'LOCCS'}	(#14591) LOCCS, LODO, SEPRACOR data imputed against 1000GenomesPhase3v5	LOCCS	/proj/regeps/regep00/studies/LOCCS/data/imputed/RIKEN_LOLCSE_vs_1000GenomesPhase3v5/	https://chanmine.bwh.harvard.edu/issues/14591	0	0		p0														experiment
+18369	{'id': 796, 'name': 'LOTT'}	"(#18369) ""LOTT 2015"" Expression Data"	LOTT	file:///proj/regeps/regep00/studies/LOTT/data/expression/LOTT\ 2015/	https://chanmine.bwh.harvard.edu/issues/18369	0	0		p0														experiment
+14659	{'id': 796, 'name': 'LOTT'}	(#14659) LOTT GWAS	LOTT		https://chanmine.bwh.harvard.edu/issues/14659	0	0		p0														experiment
+15852	{'id': 796, 'name': 'LOTT'}	(#15852) LOTT Phenotype Data	LOTT	/proj/regeps/regep00/studies/LOTT/data/phenotype	https://chanmine.bwh.harvard.edu/issues/15852	0	0		p0														experiment
+17185	{'id': 796, 'name': 'LOTT'}	(#17185) LOTT_GWAS_2016_UMich	LOTT	file:///proj/regeps/regep00/studies/LOTT/data/imputed/LOTT_GWAS_2016_UMich/	https://chanmine.bwh.harvard.edu/issues/17185	0	0		p0														experiment
+18370	{'id': 796, 'name': 'LOTT'}	(#18370) MAF/R-Squared FIltered Impute Results for Minseok's Manuscript	LOTT	file:///proj/regeps/regep00/studies/LOTT/analyses/remse/3.GWAS_Imputated/0.Imputated_343subjects/	https://chanmine.bwh.harvard.edu/issues/18370	0	0		p0														experiment
+17053	{'id': 176, 'name': 'LTCOPD'}	(#17053) LTCOPD Genotype Data	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/genotype/	https://chanmine.bwh.harvard.edu/issues/17053	0	0		p0														experiment
+14363	{'id': 176, 'name': 'LTCOPD'}	(#14363) finalData_vs_1000GPh3V5	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/imputed/finalData_vs_1000GPh3V5/	https://chanmine.bwh.harvard.edu/issues/14363	0	0		p0														experiment
+17050	{'id': 176, 'name': 'LTCOPD'}	(#17050) LTCOPD Methylation Data	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/methylation/	https://chanmine.bwh.harvard.edu/issues/17050	0	0		p0														experiment
+17051	{'id': 176, 'name': 'LTCOPD'}	(#17051) LTCOPD Phenotype Data	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/phenotype/	https://chanmine.bwh.harvard.edu/issues/17051	0	0		p0														experiment
+19252	{'id': 176, 'name': 'LTCOPD'}	(#19252) LTCOPD TopMed WGS Data	LTCOPD	file:///proj/regeps/regep00/studies/LTCOPD/data/wgs/TopMed/	https://chanmine.bwh.harvard.edu/issues/19252	10550	0	/proj/regeps/regep00/studies/LTCOPD/data/wgs/TopMed/.chammps/sample-manifest.csv	p0														experiment
+24243	{'id': 532, 'name': 'LTRC'}	(#24243) TOPMed Mitochondrial Copy Number and Heteroplasmy Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/dna/mitochondrial/TOPMed/	https://chanmine.bwh.harvard.edu/issues/24243	0	0		p0														experiment
+21178	{'id': 532, 'name': 'LTRC'}	(#21178) 850K_control_snp_ref	LTRC	/proj/regeps/regep00/studies/LTRC/data/dna/targeted/850K_control_snp_ref/	https://chanmine.bwh.harvard.edu/issues/21178	1542	0	/proj/regeps/regep00/studies/LTRC/data/dna/targeted/850K_control_snp_ref/.chammps/sample-manifest.csv	p0														experiment
+20642	{'id': 532, 'name': 'LTRC'}	(#20642) LTRC TOPMed WGS	LTRC	/proj/regeps/regep00/studies/LTRC/data/dna/whole_genome/TopMed/	https://chanmine.bwh.harvard.edu/issues/20642	1542	0	/proj/regeps/regep00/studies/LTRC/data/dna/whole_genome/TopMed/.chammps/sample-manifest.csv	p0														experiment
+20644	{'id': 532, 'name': 'LTRC'}	(#20644) TOPMed Blood Methylation Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/TopMed/Blood/	https://chanmine.bwh.harvard.edu/issues/20644	1295	0	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/TopMed/Blood/.chammps/sample-manifest.csv	p0														experiment
+24098	{'id': 532, 'name': 'LTRC'}	(#24098) TOPMed Lung Methylation Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/TopMed/Lung/	https://chanmine.bwh.harvard.edu/issues/24098	1659	0	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/TopMed/Lung/.chammps/sample-manifest.csv	p0														experiment
+20272	{'id': 532, 'name': 'LTRC'}	(#20272) LTRC Phenotype Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/phenotype/	https://chanmine.bwh.harvard.edu/issues/20272	6544	0	/proj/regeps/regep00/studies/LTRC/data/phenotype/.chammps/sample-manifest.csv	p0														experiment
+22940	{'id': 532, 'name': 'LTRC'}	(#22940) RNA Methylation	LTRC	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/2022_RNA_Methylation	https://chanmine.bwh.harvard.edu/issues/22940	250	0	/proj/regeps/regep00/studies/LTRC/data/epigenetic/methylation/2022_RNA_Methylation/.chammps/sample-manifest.csv	p0														experiment
+20643	{'id': 532, 'name': 'LTRC'}	(#20643) LTRC RNASeq Data	LTRC	/proj/regeps/regep00/studies/LTRC/data/rna/mrna/lung_shortread/	https://chanmine.bwh.harvard.edu/issues/20643	1589	0	/proj/regeps/regep00/studies/LTRC/data/rna/mrna/lung_shortread/.chammps/sample-manifest.csv	p0														experiment
+23838	{'id': 951, 'name': 'MGBBiobank'}	(#23838) ODOLLFA_2022 mirnaseq	MGBBiobank	/proj/regeps/regep00/studies/MGBBiobank/data/rna/mirnaseq/ODOLLFA_2022/	https://chanmine.bwh.harvard.edu/issues/23838	0	0		p0														experiment
+24292	{'id': 951, 'name': 'MGBBiobank'}	(#24292) PHASIC Metabolomics	MGBBiobank	/proj/regeps/regep00/studies/MGBBiobank/data/metabolomics/untargeted/PHASIC/	https://chanmine.bwh.harvard.edu/issues/24292	0	0		p0														experiment
+18272	{'id': 951, 'name': 'MGBBiobank'}	(#18272) Partners Biobank Asthma Phenotypes	MGBBiobank		https://chanmine.bwh.harvard.edu/issues/18272	0	0		p0														experiment
+18268	{'id': 951, 'name': 'MGBBiobank'}	(#18268) Partners Biobank Imputed Data	MGBBiobank	file:///proj/regeps/regep00/studies/PartnersBiobank/data/imputed/	https://chanmine.bwh.harvard.edu/issues/18268	0	0		p0														experiment
+18269	{'id': 951, 'name': 'MGBBiobank'}	(#18269) Partners Biobank Phenotype Data	MGBBiobank		https://chanmine.bwh.harvard.edu/issues/18269	0	0		p0														experiment
+15401	{'id': 951, 'name': 'MGBBiobank'}	(#15401) Partners Biobank mega_v1b3 merged with Partners Biobank mega_v2a2_r1	MGBBiobank	file:///proj/regeps/regep00/studies/eMERGE/data/imputed/PartnersBiobank/biobank_mega_v1v2_merge	https://chanmine.bwh.harvard.edu/issues/15401	0	0		p0														experiment
+14465	{'id': 186, 'name': 'NACC'}	(#14465) NACC Phenotype Dataset	NACC		https://chanmine.bwh.harvard.edu/issues/14465	0	0		p0														experiment
+14745	{'id': 188, 'name': 'NAS'}	(#14745) NAS GWAS Megachip 2016	NAS		https://chanmine.bwh.harvard.edu/issues/14745	0	0		p0														experiment
+16252	{'id': 188, 'name': 'NAS'}	(#16252) 2016_NAS_GWAS_Megachip Imputed against 1000Genomes_Phase3_v5_ALL	NAS		https://chanmine.bwh.harvard.edu/issues/16252	0	0		p0														experiment
+21368	{'id': 188, 'name': 'NAS'}	(#21368) Revisions for hprke MetabolomicsOfLungFunction Manuscript	NAS	/proj/regeps/regep00/studies/NAS/data/metabolomics/	https://chanmine.bwh.harvard.edu/issues/21368	0	0		p0														experiment
+21072	{'id': 188, 'name': 'NAS'}	(#21072) NAS Metabolomic Data	NAS	/proj/regeps/regep00/studies/NAS/data/metabolomics/	https://chanmine.bwh.harvard.edu/issues/21072	0	0		p0														experiment
+15129	{'id': 188, 'name': 'NAS'}	(#15129) NAS Phenotype Data	NAS		https://chanmine.bwh.harvard.edu/issues/15129	0	0		p0														experiment
+19892	{'id': 1056, 'name': 'NBC'}	(#19892) /proj/eepcb/eepcb00	NBC		https://chanmine.bwh.harvard.edu/issues/19892	0	0		p0														experiment
+18719	{'id': 557, 'name': 'NETT'}	(#18719) NETTNAS Unified Genotypes	NETT	file:///proj/regeps/regep00/studies/NETT/data/geno/	https://chanmine.bwh.harvard.edu/issues/18719	0	0		p0														experiment
+18718	{'id': 557, 'name': 'NETT'}	(#18718) NETT_NAS GWAS	NETT	file:///proj/regeps/regep00/studies/NETT/data/gwas/NETT_NAS/	https://chanmine.bwh.harvard.edu/issues/18718	0	0		p0														experiment
+19007	{'id': 557, 'name': 'NETT'}	(#19007) TCGS_FINAL	NETT	file:///proj/regeps/regep00/studies/TCGS/data/gwas/TCGS_FINAL/	https://chanmine.bwh.harvard.edu/issues/19007	0	0		p0														experiment
+18431	{'id': 557, 'name': 'NETT'}	(#18431) NETTNAS_vs_HRC	NETT	file:///proj/regeps/regep00/studies/NETT/data/imputed/NETTNAS_vs_HRC/	https://chanmine.bwh.harvard.edu/issues/18431	0	0		p0														experiment
+19027	{'id': 557, 'name': 'NETT'}	(#19027) recs100	NETT	file:///proj/regeps/regep00/studies/NETT/data/misc/recs100/	https://chanmine.bwh.harvard.edu/issues/19027	0	0		p0														experiment
+18511	{'id': 710, 'name': 'NORWAY'}	(#18511) GenKOLS_TopMed	NORWAY	file:///proj/regeps/regep00/studies/GENKOLS/data/imputed/GenKOLS_TopMed/	https://chanmine.bwh.harvard.edu/issues/18511	0	0		p0														experiment
+18731	{'id': 710, 'name': 'NORWAY'}	(#18731) NORWAY_Hrc11	NORWAY	file:///proj/regeps/regep00/studies/NORWAY/data/imputed/NORWAY_Hrc11/	https://chanmine.bwh.harvard.edu/issues/18731	0	0		p0														experiment
+18732	{'id': 710, 'name': 'NORWAY'}	(#18732) NORWAY Unified Genotypes	NORWAY	file:///proj/regeps/regep00/studies/NORWAY/data/geno/	https://chanmine.bwh.harvard.edu/issues/18732	0	0		p0														experiment
+16011	{'id': 710, 'name': 'NORWAY'}	(#16011) NORWAY_GSK_COPD_2009	NORWAY	file:///proj/regeps/regep00/studies/NORWAY/data/gwas/NORWAY_GSK_COPD_2009	https://chanmine.bwh.harvard.edu/issues/16011	0	0		p0														experiment
+20008	{'id': 710, 'name': 'NORWAY'}	(#20008) NORWAY Phenotype Data	NORWAY	/proj/regeps/regep00/studies/NORWAY/data/phenotype/	https://chanmine.bwh.harvard.edu/issues/20008	0	0		p0														experiment
+23923	{'id': 1131, 'name': 'OBTRIC'}	(#23923) OBTRIC rna mirna rehom PKG-0822-01005588 2022-12-19_for_rpc15 221208_NB552221_0127_AH5YNCBGXN 221208_NB551475_0306_AH5YKKBGXN	OBTRIC		https://chanmine.bwh.harvard.edu/issues/23923	0	0		p0														experiment
+23060	{'id': 1131, 'name': 'OBTRIC'}	(#23060) OBTRIC rna mrna rehom  220330_NB552221_0108_AH7WNKBGXL	OBTRIC		https://chanmine.bwh.harvard.edu/issues/23060	0	0		p0														experiment
+22702	{'id': 1131, 'name': 'OBTRIC'}	(#22702) OBTRIC rna mrna rehom data download and alignment qc	OBTRIC		https://chanmine.bwh.harvard.edu/issues/22702	0	0		p0														experiment
+22034	{'id': 92, 'name': 'PILOT Study Projects'}	(#22034) External Finotto UK Erlangen	PILOT Study Projects	/proj/regeps/regep00/studies/UKErlangen/data/epigenetic/methylation/finotto/data/raw/	https://chanmine.bwh.harvard.edu/issues/22034	0	0		p0														experiment
+23315	{'id': 92, 'name': 'PILOT Study Projects'}	(#23315) PDD rna mrna remhc PCLS contrast application 3	PILOT Study Projects		https://chanmine.bwh.harvard.edu/issues/23315	0	0		p0														experiment
+22416	{'id': 92, 'name': 'PILOT Study Projects'}	(#22416) PDD rna mrna remhc download, align, quantify	PILOT Study Projects		https://chanmine.bwh.harvard.edu/issues/22416	0	0		p0														experiment
+23318	{'id': 92, 'name': 'PILOT Study Projects'}	(#23318) PDD rna mrna remhc pcls contrast app 3 - correlation between pre sva post sva	PILOT Study Projects		https://chanmine.bwh.harvard.edu/issues/23318	0	0		p0														experiment
+23319	{'id': 92, 'name': 'PILOT Study Projects'}	(#23319) PDD rna mrna remhc pcls contrast app 3 overlap of top 10 genes pre sva post sva	PILOT Study Projects		https://chanmine.bwh.harvard.edu/issues/23319	0	0		p0														experiment
+24121	{'id': 92, 'name': 'PILOT Study Projects'}	(#24121) Sequoia rna mrna rehom 	PILOT Study Projects		https://chanmine.bwh.harvard.edu/issues/24121	0	0		p0														experiment
+23830	{'id': 92, 'name': 'PILOT Study Projects'}	(#23830) pilot rna mrna exome restw lung FFPE 35932779149-5_NJH-PPG_FC1 PKG-0322-01005452 221025_NB552221_0121_AH7JF5AFX3 2022-11-09_for_rpc15	PILOT Study Projects		https://chanmine.bwh.harvard.edu/issues/23830	0	0		p0														experiment
+24160	{'id': 92, 'name': 'PILOT Study Projects'}	(#24160) pilot rna scRNA relug data download	PILOT Study Projects		https://chanmine.bwh.harvard.edu/issues/24160	0	0		p0														experiment
+23025	{'id': 207, 'name': 'PLCOPD'}	(#23025) TopMed freeze.10 wgs	PLCOPD		https://chanmine.bwh.harvard.edu/issues/23025	0	0		p0														experiment
+20106	{'id': 957, 'name': 'PPMI'}	(#20106) 2018-12-05_for_rpc15	PPMI	/proj/regeps/regep00/studies/PPMI/data/exome/2018-12-05_for_rpc15/	https://chanmine.bwh.harvard.edu/issues/20106	0	0		p0														experiment
+20347	{'id': 957, 'name': 'PPMI'}	(#20347) Calculate Missing variables in PPMI transplant REDCAP	PPMI		https://chanmine.bwh.harvard.edu/issues/20347	0	0		p0														experiment
+20400	{'id': 957, 'name': 'PPMI'}	(#20400) Data Set Cleaning/ Fill in Blank Lab Values in REDCAP	PPMI		https://chanmine.bwh.harvard.edu/issues/20400	0	0		p0														experiment
+19401	{'id': 957, 'name': 'PPMI'}	(#19401) MUC5B SNP Results	PPMI	/proj/regeps/regep00/studies/PPMI/data/dna/targeted/MUC5B/	https://chanmine.bwh.harvard.edu/issues/19401	0	0		p0														experiment
+20848	{'id': 957, 'name': 'PPMI'}	(#20848) PPMI 850K dataset QC (second batch) 	PPMI		https://chanmine.bwh.harvard.edu/issues/20848	0	0		p0														experiment
+15522	{'id': 957, 'name': 'PPMI'}	(#15522) PPMI Phenotype Data	PPMI		https://chanmine.bwh.harvard.edu/issues/15522	0	0		p0														experiment
+20242	{'id': 957, 'name': 'PPMI'}	(#20242) PPMI TERC Data	PPMI	/proj/regeps/regep00/studies/PPMI/data/dna/exome/TERC/	https://chanmine.bwh.harvard.edu/issues/20242	0	0		p0														experiment
+15521	{'id': 957, 'name': 'PPMI'}	(#15521) PPMI Telomere Length	PPMI	file:///proj/regeps/regep00/studies/PPMI/data/phenotype/Telomere_Data_2016	https://chanmine.bwh.harvard.edu/issues/15521	0	0		p0														experiment
+20175	{'id': 957, 'name': 'PPMI'}	(#20175) PPMI Unified Genotype Data	PPMI	/proj/regeps/regep00/studies/PPMI/data/dna/merged/PPMI_GeneticData/	https://chanmine.bwh.harvard.edu/issues/20175	0	0		p0														experiment
+20899	{'id': 957, 'name': 'PPMI'}	(#20899) PPMI WES Tracking 	PPMI		https://chanmine.bwh.harvard.edu/issues/20899	0	0		p0														experiment
+17762	{'id': 957, 'name': 'PPMI'}	(#17762) PPMI_ExomeSeq_2017	PPMI	file:///proj/regeps/regep00/studies/PPMI/data/exome/PPMI_ExomeSeq_2017/	https://chanmine.bwh.harvard.edu/issues/17762	0	0		p0														experiment
+16541	{'id': 957, 'name': 'PPMI'}	(#16541) PPMI_M850K_2017	PPMI	file:///proj/regeps/regep00/studies/PPMI/data/methylation/PPMI_M850K_2017/	https://chanmine.bwh.harvard.edu/issues/16541	0	0		p0														experiment
+20148	{'id': 957, 'name': 'PPMI'}	(#20148) Partners Biobank Sample Tracking	PPMI		https://chanmine.bwh.harvard.edu/issues/20148	0	0		p0														experiment
+20342	{'id': 957, 'name': 'PPMI'}	(#20342) Pulmonary Genetics Stem Cell Biobank Data Import	PPMI		https://chanmine.bwh.harvard.edu/issues/20342	0	0		p0														experiment
+20344	{'id': 957, 'name': 'PPMI'}	(#20344) RPDR import into Asthma Samsung Registry	PPMI		https://chanmine.bwh.harvard.edu/issues/20344	0	0		p0														experiment
+19555	{'id': 957, 'name': 'PPMI'}	(#19555) Telomere Length Batch 3	PPMI		https://chanmine.bwh.harvard.edu/issues/19555	0	0		p0														experiment
+24158	{'id': 1154, 'name': 'Physionet'}	(#24158) MIMIC-IV	Physionet	/proj/regeps/regep00/studies/Physionet/data/phenotype/MIMIC-IV/	https://chanmine.bwh.harvard.edu/issues/24158	0	0		p0														experiment
+24159	{'id': 1154, 'name': 'Physionet'}	(#24159) eICU	Physionet	/proj/regeps/regep00/studies/Physionet/data/phenotype/eICU	https://chanmine.bwh.harvard.edu/issues/24159	0	0		p0														experiment
+19217	{'id': 588, 'name': 'Reference Datasets'}	(#19217) hg38	Reference Datasets	file:///proj/rerefs/reref00/UCSC/hg38/	https://chanmine.bwh.harvard.edu/issues/19217	0	0		p0														experiment
+21253	{'id': 588, 'name': 'Reference Datasets'}	(#21253) HGDP	Reference Datasets	/proj/rerefs/reref00/dna/whole/HGDP	https://chanmine.bwh.harvard.edu/issues/21253	0	0		p0														experiment
+18467	{'id': 588, 'name': 'Reference Datasets'}	(#18467) 1000Genomes_Phase1_v3	Reference Datasets	file:///proj/rerefs/reref00/1000Genomes_Phase1_v3/	https://chanmine.bwh.harvard.edu/issues/18467	0	0		p0														experiment
+20705	{'id': 588, 'name': 'Reference Datasets'}	(#20705) Ensembl Release-94	Reference Datasets	/proj/rerefs/reref00/Ensembl/release-94/	https://chanmine.bwh.harvard.edu/issues/20705	0	0		p0														experiment
+17275	{'id': 588, 'name': 'Reference Datasets'}	(#17275) IconDB GWAS	Reference Datasets	file:///proj/rerefs/reref00/Illumina/iconDB/cleaned/	https://chanmine.bwh.harvard.edu/issues/17275	0	0		p0														experiment
+18486	{'id': 588, 'name': 'Reference Datasets'}	(#18486) 2018_GIANT_plus_UKBB	Reference Datasets	file:///proj/rerefs/reref00/Broad/GIANT/2018_GIANT_plus_UKBB/	https://chanmine.bwh.harvard.edu/issues/18486	0	0		p0														experiment
+18362	{'id': 588, 'name': 'Reference Datasets'}	(#18362) CAD	Reference Datasets	file:///proj/rerefs/reref00/GWASSummaryStats/cad/	https://chanmine.bwh.harvard.edu/issues/18362	0	0		p0														experiment
+18364	{'id': 588, 'name': 'Reference Datasets'}	(#18364) Diagram: Type 2 Diabetes	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/18364	0	0		p0														experiment
+18361	{'id': 588, 'name': 'Reference Datasets'}	(#18361) GWAS Anthropometric 2015 BMI	Reference Datasets	file:///proj/rerefs/reref00/GWASSummaryStats/bmi/	https://chanmine.bwh.harvard.edu/issues/18361	0	0		p0														experiment
+19112	{'id': 588, 'name': 'Reference Datasets'}	(#19112) PMID 27863252: The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease	Reference Datasets	file:///proj/rerefs/reref00/PubMed/27863252/	https://chanmine.bwh.harvard.edu/issues/19112	0	0		p0														experiment
+19107	{'id': 588, 'name': 'Reference Datasets'}	(#19107) PMID 28209224: Systematic Evaluation of Pleiotropy Identifies 6 Further Loci Associated With Coronary Artery Disease	Reference Datasets	file:///proj/rerefs/reref00/PubMed/28209224/	https://chanmine.bwh.harvard.edu/issues/19107	0	0		p0														experiment
+19104	{'id': 588, 'name': 'Reference Datasets'}	(#19104) PMID 28604731: Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits	Reference Datasets	file:///proj/rerefs/reref00/PubMed/28604731/	https://chanmine.bwh.harvard.edu/issues/19104	0	0		p0														experiment
+18363	{'id': 588, 'name': 'Reference Datasets'}	(#18363) SSGAC: Depression	Reference Datasets	file:///proj/rerefs/reref00/GWASSummaryStats/depress/	https://chanmine.bwh.harvard.edu/issues/18363	0	0		p0														experiment
+18360	{'id': 588, 'name': 'Reference Datasets'}	(#18360) The GEnetic Factors for OSteoporosis (GEFOS): bmd	Reference Datasets	file:///proj/rerefs/reref00/GWASSummaryStats/bmd/	https://chanmine.bwh.harvard.edu/issues/18360	0	0		p0														experiment
+16965	{'id': 588, 'name': 'Reference Datasets'}	(#16965) TCIA IvyGAP Data	Reference Datasets	file:///proj/rerefs/reref00/TCIA/Ivy_GAP/	https://chanmine.bwh.harvard.edu/issues/16965	0	0		p0														experiment
+17276	{'id': 588, 'name': 'Reference Datasets'}	(#17276) IcondDB Imputed on  the UMich Server	Reference Datasets	file:///proj/rerefs/reref00/Illumina/iconDB/imputed_vs_1000GP3v5	https://chanmine.bwh.harvard.edu/issues/17276	0	0		p0														experiment
+21636	{'id': 588, 'name': 'Reference Datasets'}	(#21636) dbSNP 154	Reference Datasets	/proj/rerefs/reref00/dbsnp/snp154/	https://chanmine.bwh.harvard.edu/issues/21636	0	0		p0														experiment
+19137	{'id': 588, 'name': 'Reference Datasets'}	(#19137) miRBase Release 22	Reference Datasets	file:///proj/rerefs/reref00/mirbase/22/	https://chanmine.bwh.harvard.edu/issues/19137	0	0		p0														experiment
+19122	{'id': 588, 'name': 'Reference Datasets'}	(#19122) PMID 28369058: Mapping of 79 loci for 83 plasma protein biomarkers in cardiovascular disease	Reference Datasets	file://proj/rerefs/reref00/PubMed/28369058/	https://chanmine.bwh.harvard.edu/issues/19122	0	0		p0														experiment
+22349	{'id': 588, 'name': 'Reference Datasets'}	(#22349) rna_binding_protein_KD	Reference Datasets	/proj/rerefs/reref00/ENCODE/rna/rna_binding_protein_KD/	https://chanmine.bwh.harvard.edu/issues/22349	0	0		p0														experiment
+24066	{'id': 588, 'name': 'Reference Datasets'}	(#24066) Barby HCA	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/Barby/	https://chanmine.bwh.harvard.edu/issues/24066	0	0		p0														experiment
+24086	{'id': 588, 'name': 'Reference Datasets'}	"(#24086) Crystal																		"	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24086	0	0		p0														experiment
+24078	{'id': 588, 'name': 'Reference Datasets'}	(#24078) E-MTAB-8221 (Spence)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/Spence/	https://chanmine.bwh.harvard.edu/issues/24078	0	0		p0														experiment
+24061	{'id': 588, 'name': 'Reference Datasets'}	(#24061) EGAS00001001755 (Teichmann)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24061	0	0		p0														experiment
+24085	{'id': 588, 'name': 'Reference Datasets'}	(#24085) EGAS00001004082 (Deprez)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24085	0	0		p0														experiment
+24064	{'id': 588, 'name': 'Reference Datasets'}	(#24064) GSE102592 (Peng)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24064	0	0		p0														experiment
+24065	{'id': 588, 'name': 'Reference Datasets'}	(#24065) GSE103918 (Kotton)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24065	0	0		p0														experiment
+24058	{'id': 588, 'name': 'Reference Datasets'}	(#24058) GSE122960 (Misharin_Reyfman)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE122960/	https://chanmine.bwh.harvard.edu/issues/24058	0	0		p0														experiment
+24059	{'id': 588, 'name': 'Reference Datasets'}	(#24059) GSE126111 (Hanley)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE122960	https://chanmine.bwh.harvard.edu/issues/24059	0	0		p0														experiment
+24057	{'id': 588, 'name': 'Reference Datasets'}	(#24057) GSE128033 (Lafyatis_Morse)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE128033/	https://chanmine.bwh.harvard.edu/issues/24057	0	0		p0														experiment
+24056	{'id': 588, 'name': 'Reference Datasets'}	(#24056) GSE128169 (Lafyatis_Valenzi)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE128169/	https://chanmine.bwh.harvard.edu/issues/24056	0	0		p0														experiment
+24063	{'id': 588, 'name': 'Reference Datasets'}	(#24063) GSE130148 (Teichmann)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24063	0	0		p0														experiment
+24082	{'id': 588, 'name': 'Reference Datasets'}	(#24082) GSE132771 (Sheppard)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE132771/GSE132771/	https://chanmine.bwh.harvard.edu/issues/24082	0	0		p0														experiment
+24083	{'id': 588, 'name': 'Reference Datasets'}	(#24083) GSE133747 (Niklason)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE133747/GSE133747/	https://chanmine.bwh.harvard.edu/issues/24083	0	0		p0														experiment
+24077	{'id': 588, 'name': 'Reference Datasets'}	(#24077) GSE134174 (Seibold)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE134174/GSE134174/	https://chanmine.bwh.harvard.edu/issues/24077	0	0		p0														experiment
+24055	{'id': 588, 'name': 'Reference Datasets'}	(#24055) GSE135893 (Kropski)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE135893/	https://chanmine.bwh.harvard.edu/issues/24055	0	0		p0														experiment
+24084	{'id': 588, 'name': 'Reference Datasets'}	(#24084) GSE136831 (Naftali Kaminski)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/GSE136831/	https://chanmine.bwh.harvard.edu/issues/24084	0	0		p0														experiment
+18375	{'id': 588, 'name': 'Reference Datasets'}	(#18375) Human Cell Atlas Preview Datasets	Reference Datasets	file:///proj/rerefs/reref00/HumanCellAtlas/	https://chanmine.bwh.harvard.edu/issues/18375	0	0		p0														experiment
+24060	{'id': 588, 'name': 'Reference Datasets'}	(#24060) Human Lung Cell Atlas (HLCA) v1	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/HLCA_v1/	https://chanmine.bwh.harvard.edu/issues/24060	0	0		p0														experiment
+24067	{'id': 588, 'name': 'Reference Datasets'}	(#24067) Krasnow	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24067	0	0		p0														experiment
+24068	{'id': 588, 'name': 'Reference Datasets'}	(#24068) Linarsson (unpublished)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24068	0	0		p0														experiment
+24070	{'id': 588, 'name': 'Reference Datasets'}	"(#24070) Meyer_b	(unpublished)"	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24070	0	0		p0														experiment
+24071	{'id': 588, 'name': 'Reference Datasets'}	(#24071) Misharin (unpublished)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24071	0	0		p0														experiment
+24069	{'id': 588, 'name': 'Reference Datasets'}	(#24069) PRJEB31843 (Meyer_a)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/Meyer_a/	https://chanmine.bwh.harvard.edu/issues/24069	0	0		p0														experiment
+24072	{'id': 588, 'name': 'Reference Datasets'}	(#24072) Rawlins (unpublished)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24072	0	0		p0														experiment
+24073	{'id': 588, 'name': 'Reference Datasets'}	(#24073) Regev (unpublished)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24073	0	0		p0														experiment
+24074	{'id': 588, 'name': 'Reference Datasets'}	(#24074) Regev_Rajagopal	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24074	0	0		p0														experiment
+24075	{'id': 588, 'name': 'Reference Datasets'}	(#24075) Schultze (unpublished)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24075	0	0		p0														experiment
+24076	{'id': 588, 'name': 'Reference Datasets'}	(#24076) Schultze_Falk (unpublished)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24076	0	0		p0														experiment
+24062	{'id': 588, 'name': 'Reference Datasets'}	"(#24062) Teichmann	EGAS00001002649"	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24062	0	0		p0														experiment
+24079	{'id': 588, 'name': 'Reference Datasets'}	(#24079) Whitsett_Xu_10X	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24079	0	0		p0														experiment
+24080	{'id': 588, 'name': 'Reference Datasets'}	(#24080) Whitsett_Xu_dropSeq (unpublished)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24080	0	0		p0														experiment
+24081	{'id': 588, 'name': 'Reference Datasets'}	(#24081) Xavier (unpublished)	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/24081	0	0		p0														experiment
+18689	{'id': 588, 'name': 'Reference Datasets'}	(#18689) CEU SomaLogic pQTLs	Reference Datasets	file:///proj/rerefs/reref00/Cambridge/CEU/SomaLogic_pQTLs/	https://chanmine.bwh.harvard.edu/issues/18689	0	0		p0														experiment
+23850	{'id': 588, 'name': 'Reference Datasets'}	(#23850) Christensen-Lab-Dartmouth/MethylNet	Reference Datasets	/proj/rerefs/reref00/Christensen-Lab-Dartmouth/MethylNet/	https://chanmine.bwh.harvard.edu/issues/23850	0	0		p0														experiment
+22644	{'id': 588, 'name': 'Reference Datasets'}	(#22644) EBI/eQTLCatalogue	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/22644	0	0		p0														experiment
+22352	{'id': 588, 'name': 'Reference Datasets'}	(#22352) GENCODE	Reference Datasets		https://chanmine.bwh.harvard.edu/issues/22352	0	0		p0														experiment
+23717	{'id': 588, 'name': 'Reference Datasets'}	(#23717) GSE152779 - with liftover to GRCh38	Reference Datasets	/proj/rerefs/reref00/GEO/GSE152779/	https://chanmine.bwh.harvard.edu/issues/23717	0	0		p0														experiment
+19128	{'id': 588, 'name': 'Reference Datasets'}	(#19128) GSE92742: L1000 Connectivity Map perturbational profiles from Broad Institute LINCS Center for Transcriptomics LINCS Pilot PHASE 	Reference Datasets	file:///proj/rerefs/reref00/Broad/CMAP/	https://chanmine.bwh.harvard.edu/issues/19128	0	0		p0														experiment
+24041	{'id': 588, 'name': 'Reference Datasets'}	(#24041) Human Lung Cell Atlas (HLCA)	Reference Datasets	/proj/rerefs/reref00/rna/whole/singlecell_lung/HLCA_v1	https://chanmine.bwh.harvard.edu/issues/24041	0	0		p0														experiment
+19451	{'id': 588, 'name': 'Reference Datasets'}	(#19451) MSigDB	Reference Datasets	/proj/rerefs/reref00/Broad/GSEA/MSigDB/	https://chanmine.bwh.harvard.edu/issues/19451	0	0		p0														experiment
+19082	{'id': 588, 'name': 'Reference Datasets'}	(#19082) SLDP (Signed LD Profile) regression	Reference Datasets	file:///proj/rerefs/reref00/Broad/alkesgroup/SLDP/	https://chanmine.bwh.harvard.edu/issues/19082	0	0		p0														experiment
+20281	{'id': 588, 'name': 'Reference Datasets'}	(#20281) Sanger Mouse Genomes Project	Reference Datasets	/proj/rerefs/reref00/Sanger/mouse-genome-project/	https://chanmine.bwh.harvard.edu/issues/20281	0	0		p0														experiment
+20039	{'id': 588, 'name': 'Reference Datasets'}	(#20039) Tobacco and EtOH Use GWAS	Reference Datasets	/proj/rerefs/reref00/GWASSummaryStats/2019_Liu,M_TobaccoEtOH/	https://chanmine.bwh.harvard.edu/issues/20039	0	0		p0														experiment
+18396	{'id': 588, 'name': 'Reference Datasets'}	(#18396) dbSNP 151	Reference Datasets	file:///proj/rerefs/reref00/dbsnp/snp151/	https://chanmine.bwh.harvard.edu/issues/18396	0	0		p0														experiment
+19340	{'id': 588, 'name': 'Reference Datasets'}	(#19340) dbSNP 152	Reference Datasets	file:///proj/rerefs/reref00/dbsnp/snp152/	https://chanmine.bwh.harvard.edu/issues/19340	0	0		p0														experiment
+20356	{'id': 588, 'name': 'Reference Datasets'}	(#20356) dbSNP 153	Reference Datasets	file:///proj/rerefs/reref00/dbsnp/snp153/	https://chanmine.bwh.harvard.edu/issues/20356	0	0		p0														experiment
+24025	{'id': 588, 'name': 'Reference Datasets'}	(#24025) dbSNP 156	Reference Datasets	/proj/rerefs/reref00/dbsnp/snp156/	https://chanmine.bwh.harvard.edu/issues/24025	0	0		p0														experiment
+24042	{'id': 588, 'name': 'Reference Datasets'}	(#24042) dbsnp	Reference Datasets	/proj/rerefs/reref00/dbsnp/	https://chanmine.bwh.harvard.edu/issues/24042	0	0		p0														experiment
+18674	{'id': 588, 'name': 'Reference Datasets'}	(#18674) refdata-cellranger-GRCh38-1.2.0	Reference Datasets	file:///proj/rerefs/reref00/cellranger/refdata-cellranger-GRCh38-1.2.0/	https://chanmine.bwh.harvard.edu/issues/18674	0	0		p0														experiment
+18675	{'id': 588, 'name': 'Reference Datasets'}	(#18675) refdata-cellranger-hg19-1.2.0	Reference Datasets	file:///proj/rerefs/reref00/cellranger/refdata-cellranger-hg19-1.2.0/	https://chanmine.bwh.harvard.edu/issues/18675	0	0		p0														experiment
+18686	{'id': 588, 'name': 'Reference Datasets'}	(#18686) refdata-cellranger-mm10-2.1.0	Reference Datasets	file:///proj/rerefs/reref00/cellranger/refdata-cellranger-mm10-2.1.0/	https://chanmine.bwh.harvard.edu/issues/18686	0	0		p0														experiment
+22411	{'id': 1125, 'name': 'SFARI'}	(#22411) SAFARI WGS Data	SFARI	/proj/regeps/regep00/studies/SFARI/data/dna/whole_genome/SFARI_WGS/	https://chanmine.bwh.harvard.edu/issues/22411	0	0		p0														experiment
+18238	{'id': 711, 'name': 'SGG Cohort Tracking'}	(#18238) COPD-ILD Methylation 11627945261-0	SGG Cohort Tracking		https://chanmine.bwh.harvard.edu/issues/18238	0	0		p0														experiment
+20274	{'id': 711, 'name': 'SGG Cohort Tracking'}	(#20274) FREEZE 20190723 - Download and processing for HumanCoreExData2	SGG Cohort Tracking		https://chanmine.bwh.harvard.edu/issues/20274	0	0		p0														experiment
+19018	{'id': 711, 'name': 'SGG Cohort Tracking'}	(#19018) Multi-cohort GWAS/Imputed Data from HSPH	SGG Cohort Tracking	file:///proj/nhomcs/nhomc00/GWAS/	https://chanmine.bwh.harvard.edu/issues/19018	0	0		p0														experiment
+19381	{'id': 713, 'name': 'TESRA'}	(#19381) TESRA Unified Genotypes	TESRA	file:///proj/regeps/regep00/studies/TESRA/data/genotype/	https://chanmine.bwh.harvard.edu/issues/19381	0	0		p0														experiment
+17413	{'id': 713, 'name': 'TESRA'}	(#17413) TESRA_02272012_GWAS	TESRA	file:///proj/regeps/regep00/studies/TESRA/data/gwas/TESRA_02272012_GWAS/	https://chanmine.bwh.harvard.edu/issues/17413	0	0		p0														experiment
+17422	{'id': 713, 'name': 'TESRA'}	(#17422) TESRA_1000GP3v5_UMich	TESRA	file:///proj/regeps/regep00/studies/TESRA/data/imputed/TESRA_1000GP3v5_UMich/	https://chanmine.bwh.harvard.edu/issues/17422	0	0		p0														experiment
+17526	{'id': 713, 'name': 'TESRA'}	(#17526) TESRA_HRC_UMich	TESRA	file:///proj/regeps/regep00/studies/TESRA/data/imputed/TESRA_HRC_UMich/	https://chanmine.bwh.harvard.edu/issues/17526	0	0		p0														experiment
+21990	{'id': 1062, 'name': 'TOPMed'}	(#21990) Freeze8 Local Ancestry Data	TOPMed	/proj/regeps/regep00/studies/COPDGene/data/dna/whole_genome/TopMed/data/freezes/freeze.8/local_ancestry	https://chanmine.bwh.harvard.edu/issues/21990	0	0		p0														experiment
+21989	{'id': 1062, 'name': 'TOPMed'}	(#21989) Structural Variants - Freeze.1	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/structural_variants/data/freezes/freeze.1/	https://chanmine.bwh.harvard.edu/issues/21989	0	0		p0														experiment
+20710	{'id': 1062, 'name': 'TOPMed'}	(#20710) TOPMed RNASeq	TOPMed	/proj/regeps/regep00/studies/COPDGene/data/rna/mrna/blood_shortread/data/raw/topmed_transfer_batches/TOPMED_11.19.2019/	https://chanmine.bwh.harvard.edu/issues/20710	0	0		p0														experiment
+23146	{'id': 1062, 'name': 'TOPMed'}	(#23146) TopMed Freeze.10 Sample Annotations	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.10a/sample_annotation	https://chanmine.bwh.harvard.edu/issues/23146	0	0		p0														experiment
+20953	{'id': 1062, 'name': 'TOPMed'}	(#20953) TopMed Methylation Data	TOPMed	/proj/regeps/regep00/studies/TopMed/data/epigenetic/methylation/	https://chanmine.bwh.harvard.edu/issues/20953	0	0		p0														experiment
+21013	{'id': 1062, 'name': 'TOPMed'}	(#21013) TopMed WGS Data	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/	https://chanmine.bwh.harvard.edu/issues/21013	10550	0	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/.chammps/sample-manifest.csv	p0														experiment
+23063	{'id': 1062, 'name': 'TOPMed'}	(#23063) TopMed batch-adjusted telomere data - 20200810	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/telomeres/data/raw/	https://chanmine.bwh.harvard.edu/issues/23063	0	0		p0														experiment
+22153	{'id': 1062, 'name': 'TOPMed'}	(#22153) freeze.10a	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.10a/	https://chanmine.bwh.harvard.edu/issues/22153	0	0		p0														experiment
+22165	{'id': 1062, 'name': 'TOPMed'}	(#22165) freeze.10a.irc	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.10a.irc/	https://chanmine.bwh.harvard.edu/issues/22165	0	0		p0														experiment
+21987	{'id': 1062, 'name': 'TOPMed'}	(#21987) freeze.8_rewki_biallele_SNP	TOPMed	/proj/regeps/regep00/studies/COPDGene/data/dna/whole_genome/TopMed/data/freezes/freeze.8_rewki_biallele_SN	https://chanmine.bwh.harvard.edu/issues/21987	0	0		p0														experiment
+21014	{'id': 1062, 'name': 'TOPMed'}	(#21014) freeze.9	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.9	https://chanmine.bwh.harvard.edu/issues/21014	0	0		p0														experiment
+21490	{'id': 1062, 'name': 'TOPMed'}	(#21490) freeze.9b	TOPMed	/proj/regeps/regep00/studies/TopMed/data/dna/whole_genome/TopMed/data/freezes/freeze.9b/	https://chanmine.bwh.harvard.edu/issues/21490	0	0		p0														experiment
+22652	{'id': 1043, 'name': 'UK_Biobank'}	(#22652) Addendum 001.a 	UK_Biobank		https://chanmine.bwh.harvard.edu/issues/22652	0	0		p0														experiment
+19880	{'id': 1043, 'name': 'UK_Biobank'}	(#19880) UK Biobank Exome Seq Data	UK_Biobank	/proj/regeps/regep00/studies/UK_Biobank/data/dna/exome	https://chanmine.bwh.harvard.edu/issues/19880	0	0		p0														experiment
+19167	{'id': 1043, 'name': 'UK_Biobank'}	(#19167) UK Biobank Imputed Dataset EGAD00010001225	UK_Biobank	file:///proj/regeps/regep00/studies/UK_Biobank/data/imputed/EGAD00010001225/	https://chanmine.bwh.harvard.edu/issues/19167	0	0		p0														experiment
+18311	{'id': 1043, 'name': 'UK_Biobank'}	(#18311) UK Biobank Imputed dataset – EGAD00010001474	UK_Biobank	file:///proj/regeps/regep00/studies/UK_Biobank/data/imputed/EGAD00010001474/	https://chanmine.bwh.harvard.edu/issues/18311	0	0		p0														experiment
+19108	{'id': 1043, 'name': 'UK_Biobank'}	(#19108) UKBB GWAS Summary Statistics from Neale Lab	UK_Biobank	file:///proj/rerefs/reref00/GWASSummaryStats/UKBB/	https://chanmine.bwh.harvard.edu/issues/19108	0	0		p0														experiment
+18312	{'id': 1043, 'name': 'UK_Biobank'}	(#18312) UKBiobank Directly genotyped dataset – EGAD00010001497	UK_Biobank		https://chanmine.bwh.harvard.edu/issues/18312	0	0		p0														experiment
+23963	{'id': 1043, 'name': 'UK_Biobank'}	(#23963) UK_Biobank/dna/whole_genome/ukbbRandom10k	UK_Biobank	/proj/regeps/regep00/studies/UK_Biobank/data/dna/whole_genome/ukbbRandom10k	https://chanmine.bwh.harvard.edu/issues/23963	0	0		p0														experiment
+24203	{'id': 1043, 'name': 'UK_Biobank'}	(#24203) UK_Biobank/phenotype	UK_Biobank	/proj/regeps/regep00/studies/UK_Biobank/data/phenotype	https://chanmine.bwh.harvard.edu/issues/24203	0	0		p0														experiment
+18527	{'id': 231, 'name': 'VDAART'}	(#18527) VDAART qPCR Biomass Data	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/biomass/VDAART_qPCR_Biomass/	https://chanmine.bwh.harvard.edu/issues/18527	0	0		p0														experiment
+22050	{'id': 231, 'name': 'VDAART'}	(#22050) 2016_VDAART_Mother_TOPMed_Imputed	VDAART	/proj/regeps/regep00/studies/VDAART/data/dna/whole_genome/2016_VDAART_Mother_TOPMed_Imputed	https://chanmine.bwh.harvard.edu/issues/22050	0	0		p0														experiment
+22042	{'id': 231, 'name': 'VDAART'}	(#22042) 2016_VDAART_TOPMed_Imputed	VDAART	/proj/regeps/regep00/studies/VDAART/data/dna/whole_genome/2016_VDAART_TOPMed_Imputed	https://chanmine.bwh.harvard.edu/issues/22042	0	0		p0														experiment
+21346	{'id': 231, 'name': 'VDAART'}	(#21346) VDAART 850K	VDAART	/proj/regeps/regep00/studies/VDAART/data/epigenetic/methylation/VDAART_850K/	https://chanmine.bwh.harvard.edu/issues/21346	0	0		p0														experiment
+18722	{'id': 231, 'name': 'VDAART'}	(#18722) VDAART_SNP_Genotyping_082016	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/genotype/VDAART_SNP_Genotyping_082016/	https://chanmine.bwh.harvard.edu/issues/18722	0	0		p0														experiment
+18197	{'id': 231, 'name': 'VDAART'}	(#18197) 2016_VDAART_GWAS	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/gwas/2016_VDAART_GWAS/	https://chanmine.bwh.harvard.edu/issues/18197	0	0		p0														experiment
+15553	{'id': 231, 'name': 'VDAART'}	(#15553) VDDART Mother GWAS	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/gwas/2016_VDAART_Mother_GWAS/	https://chanmine.bwh.harvard.edu/issues/15553	0	0		p0														experiment
+18199	{'id': 231, 'name': 'VDAART'}	(#18199) 2016_VDAART_GWAS_UMich	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_GWAS_UMich/	https://chanmine.bwh.harvard.edu/issues/18199	0	0		p0														experiment
+16652	{'id': 231, 'name': 'VDAART'}	(#16652) 2016_VDAART_Mother_UMich	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_Mother_UMich/	https://chanmine.bwh.harvard.edu/issues/16652	0	0		p0														experiment
+18875	{'id': 231, 'name': 'VDAART'}	(#18875) Asthma_Microbiome/Metabolome	VDAART	file:///udd/rekle/Asthma_Microbiome/Metabolome/DATA/	https://chanmine.bwh.harvard.edu/issues/18875	0	0		p0														experiment
+19408	{'id': 231, 'name': 'VDAART'}	(#19408) Fecal Acetic Acid Relative Abundance in Pregnancy is Inversely Associated with AsthmaRecurrent Wheeze with Atopy in Offspring	VDAART	file:///udd/rekle/SCFA/DATA/	https://chanmine.bwh.harvard.edu/issues/19408	0	0		p0														experiment
+18874	{'id': 231, 'name': 'VDAART'}	(#18874) Gut_Metabolome_Asthma	VDAART		https://chanmine.bwh.harvard.edu/issues/18874	0	0		p0														experiment
+18931	{'id': 231, 'name': 'VDAART'}	(#18931) Metabolomic Prediction of Childhood Asthma	VDAART		https://chanmine.bwh.harvard.edu/issues/18931	0	0		p0														experiment
+18876	{'id': 231, 'name': 'VDAART'}	(#18876) PUFA_Asthma	VDAART	file:///udd/rekle/PUFA_Asthma/DATA/	https://chanmine.bwh.harvard.edu/issues/18876	0	0		p0														experiment
+18877	{'id': 231, 'name': 'VDAART'}	(#18877) Selecting_VDAART_Samples	VDAART	file:///udd/rekle/Selecting_VDAART_Samples/	https://chanmine.bwh.harvard.edu/issues/18877	0	0		p0														experiment
+18723	{'id': 231, 'name': 'VDAART'}	(#18723) ORMDL3 Manuscript Metabolomics Data	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/Asthma/ORMDL3_manuscript/	https://chanmine.bwh.harvard.edu/issues/18723	0	0		p0														experiment
+18935	{'id': 231, 'name': 'VDAART'}	(#18935) VDAART Asthma Metabolome	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/Asthma/	https://chanmine.bwh.harvard.edu/issues/18935	0	0		p0														experiment
+17454	{'id': 231, 'name': 'VDAART'}	(#17454) VDAART Serum Metabolomics	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/	https://chanmine.bwh.harvard.edu/issues/17454	0	0		p0														experiment
+17453	{'id': 231, 'name': 'VDAART'}	(#17453) VDAART_FA_STOOL_101816	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/metabolomics/VDAART_FA_STOOL_101816/	https://chanmine.bwh.harvard.edu/issues/17453	0	0		p0														experiment
+16292	{'id': 231, 'name': 'VDAART'}	(#16292) VDAART Methylation 450K_PCPGM_726775217-6	VDAART		https://chanmine.bwh.harvard.edu/issues/16292	0	0		p0														experiment
+16076	{'id': 231, 'name': 'VDAART'}	(#16076) 2016 VDAART Microbiome	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_Microbiome	https://chanmine.bwh.harvard.edu/issues/16076	0	0		p0														experiment
+17840	{'id': 231, 'name': 'VDAART'}	(#17840) 2016 VDAART Microbiome Anonymized	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/imputed/2016_VDAART_Microbiome_Anonymized	https://chanmine.bwh.harvard.edu/issues/17840	0	0		p0														experiment
+17876	{'id': 231, 'name': 'VDAART'}	(#17876) 2016_VDAART_Microbiome_PICRUSt	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/microbiome/2016_VDAART_Microbiome_PICRUSt/	https://chanmine.bwh.harvard.edu/issues/17876	0	0		p0														experiment
+18384	{'id': 231, 'name': 'VDAART'}	(#18384) VDAART Infant_Gut_Predictors	VDAART	file:///proj/regeps/regep00/studies/VDAART/analyses/rejoa/Infant_Gut_Predictors/	https://chanmine.bwh.harvard.edu/issues/18384	0	0		p0														experiment
+23522	{'id': 231, 'name': 'VDAART'}	(#23522) VDAART/ECHO Extant Microbiome Data Transfer and Harmonization	VDAART	/proj/regeps/regep00/studies/VDAART/data/microbiome/2016_VDAART_Microbiome/data/freezes/20221007-ECHO-SOP-EAW-016	https://chanmine.bwh.harvard.edu/issues/23522	0	0		p0														experiment
+18386	{'id': 231, 'name': 'VDAART'}	(#18386) VDAART Blood Pre-eclampsia mirnaseq	VDAART	file:///proj/regeps/regep00/studies/VDAART/data/mirnaseq/blood/	https://chanmine.bwh.harvard.edu/issues/18386	0	0		p0														experiment
+17388	{'id': 231, 'name': 'VDAART'}	(#17388) VDAART placenta miRNAseq	VDAART		https://chanmine.bwh.harvard.edu/issues/17388	0	0		p0														experiment
+21548	{'id': 231, 'name': 'VDAART'}	(#21548) Lee-Sarwar/Huttenhower Microbiome and GWAS Export	VDAART	/proj/regeps/regep00/studies/VDAART/data/multi-omics/Huttenhower_microbiome_gwas/data/freezes/20201006/	https://chanmine.bwh.harvard.edu/issues/21548	0	0		p0														experiment
+17642	{'id': 231, 'name': 'VDAART'}	(#17642) VDAART Pre-eclampsia blood mRNA data download alignment qc	VDAART		https://chanmine.bwh.harvard.edu/issues/17642	0	0		p0														experiment
+24238	{'id': 231, 'name': 'VDAART'}	(#24238) VDAART rna mrna rehom preeclampsia pull list/data manifest discrepenacy	VDAART		https://chanmine.bwh.harvard.edu/issues/24238	0	0		p0														experiment
+18069	{'id': 231, 'name': 'VDAART'}	(#18069) 2016 VDAART Mother GWAS - GRCh38	VDAART		https://chanmine.bwh.harvard.edu/issues/18069	0	0		p0														experiment
+23372	{'id': 231, 'name': 'VDAART'}	(#23372) ECHO 850K 2022	VDAART	/proj/regeps/regep00/studies/VDAART/data/epigenetic/methylation/VDAART_850K/data/raw/	https://chanmine.bwh.harvard.edu/issues/23372	0	0		p0														experiment
+21060	{'id': 231, 'name': 'VDAART'}	(#21060) Extant VDAART GWAS Data for sharing with ECHO	VDAART		https://chanmine.bwh.harvard.edu/issues/21060	0	0		p0														experiment
+18878	{'id': 231, 'name': 'VDAART'}	(#18878) VDAART Derived Outcomes	VDAART	file:///proj/stvtds/stvtd00/derived_outcomes/	https://chanmine.bwh.harvard.edu/issues/18878	0	0		p0														experiment
+20455	{'id': 231, 'name': 'VDAART'}	(#20455) VDAART rna mrna Yr3 plate 4 2019-09-12_for_rpc15 190905_NB551475_0163_AHT5NFBGXB 190906_NB551475_0164_AHMNW2BGXB 190909_NB551475_0165_AHT5KFBGXB	VDAART		https://chanmine.bwh.harvard.edu/issues/20455	0	0		p0														experiment
+18385	{'id': 231, 'name': 'VDAART'}	(#18385) Various VDAART Datasets maintained by Nancy Laranjo	VDAART	file:///proj/stvtds/stvtd00/datasets/ file:///proj/stvtds/stvtd00/FINAL_datasets/	https://chanmine.bwh.harvard.edu/issues/18385	0	0		p0														experiment
+21547	{'id': 231, 'name': 'VDAART'}	(#21547) black0.2_clean	VDAART	/proj/regeps/regep00/studies/VDAART/manuscripts/rekle/K08/Aim1/Data/PLINKinput/black0.2_clean_chr*	https://chanmine.bwh.harvard.edu/issues/21547	0	0		p0														experiment
+18547	{'id': 235, 'name': 'VIVA'}	(#18547) VIVA Cell Count Datasets	VIVA	file:///udd/recpe/Data/	https://chanmine.bwh.harvard.edu/issues/18547	0	0		p0														experiment
+17634	{'id': 235, 'name': 'VIVA'}	(#17634) VIVA Plasma miRNASeq	VIVA	file:///proj/regeps/regep00/studies/VIVA/data/mirnaseq/plasma/	https://chanmine.bwh.harvard.edu/issues/17634	0	0		p0														experiment
+18546	{'id': 235, 'name': 'VIVA'}	(#18546) VIVA Phenotype Data	VIVA	file:///udd/recpe/clock/code/cp_032018.sas7bdat	https://chanmine.bwh.harvard.edu/issues/18546	0	0		p0														experiment
+18545	{'id': 235, 'name': 'VIVA'}	(#18545) VivaThousandQC_BMIQ	VIVA	file:///proj/regeps/regep00/studies/VIVA/data/methylation/analysis/thousand/	https://chanmine.bwh.harvard.edu/issues/18545	0	0		p0														experiment
+16227	{'id': 952, 'name': 'eMERGE'}	(#16227) eMERGE GWAS Datsets	eMERGE	file:///proj/regeps/regep00/studies/eMERGE/data/gwas/emerge_sorted_201701/	https://chanmine.bwh.harvard.edu/issues/16227	0	0		p0														experiment
+17846	{'id': 952, 'name': 'eMERGE'}	(#17846) emERGE Principal Components Projected against 1000Genomes	eMERGE	file:///proj/regeps/regep00/studies/eMERGE/data/pcs/	https://chanmine.bwh.harvard.edu/issues/17846	0	0		p0														experiment
