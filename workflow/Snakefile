@@ -1,0 +1,10 @@
+rule etl_notebook:
+    input:
+    output:
+        experiments="metadata/experiments.tsv",
+        cases="metadata/cases.tsv",
+        samples="metadata/samples.tsv",
+        aliquots="metadata/aliquots.tsv",
+    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    log: notebook="metadata/etl_notebook.ipynb"
+    notebook: "../notebook/study-overview.ipynb"

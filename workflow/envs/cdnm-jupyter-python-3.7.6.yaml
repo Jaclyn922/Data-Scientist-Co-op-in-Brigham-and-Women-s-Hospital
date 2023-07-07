@@ -1,0 +1,24 @@
+name: cdnm-jupyter-python-3.7.6
+channels:
+  - conda-forge
+  - bioconda
+  - eumetsat
+dependencies:
+  - jupyterlab==3.5.0
+  - pandas==1.5.1
+  - seaborn==0.11.2
+  - matplotlib==3.4.3
+  - oracle-instantclient==12.2.0.1.0
+  - sqlalchemy==1.4.17
+  - cx_oracle==8.2.0
+  - xlrd==2.0.1
+  - openpyxl==3.0.7
+  - pydot==1.4.2
+  - jupyter-dash==0.4.0
+  - dash==2.0.0
+  - dash-core-components==2.0.0
+  - dash-renderer==1.9.1
+  - dash-table==5.0.0
+  - dash-html-components==2.0.0
+  - networkx==2.6.3
+  
