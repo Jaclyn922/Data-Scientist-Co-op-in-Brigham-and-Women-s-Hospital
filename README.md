@@ -10,7 +10,7 @@ source /proj/relibs/relib00/conda-cdnm/bin/activate
 conda activate sm7
 conda config --set channel_priority strict
 cat .condarc
-snakemake -s code/etl/workflow/Snakefile \
+snakemake -s workflow/Snakefile \
     --printshellcmds \
     --cluster="qsub -v PATH -cwd -o . -e . -l lx7 -terse -S /bin/bash" \
     --cluster-cancel="qdel" \
