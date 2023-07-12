@@ -1,5 +1,15 @@
+TARGETS = ['metadata/experiments.tsv']
+rule: input: TARGETS
+
+rule extract_sample:
+    input:
+    output: df="tmp/samples.csv"
+    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    script: "scripts/python/extract_sample.py"
+
 rule etl_notebook:
     input:
+        samples=rules.extract_sample.output.df
     output:
         experiments="metadata/experiments.tsv",
         cases="metadata/cases.tsv",
