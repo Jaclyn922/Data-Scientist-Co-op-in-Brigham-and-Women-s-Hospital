@@ -10,8 +10,8 @@ engine = create_engine(DBURL)
 Session = sessionmaker(bind=engine)
 session = Session()
 
-Sample = Table('S_SAMPLE',sapphire8_md,autoload=True,autoload_with=engine)
-SampleFamily = Table('S_SAMPLEFAMILY',sapphire8_md,autoload=True,autoload_with=engine)
+Subject = Table('S_SUBJECT',sapphire8_md,autoload=True,autoload_with=engine)
+Cohort = Table('U_COHORT',sapphire8_md,autoload=True,autoload_with=engine)
 
 if __name__ == '__main__':
     q_cohort = session.query(Cohort, Subject).filter(Subject.c.s_subjectid==Cohort.c.subjectid)

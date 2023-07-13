@@ -4,43 +4,43 @@ rule: input: TARGETS
 rule extract_sample:
     input:
     output: df="tmp/samples.csv"
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_sample.py"
 
 rule extract_study:
     input:
     output: df="tmp/study.csv"
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_study.py"
 
 rule extract_tissue:
     input:
     output: df="tmp/tissue.csv"
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_tissue.py"
     
 rule extract_cohort:
     input:
     output: df="tmp/cohort.csv"
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_cohort.py"
 
 rule extract_collections:
     input:
     output: df="tmp/collections.csv"
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_collections.py"
 
 rule extract_sf:
     input:
     output: df="tmp/sf.csv"
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_sf.py"
 
 rule extract_packages:
     input:
     output: df="tmp/packages.csv"
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_packages.py"
     
 rule etl_notebook:
