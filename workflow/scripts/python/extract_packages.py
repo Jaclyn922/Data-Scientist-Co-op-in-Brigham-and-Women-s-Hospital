@@ -10,11 +10,10 @@ engine = create_engine(DBURL)
 Session = sessionmaker(bind=engine)
 session = Session()
 
-Sample = Table('S_SAMPLE',sapphire8_md,autoload=True,autoload_with=engine)
-SampleFamily = Table('S_SAMPLEFAMILY',sapphire8_md,autoload=True,autoload_with=engine)
+Package = Table('S_PACKAGE',sapphire8_md,autoload=True,autoload_with=engine)
 
 if __name__ == '__main__':
-    q_packages = session.query(Package).filter(Package.c.sstudyid==STUDY)
+    q_packages = session.query(Package)
     packages = pd.read_sql(q_packages.statement, session.bind)
     packages.drop(columns=['carrier', 'carriertype', 'trackingnumber', 'createby', 'createtool', 'moddt', 'modby', 'modtool', 'securityuser', 'securitydepartment',
                        'usersequence', 'notes', 'auditsequence', 'condition', 'senderaddressid', 'senderaddresstype', 'recipientaddressid', 'recipientaddresstype',

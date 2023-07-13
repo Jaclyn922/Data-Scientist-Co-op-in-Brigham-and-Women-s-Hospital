@@ -10,11 +10,10 @@ engine = create_engine(DBURL)
 Session = sessionmaker(bind=engine)
 session = Session()
 
-Sample = Table('S_SAMPLE',sapphire8_md,autoload=True,autoload_with=engine)
-SampleFamily = Table('S_SAMPLEFAMILY',sapphire8_md,autoload=True,autoload_with=engine)
+Study = Table('S_STUDY',sapphire8_md,autoload=True,autoload_with=engine)
 
 if __name__ == '__main__':
-    q_study = session.query(Study).filter()
+    q_study = session.query(Study)
     study = pd.read_sql(q_study.statement, session.bind)
     study = study.drop(columns=['estimatedsamples', 'usersequence', 'notes','collectionstartdt','collectionenddt','auditsequence',
                             'primaryaffection', 'tracelogid', 'createdt', 'createby','createtool', 'moddt', 'completeddt','cancelledby','cancelleddt',

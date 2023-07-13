@@ -1,0 +1,14 @@
+name: sqlalchemy
+channels:
+  - conda-forge
+  - bioconda
+  - eumetsat
+dependencies:
+  - pandas==2.0.3
+  - oracle-instantclient==12.2.0.1.0
+  - sqlalchemy==1.4.17
+  - cx_oracle==8.2.0
+  - xlrd==2.0.1
+  - openpyxl==3.0.7
+
+  
