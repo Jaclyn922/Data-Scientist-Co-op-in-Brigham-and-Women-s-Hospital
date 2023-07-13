@@ -1,4 +1,4 @@
-import pandas as pd
+mport pandas as pd
 
 from sqlalchemy import create_engine, MetaData, Table
 from sqlalchemy.orm import sessionmaker
@@ -10,17 +10,17 @@ engine = create_engine(DBURL)
 Session = sessionmaker(bind=engine)
 session = Session()
 
-Sample = Table('S_SAMPLE',sapphire8_md,autoload=True,autoload_with=engine)
-SampleFamily = Table('S_SAMPLEFAMILY',sapphire8_md,autoload=True,autoload_with=engine)
+Sample = Table('S_SAMPLE', sapphire8_md, autoload=True, autoload_with=engine)
+SampleFamily = Table('S_SAMPLEFAMILY', sapphire8_md, autoload=True, autoload_with=engine)
 
 if __name__ == '__main__':
     def set_url(row):
-    cfs = row['custom_fields']
-    for cf in cfs:
-        cf_name = cf['name']
-        if cf_name == 'URL':
-            return cf['value']
-    return None
+        cfs = row['custom_fields']
+        for cf in cfs:
+            cf_name = cf['name']
+            if cf_name == 'URL':
+                return cf['value']
+        return None
 
     dataset_tracker_id = trackers.loc[trackers['name'] == 'Dataset', 'id'].iloc[0]
     datasets = redmine.issue.filter(tracker_id=dataset_tracker_id)
@@ -34,24 +34,13 @@ if __name__ == '__main__':
     datasets['parent_id'] = datasets.apply(lambda w: int(w.parent['id']) if pd.notna(w.parent) else None, axis=1)
     datasets['url'] = datasets.apply(set_url, axis=1)
 
-
     datasets = datasets.sort_values(['project_name', 'category_name', 'subject'])
-    datasets = datasets.rename(columns={'project_name':'project','category_name':'category','status_name':'status','parent_id':'parent'})
-
-    # datasets = datasets[datasets['project'] == REDMINE_STUDY]
-
-    # datasets = datasets.drop(columns=['project', 'status'])
+    datasets = datasets.rename(columns={'project_name': 'project', 'category_name': 'category', 'status_name': 'status', 'parent_id': 'parent'})
 
     datasets['omic'] = '?'
 
-    ### These will need to be fixed (made unique)
-    ## datasets[datasets['subject'] == 'TopMed WGS Data']
     datasets['subject'] = datasets.apply(lambda row: f"(#{row['id']}) {row['subject']}", axis=1)
 
+    datasets = datasets.drop(columns=['allowed_statuses', 'assigned_to', 'assignee', 'attachments', 'author', 'author_name', 'category', 'category', 'changesets', 'children', 'closed_on', 'created_on', 'custom_fields', 'description', 'done_ratio', 'due_date', 'estimated_hours', 'is_private', 'journals', 'omic', 'parent', 'parent', 'priority', 'relations', 'start_date', 'status', 'status', 'time_entries', 'tracker', 'updated_on', 'watchers'])
 
-    datasets = datasets.drop(columns =['allowed_statuses',
-     'assigned_to', 'assignee', 'attachments', 'author', 'author_name',  'category', 'category',
-     'changesets', 'children', 'closed_on', 'created_on', 'custom_fields', 'description', 'done_ratio', 'due_date',
-     'estimated_hours', 'is_private', 'journals', 'omic', 'parent', 'parent', 'priority', 'relations', 'start_date', 'status',
-     'status', 'time_entries', 'tracker', 'updated_on', 'watchers'])
     datasets.to_csv(snakemake.output.df)
