@@ -42,6 +42,18 @@ rule extract_packages:
     output: df="tmp/packages.csv"
     conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_packages.py"
+
+rule extract_datasets:
+    input:
+    output: df="tmp/datasets.csv"
+    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    script: "scripts/python/extract_datasets.py"
+    
+rule extract_chammps:
+    input:
+    output: df="tmp/chammps.csv"
+    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    script: "scripts/python/extract_chammps.py"
     
 rule etl_notebook:
     input:
@@ -51,8 +63,10 @@ rule etl_notebook:
         cohort = rules.extract_cohort.output.df,
         collections = rules.extract_collections.output.df,
         sf = rules.extract_sf.output.df,
-        packages = rules.extract_packages.output.df
-        
+        packages = rules.extract_packages.output.df,
+        datasets = rules.extract_datasets.output.df,
+        chammps = rules.extract_chammps.output.df
+
     output:
         experiments="metadata/experiments.tsv",
         cases="metadata/cases.tsv",
