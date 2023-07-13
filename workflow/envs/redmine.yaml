@@ -1,0 +1,8 @@
+name: redmine
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - pandas==2.0.3
+  - python-redmine==2.4.0
+  
