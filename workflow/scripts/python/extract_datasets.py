@@ -1,7 +1,7 @@
-mport pandas as pd
-
+import pandas as pd
 from sqlalchemy import create_engine, MetaData, Table
 from sqlalchemy.orm import sessionmaker
+import redminelib
 
 DBURL = 'oracle://sapphire_r:sapphire_r0@oar1.bwh.harvard.edu:1521/labvprd'
 
@@ -13,7 +13,22 @@ session = Session()
 Sample = Table('S_SAMPLE', sapphire8_md, autoload=True, autoload_with=engine)
 SampleFamily = Table('S_SAMPLEFAMILY', sapphire8_md, autoload=True, autoload_with=engine)
 
+
+REDMINE_STUDY = 'ESCAPE'
+redmine = redminelib.Redmine('https://chanmine.bwh.harvard.edu/', key='bc92021bd829b2c07aa94b3bc2679c639204b902', requests={'verify': False})
+    
 if __name__ == '__main__':
+    REDMINE_STUDY = 'ESCAPE'
+    redmine = redminelib.Redmine('https://chanmine.bwh.harvard.edu/', key='bc92021bd829b2c07aa94b3bc2679c639204b902', requests={'verify': False})
+    trackers = pd.DataFrame(data=[dict(d) for d in redmine.tracker.all()])
+
+    projects = redmine.project.all()
+    projects = pd.DataFrame([dict(d) for d in projects])
+    projects = projects.drop(columns=['wiki_pages', 'memberships', 'issue_categories', 'time_entries', 'versions', 'news',
+                                      'issues', 'files', 'trackers', 'enabled_modules', 'time_entry_activities', 'issue_custom_fields',
+                                      'is_public', 'inherit_members', 'status', 'created_on', 'updated_on'])
+
+    study_project_id = projects.loc[projects['name'] == REDMINE_STUDY, 'id'].iloc[0]
     def set_url(row):
         cfs = row['custom_fields']
         for cf in cfs:

@@ -1,0 +1,34 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 5
+Rules claiming more threads will be scaled down.
+Provided resources: mem_mb=1000, disk_mb=1000
+Select jobs to execute...
+
+[Thu Jul 13 15:32:22 2023]
+rule extract_datasets:
+    output: tmp/datasets.csv
+    jobid: 0
+    reason: Missing output files: tmp/datasets.csv
+    resources: mem_mb=1000, disk_mb=1000, tmpdir=/d/q4/9707994.1.linux01.q
+
+Activating conda environment: ../../../../proj/relibs/relib00/smk-conda-cache/envs/ac94f05c04bf1741e93a8ec8c8745960
+Activating conda environment: ../../../../proj/relibs/relib00/smk-conda-cache/envs/ac94f05c04bf1741e93a8ec8c8745960
+Traceback (most recent call last):
+  File "/udd/rexin/code/etl/.snakemake/scripts/tmpjxdblkob.extract_datasets.py", line 6, in <module>
+    from redminelib import Redmine
+ModuleNotFoundError: No module named 'redminelib'
+Not cleaning up /udd/rexin/code/etl/.snakemake/scripts/tmpjxdblkob.extract_datasets.py
+[Thu Jul 13 15:32:25 2023]
+Error in rule extract_datasets:
+    jobid: 0
+    output: tmp/datasets.csv
+    conda-env: /proj/relibs/relib00/smk-conda-cache/envs/ac94f05c04bf1741e93a8ec8c8745960
+
+RuleException:
+CalledProcessError in line 50 of /udd/rexin/code/etl/workflow/Snakefile:
+Command 'source /proj/relibs/relib00/conda-cdnm/bin/activate '/proj/relibs/relib00/smk-conda-cache/envs/ac94f05c04bf1741e93a8ec8c8745960'; set -euo pipefail;  python /udd/rexin/code/etl/.snakemake/scripts/tmpjxdblkob.extract_datasets.py' returned non-zero exit status 1.
+  File "/udd/rexin/code/etl/workflow/Snakefile", line 50, in __rule_extract_datasets
+  File "/proj/relibs/relib00/conda-cdnm/envs/sm7/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message

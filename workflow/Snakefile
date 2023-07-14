@@ -46,13 +46,13 @@ rule extract_packages:
 rule extract_datasets:
     input:
     output: df="tmp/datasets.csv"
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    conda: "envs/redmine.yaml"
     script: "scripts/python/extract_datasets.py"
     
 rule extract_chammps:
     input:
     output: df="tmp/chammps.csv"
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+    conda: "envs/redmine.yaml"
     script: "scripts/python/extract_chammps.py"
     
 rule etl_notebook:
