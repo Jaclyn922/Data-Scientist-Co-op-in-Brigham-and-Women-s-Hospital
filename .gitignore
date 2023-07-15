@@ -132,4 +132,5 @@ metadata/
 .snakemake/
 logs/
 *~
-tmp/snakejob.*
+tmp/
+snakejob.*

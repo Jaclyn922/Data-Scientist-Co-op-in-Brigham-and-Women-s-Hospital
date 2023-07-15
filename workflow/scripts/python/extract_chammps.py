@@ -1,19 +1,6 @@
 import pandas as pd
 from pathlib import Path
 
-from sqlalchemy import create_engine, MetaData, Table
-from sqlalchemy.orm import sessionmaker
-
-DBURL = 'oracle://sapphire_r:sapphire_r0@oar1.bwh.harvard.edu:1521/labvprd'
-
-sapphire8_md = MetaData(schema='SAPPHIRE8')
-engine = create_engine(DBURL)
-Session = sessionmaker(bind=engine)
-session = Session()
-
-Sample = Table('S_SAMPLE', sapphire8_md, autoload=True, autoload_with=engine)
-SampleFamily = Table('S_SAMPLEFAMILY', sapphire8_md, autoload=True, autoload_with=engine)
-
 if __name__ == '__main__':
     def annotate(ds):
         dsid = ds['id']
@@ -44,7 +31,7 @@ if __name__ == '__main__':
 
         if 'S_SAMPLEID' in ds_samples.columns:
             ds_samples = ds_samples.merge(samples, left_on='S_SAMPLEID', right_on='s_sampleid', how='left')
-            ds_samples['experiments.submitter_id'] = dsname
+            ds_samples['dataset_id'] = dsid
 
         sample_batches.append(ds_samples)
 
@@ -54,15 +41,19 @@ if __name__ == '__main__':
 
         return ds
 
-    trackers = pd.read_csv('tmp/datasets.csv')
+    datasets = pd.read_csv(snakemake.input.datasets)
+    samples = pd.read_csv(snakemake.input.samples)
     sample_batches = []
     datasets = datasets.apply(annotate, axis=1)
-   
+
+    
     if sample_batches:
-        samples = pd.concat(sample_batches)
+        dataset_samples = pd.concat(sample_batches)
     else:
-        samples = pd.DataFrame()
+        dataset_samples = pd.DataFrame()
 
-    datasets = datasets.merge(samples, on='id', how='left')
-
-    chammps.to_csv(snakemake.output.df)
+    dataset_subjects = dataset_samples.groupby(['S_SUBJECTID', 'dataset_id']).agg(list)
+        
+    datasets.to_csv(snakemake.output.datasets)
+    dataset_subjects.to_csv(snakemake.output.subjects)
+    dataset_samples.to_csv(snakemake.output.samples)

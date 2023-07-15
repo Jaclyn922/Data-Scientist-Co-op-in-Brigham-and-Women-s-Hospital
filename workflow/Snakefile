@@ -1,4 +1,9 @@
-TARGETS = ['metadata/experiments.tsv']
+TARGETS = [
+    'metadata/experiments.tsv',
+    "metadata/cases.tsv",
+    "metadata/samples.tsv",
+    "metadata/aliquots.tsv",    
+]
 rule: input: TARGETS
 
 rule extract_sample:
@@ -51,10 +56,39 @@ rule extract_datasets:
     
 rule extract_chammps:
     input:
-    output: df="tmp/chammps.csv"
+        datasets="tmp/datasets.csv",
+        samples="tmp/samples.csv",
+    output:
+        samples="tmp/chammps-samples.csv",
+        subjects="tmp/chammps-subjects.csv",
+        datasets="tmp/chammps-datasets.csv",
     conda: "envs/redmine.yaml"
     script: "scripts/python/extract_chammps.py"
-    
+
+rule transform_experiments:
+    input: datasets="tmp/chammps-datasets.csv",
+    output: experiments="metadata/experiments.tsv",
+    script: "scripts/python/transform_experiments.py"
+
+rule transform_cases:
+    input:
+        subjects="tmp/chammps-subjects.csv",
+        # lims_subjects="tmp/subjects.csv",
+    output: cases="metadata/cases.tsv",
+    script: "scripts/python/transform_cases.py"
+
+rule transform_samples:
+    input:
+        samples="tmp/chammps-samples.csv",
+        samplefamiliess="tmp/sf.csv",
+    output: samples="metadata/samples.tsv",
+    script: "scripts/python/transform_samples.py"
+
+rule transform_aliquots:
+    input: samples="tmp/chammps-samples.csv",
+    output: aliquots="metadata/aliquots.tsv",
+    script: "scripts/python/transform_aliquots.py"
+            
 rule etl_notebook:
     input:
         samples=rules.extract_sample.output.df,
@@ -65,13 +99,11 @@ rule etl_notebook:
         sf = rules.extract_sf.output.df,
         packages = rules.extract_packages.output.df,
         datasets = rules.extract_datasets.output.df,
-        chammps = rules.extract_chammps.output.df
-
-    output:
-        experiments="metadata/experiments.tsv",
-        cases="metadata/cases.tsv",
-        samples="metadata/samples.tsv",
-        aliquots="metadata/aliquots.tsv",
+    #output:
+    #    experiments="metadata/experiments.tsv",
+    #    cases="metadata/cases.tsv",
+    #    samples="metadata/samples.tsv",
+    #    aliquots="metadata/aliquots.tsv",
     conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
     log: notebook="metadata/etl_notebook.ipynb"
     notebook: "../notebook/study-overview.ipynb"
