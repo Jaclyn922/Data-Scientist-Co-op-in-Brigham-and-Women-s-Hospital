@@ -1,6 +1,19 @@
 import pandas as pd
 from pathlib import Path
 
+def fix_subject_id(row):
+    sid = row['S_SUBJECTID']
+    sname = row['Sample_Name']
+    if str(sid).startswith('ST-'):
+        stid = sid
+    elif str(sname).startswith('ST-'):
+        stid = sname
+    elif sid:
+        stid = sid
+    else:
+        stid = sname
+    return stid
+
 if __name__ == '__main__':
     def annotate(ds):
         dsid = ds['id']
@@ -32,6 +45,7 @@ if __name__ == '__main__':
         if 'S_SAMPLEID' in ds_samples.columns:
             ds_samples = ds_samples.merge(samples, left_on='S_SAMPLEID', right_on='s_sampleid', how='left')
             ds_samples['dataset_id'] = dsid
+            ds_samples['dataset_name'] = dsname
 
         sample_batches.append(ds_samples)
 
@@ -52,7 +66,14 @@ if __name__ == '__main__':
     else:
         dataset_samples = pd.DataFrame()
 
-    dataset_subjects = dataset_samples.groupby(['S_SUBJECTID', 'dataset_id']).agg(list)
+    def agg_unique(items):
+        s = list(set(list(items)))
+        if len(s) == 1:
+            return s[0]
+        return s
+        
+    dataset_samples['S_SUBJECTID'] = dataset_samples.apply(fix_subject_id, axis=1)
+    dataset_subjects = dataset_samples.groupby(['S_SUBJECTID', 'dataset_id']).agg(agg_unique)
         
     datasets.to_csv(snakemake.output.datasets)
     dataset_subjects.to_csv(snakemake.output.subjects)
