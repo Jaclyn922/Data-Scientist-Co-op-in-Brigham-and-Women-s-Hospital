@@ -1,5 +1,9 @@
 import logging
 import pandas as pd
+import uuid
+
+GEN3_TYPE = 'dataset'
+PROJECT_CODE = 'p0'
 
 if __name__ == '__main__':
 
@@ -17,8 +21,10 @@ if __name__ == '__main__':
         datasets[column] =  None
 
     # Add the new column named type
-    datasets['type'] = 'experiment'
-    datasets['projects.code'] = 'p0'
+    datasets['type'] = GEN3_TYPE
+    datasets['projects.code'] = PROJECT_CODE
+    datasets['guid'] = datasets.apply(lambda x: uuid.uuid4(), axis=1)
 
     # Export the DataFrame as a TSV file
-    datasets.to_csv(snakemake.output.experiments, sep='\t', index=False)
+    datasets.to_csv(snakemake.output.datasets, index=False)
+    datasets.to_csv(snakemake.output.freezes, index=False)

@@ -1,8 +1,14 @@
+from pathlib import Path
+
+
+OUT = Path(config.get('output_dir', '/d/docker/volumes/regep00/gen3/submissions/new/'))
+
 TARGETS = [
-    'metadata/experiments.tsv',
-    "metadata/cases.tsv",
-    "metadata/samples.tsv",
-    "metadata/aliquots.tsv",    
+    OUT/"dataset.csv",
+    OUT/"study.csv",
+    OUT/"subject.csv",
+    OUT/"sample.csv",
+    OUT/"aliquot.csv",    
 ]
 rule: input: TARGETS
 
@@ -11,6 +17,12 @@ rule extract_sample:
     output: df="tmp/samples.csv"
     conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_sample.py"
+
+rule extract_subject:
+    input:
+    output: df="tmp/subjects.csv"
+    conda: "envs/sqlalchemy.yaml"
+    script: "scripts/python/extract_subject.py"
 
 rule extract_study:
     input:
@@ -65,45 +77,56 @@ rule extract_chammps:
     conda: "envs/redmine.yaml"
     script: "scripts/python/extract_chammps.py"
 
-rule transform_experiments:
+rule T_STUDY:
+    input: studies="tmp/study.csv",
+    output:
+        studies=OUT/"study.csv",
+    script: "scripts/python/transform_studies.py"
+
+rule transform_datasets:
     input: datasets="tmp/chammps-datasets.csv",
-    output: experiments="metadata/experiments.tsv",
+    output:
+        datasets=OUT/"dataset.csv",
+        freezes=OUT/"freeze.csv",
     script: "scripts/python/transform_experiments.py"
+
+rule transform_subject:
+    input:
+        subjects="tmp/chammps-subjects.csv",
+        lims_subjects="tmp/subjects.csv",
+    output:
+        subjects=OUT/"subject.csv",
+    script: "scripts/python/transform_cases.py"
 
 rule transform_cases:
     input:
         subjects="tmp/chammps-subjects.csv",
         # lims_subjects="tmp/subjects.csv",
-    output: cases="metadata/cases.tsv",
+    output: cases=OUT/"case.tsv",
     script: "scripts/python/transform_cases.py"
 
 rule transform_samples:
     input:
         samples="tmp/chammps-samples.csv",
         samplefamiliess="tmp/sf.csv",
-    output: samples="metadata/samples.tsv",
+    output: samples=OUT/"sample.csv",
     script: "scripts/python/transform_samples.py"
 
 rule transform_aliquots:
     input: samples="tmp/chammps-samples.csv",
-    output: aliquots="metadata/aliquots.tsv",
+    output: aliquots=OUT/"aliquot.csv",
     script: "scripts/python/transform_aliquots.py"
             
-rule etl_notebook:
-    input:
-        samples=rules.extract_sample.output.df,
-        study = rules.extract_study.output.df,
-        tissue = rules.extract_tissue.output.df,
-        cohort = rules.extract_cohort.output.df,
-        collections = rules.extract_collections.output.df,
-        sf = rules.extract_sf.output.df,
-        packages = rules.extract_packages.output.df,
-        datasets = rules.extract_datasets.output.df,
-    #output:
-    #    experiments="metadata/experiments.tsv",
-    #    cases="metadata/cases.tsv",
-    #    samples="metadata/samples.tsv",
-    #    aliquots="metadata/aliquots.tsv",
-    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
-    log: notebook="metadata/etl_notebook.ipynb"
-    notebook: "../notebook/study-overview.ipynb"
+#rule etl_notebook:
+#    input:
+#        samples=rules.extract_sample.output.df,
+#        study = rules.extract_study.output.df,
+#        tissue = rules.extract_tissue.output.df,
+#        cohort = rules.extract_cohort.output.df,
+#        collections = rules.extract_collections.output.df,
+#        sf = rules.extract_sf.output.df,
+#        packages = rules.extract_packages.output.df,
+#        datasets = rules.extract_datasets.output.df,
+#    conda: "envs/cdnm-jupyter-python-3.7.6.yaml"
+#    log: notebook=OUT"/etl_notebook.ipynb"
+#    notebook: "../notebook/study-overview.ipynb"

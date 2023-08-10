@@ -1,5 +1,6 @@
 import logging
 import pandas as pd
+import uuid
 
 GEN3_COLUMNS = ['type','project_id','submitter_id','cases.submitter_id','diagnoses.submitter_id',
                 'biospecimen_anatomic_site','composition','current_weight','days_to_collection',
@@ -37,6 +38,7 @@ if __name__ == '__main__':
     )
     samples['project_id'] = 'g0-p0'
     samples['type'] = 'sample'
+    samples['guid'] = samples.apply(lambda x: uuid.uuid4(), axis=1)
 
     # Add the new columns with 'N/A' as the default value
     for column in GEN3_COLUMNS:

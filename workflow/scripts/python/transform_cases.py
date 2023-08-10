@@ -1,7 +1,12 @@
 import logging
 import pandas as pd
+import uuid
 
 GEN3_COLUMNS = ['type', 'project_id', 'submitter_id', 'experiments.submitter_id','consent_codes','disease_type','primary_site']
+
+GEN3_TYPE = 'subject'
+PROJECT_CODE = 'p0'
+PROJECT_ID = 'g0-p0'
 
 def fix_subject_id(row):
     sid = row['S_SUBJECTID']
@@ -17,6 +22,7 @@ def fix_subject_id(row):
     return stid
 
 if __name__ == '__main__':
+    if not 'snakemake' in locals():snakemake = None
     
     subjects = pd.read_csv(snakemake.input.subjects)
     subjects['S_SUBJECTID'] = subjects.apply(fix_subject_id, axis=1)
@@ -25,8 +31,9 @@ if __name__ == '__main__':
         'dataset_name': 'experiments.submitter_id',
     }
     )
-    subjects['type'] = 'case'
-    subjects['project_id'] = 'g0-p0'
+    subjects['type'] = GEN3_TYPE
+    subjects['project_id'] = PROJECT_ID
+    subjects['guid'] = subjects.apply(lambda x: uuid.uuid4(), axis=1)
 
     # Add any undefined columns with 'N/A' as the default value
     for column in GEN3_COLUMNS:
@@ -34,4 +41,4 @@ if __name__ == '__main__':
             subjects[column] = None
 
     # Export the DataFrame as a TSV file
-    subjects.to_csv(snakemake.output.cases, sep='\t', index=False, columns=GEN3_COLUMNS)
+    subjects.to_csv(snakemake.output.subjects, index=False, columns=GEN3_COLUMNS)

@@ -1,5 +1,6 @@
 import logging
 import pandas as pd
+import uuid
 
 GEN3_COLUMNS = ['type' ,'project_id','submitter_id','samples.submitter_id','aliquot_quantity',
                 'aliquot_volume','amount','analyte_type','analyte_type_id','concentration',
@@ -20,7 +21,8 @@ if __name__ == '__main__':
     # Add the new column named type
     aliquots['project_id'] = 'g0-p0'
     aliquots['type'] = 'aliquot'
-    
+    aliquots['guid'] = aliquots.apply(lambda x: uuid.uuid4(), axis=1)
+
     # Add the new columns with 'N/A' as the default value
     for column in GEN3_COLUMNS:
         if column not in aliquots.columns:
