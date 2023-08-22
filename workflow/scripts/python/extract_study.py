@@ -22,4 +22,4 @@ if __name__ == '__main__':
                             'enddt','studyfocus','templateflag','subjectrequiredflag','priority','collectinforequiredflag','protocolname','hipaaflag',
                             'departmentid','verifiedby','conservativecocflag','conservativerestrictionsflag',
                             'verifiedbyrole'])
-    study.to_csv(snakemake.output.df)
+    study.to_csv(snakemake.output.df, index=False)

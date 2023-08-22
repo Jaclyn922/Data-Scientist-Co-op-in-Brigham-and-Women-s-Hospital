@@ -2,7 +2,7 @@ import logging
 import pandas as pd
 import uuid
 
-GEN3_COLUMNS = ['type','project_id','submitter_id','cases.submitter_id','diagnoses.submitter_id',
+GEN3_COLUMNS = ['type','project_id','submitter_id','subjects.submitter_id','diagnoses.submitter_id',
                 'biospecimen_anatomic_site','composition','current_weight','days_to_collection',
                 'days_to_sample_procurement','diagnosis_pathologically_confirmed','freezing_method',
 	        'initial_weight','intermediate_dimension','is_ffpe','longest_dimension',

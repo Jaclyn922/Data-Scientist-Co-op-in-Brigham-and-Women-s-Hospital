@@ -80,7 +80,7 @@ rule extract_chammps:
 rule T_STUDY:
     input: studies="tmp/study.csv",
     output:
-        studies=OUT/"study.csv",
+        studies=OUT/"study.{suffix}",
     script: "scripts/python/transform_studies.py"
 
 rule transform_datasets:
@@ -93,9 +93,10 @@ rule transform_datasets:
 rule transform_subject:
     input:
         subjects="tmp/chammps-subjects.csv",
+        cohort="tmp/cohort.csv",
         lims_subjects="tmp/subjects.csv",
     output:
-        subjects=OUT/"subject.csv",
+        subjects=OUT/"subject.{suffix}",
     script: "scripts/python/transform_cases.py"
 
 rule transform_cases:
@@ -109,7 +110,7 @@ rule transform_samples:
     input:
         samples="tmp/chammps-samples.csv",
         samplefamiliess="tmp/sf.csv",
-    output: samples=OUT/"sample.csv",
+    output: samples=OUT/"sample.{suffix}",
     script: "scripts/python/transform_samples.py"
 
 rule transform_aliquots:

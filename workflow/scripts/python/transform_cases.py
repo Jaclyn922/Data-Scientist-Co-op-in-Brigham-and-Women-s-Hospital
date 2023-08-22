@@ -2,7 +2,7 @@ import logging
 import pandas as pd
 import uuid
 
-GEN3_COLUMNS = ['type', 'project_id', 'submitter_id', 'experiments.submitter_id','consent_codes','disease_type','primary_site']
+GEN3_COLUMNS = ['type', 'project_id', 'submitter_id', 'studies.submitter_id','disease_type', 'primary_site']
 
 GEN3_TYPE = 'subject'
 PROJECT_CODE = 'p0'
@@ -22,15 +22,29 @@ def fix_subject_id(row):
     return stid
 
 if __name__ == '__main__':
+
+    log = logging.getLogger(__name__)
+    logging.basicConfig(level=logging.DEBUG)
+    
     if not 'snakemake' in locals():snakemake = None
     
     subjects = pd.read_csv(snakemake.input.subjects)
     subjects['S_SUBJECTID'] = subjects.apply(fix_subject_id, axis=1)
+    log.debug(f'{subjects=}')
+
+    cohorts = pd.read_csv(snakemake.input.cohort)
+    log.debug(f'{cohorts=}')
+
+    subjects = subjects.merge(cohorts, how='left', left_on='S_SUBJECTID', right_on='subjectid', suffixes=(None, '_y'))
+    subjects = subjects.drop_duplicates('S_SUBJECTID')
+    log.debug(f'{sorted(list(subjects.columns))=}')
     subjects = subjects.rename(columns={
         'S_SUBJECTID': 'submitter_id',
-        'dataset_name': 'experiments.submitter_id',
-    }
+        'studyid_y': 'studies.submitter_id',
+        }
     )
+    log.debug(f'{sorted(list(subjects.columns))=}')
+
     subjects['type'] = GEN3_TYPE
     subjects['project_id'] = PROJECT_ID
     subjects['guid'] = subjects.apply(lambda x: uuid.uuid4(), axis=1)
@@ -41,4 +55,7 @@ if __name__ == '__main__':
             subjects[column] = None
 
     # Export the DataFrame as a TSV file
-    subjects.to_csv(snakemake.output.subjects, index=False, columns=GEN3_COLUMNS)
+    delimiter = ','
+    if snakemake.output.subjects.endswith('.tsv'):
+        delimiter = '\t'
+    subjects.to_csv(snakemake.output.subjects, index=False, columns=GEN3_COLUMNS, sep=delimiter)
