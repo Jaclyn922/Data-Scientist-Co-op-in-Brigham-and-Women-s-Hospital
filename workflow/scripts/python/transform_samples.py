@@ -2,13 +2,13 @@ import logging
 import pandas as pd
 import uuid
 
-GEN3_COLUMNS = ['type','project_id','submitter_id','subjects.submitter_id','diagnoses.submitter_id',
+GEN3_COLUMNS = ['type','project_id','submitter_id','subjects.submitter_id',
                 'biospecimen_anatomic_site','composition','current_weight','days_to_collection',
                 'days_to_sample_procurement','diagnosis_pathologically_confirmed','freezing_method',
-	        'initial_weight','intermediate_dimension','is_ffpe','longest_dimension',
+                'initial_weight','intermediate_dimension','is_ffpe','longest_dimension',
                 'method_of_sample_procurement','oct_embedded','preservation_method','sample_type',
-	        'sample_type_id','sample_volume','shortest_dimension','time_between_clamping_and_freezing',
-	        'time_between_excision_and_freezing','tissue_type','tumor_code','tumor_code_id','tumor_descriptor']
+                'sample_type_id','shortest_dimension','time_between_clamping_and_freezing',
+                'time_between_excision_and_freezing','tissue_type','tumor_code','tumor_code_id','tumor_descriptor']
 
 def fix_subject_id(row):
     sid = row['S_SUBJECTID']
@@ -33,11 +33,12 @@ if __name__ == '__main__':
     samples = samples.rename(columns={
         'S_SAMPLEID': 'submitter_id',
         'initialmass': 'initial_weight',
-        'S_SUBJECTID': 'cases.submitter_id',
+        'S_SUBJECTID': 'subjects.submitter_id',
     }
     )
     samples['project_id'] = 'g0-p0'
     samples['type'] = 'sample'
+    samples['sample_type'] = 'Unknown'
     samples['guid'] = samples.apply(lambda x: uuid.uuid4(), axis=1)
 
     # Add the new columns with 'N/A' as the default value

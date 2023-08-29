@@ -2,6 +2,7 @@ from pathlib import Path
 
 
 OUT = Path(config.get('output_dir', '/d/docker/volumes/regep00/gen3/submissions/new/'))
+TMP = Path(config.get('scratch_dir', 'tmp'))
 
 TARGETS = [
     OUT/"dataset.csv",
@@ -117,6 +118,11 @@ rule transform_aliquots:
     input: samples="tmp/chammps-samples.csv",
     output: aliquots=OUT/"aliquot.csv",
     script: "scripts/python/transform_aliquots.py"
+
+rule T_submitted_methylation:
+    input: datasets=TMP/"datasets.csv",
+    output: df=OUT/"submitted_methylation.{suffix}"
+    script: "scripts/python/transform_submitted_methylation.py"
             
 #rule etl_notebook:
 #    input:
