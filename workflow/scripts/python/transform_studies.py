@@ -34,6 +34,7 @@ if __name__ == '__main__':
     study['projects.code'] = PROJECT_CODE
     study['project_id'] = PROJECT_ID
     study['guid'] = study.apply(lambda x: uuid.uuid4(), axis=1)
+    study['study_description'] = study['study_description'].fillna(study['submitter_id'])
 
     study = study[['submitter_id', 'study_description', 'study_design', 'type', 'projects.code', 'project_id','guid']]
 

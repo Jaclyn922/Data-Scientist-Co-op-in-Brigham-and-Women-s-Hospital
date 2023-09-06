@@ -26,10 +26,18 @@ def fix_subject_id(row):
 if __name__ == '__main__':
     log = logging.getLogger(__name__)
     logging.basicConfig(level=logging.DEBUG)
+
+    samplemap = pd.read_csv(snakemake.input.sample_map)
+    log.debug(f'{samplemap=}')
     
     samples = pd.read_csv(snakemake.input.samples)
-    samples['S_SUBJECTID'] = samples.apply(fix_subject_id, axis=1)
+    log.debug(f'{samples=}')
 
+    samples = samples.merge(samplemap, left_on='s_sampleid', right_on='destsampleid', how='left', indicator=True)
+    samples = samples[samples['destsampleid'].isna()]
+    log.debug(f'{samples=}')
+    
+    samples['S_SUBJECTID'] = samples.apply(fix_subject_id, axis=1)
     samples = samples.rename(columns={
         'S_SAMPLEID': 'submitter_id',
         'initialmass': 'initial_weight',

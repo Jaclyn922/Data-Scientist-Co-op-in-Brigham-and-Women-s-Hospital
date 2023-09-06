@@ -9,9 +9,10 @@ GEN3_COLUMNS = ['type' ,'project_id','submitter_id','samples.submitter_id','aliq
 if __name__ == '__main__':
 
     aliquots = pd.read_csv(snakemake.input.samples)
-    aliquots['ALIASID'].fillna(aliquots['S_SAMPLEID'])
+    # aliquots['ALIASID'].fillna(aliquots['S_SAMPLEID'])
+    aliquots['submitter_id'] = aliquots['S_SAMPLEID']
     aliquots = aliquots.rename(columns={
-        'ALIASID':      'submitter_id',
+        # 'ALIASID':      'submitter_id',
         'S_SAMPLEID':   'samples.submitter_id',
         'initialmass':  'initial_weight',
         'sampletypeid': 'analyte_type',

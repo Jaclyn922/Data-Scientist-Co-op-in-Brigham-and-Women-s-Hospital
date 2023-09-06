@@ -9,7 +9,7 @@ PROJECT_CODE = 'p0'
 PROJECT_ID = 'g0-p0'
 
 def fix_subject_id(row):
-    sid = row['S_SUBJECTID']
+    sid = row['s_subjectid']
     sname = row['Sample_Name']
     if str(sid).startswith('ST-'):
         stid = sid
@@ -28,23 +28,26 @@ if __name__ == '__main__':
     
     if not 'snakemake' in locals():snakemake = None
     
-    subjects = pd.read_csv(snakemake.input.subjects)
-    subjects['S_SUBJECTID'] = subjects.apply(fix_subject_id, axis=1)
+    subjects = pd.read_csv(snakemake.input.lims_subjects)
+    # subjects['s_subjectid'] = subjects.apply(fix_subject_id, axis=1)
     log.debug(f'{subjects=}')
 
     cohorts = pd.read_csv(snakemake.input.cohort)
     log.debug(f'{cohorts=}')
 
-    subjects = subjects.merge(cohorts, how='left', left_on='S_SUBJECTID', right_on='subjectid', suffixes=(None, '_y'))
-    subjects = subjects.drop_duplicates('S_SUBJECTID')
+    subjects = subjects.merge(cohorts, how='left', left_on='s_subjectid', right_on='subjectid', suffixes=(None, '_cohort'))
+    log.debug(f'merged: {subjects=}')
+    log.debug(f'merged: {sorted(list(subjects.columns))=}')
+    subjects = subjects[subjects['studyid'].notna()]
+    subjects = subjects.drop_duplicates('s_subjectid')
     log.debug(f'{sorted(list(subjects.columns))=}')
     subjects = subjects.rename(columns={
-        'S_SUBJECTID': 'submitter_id',
-        'studyid_y': 'studies.submitter_id',
+        's_subjectid': 'submitter_id',
+        'studyid': 'studies.submitter_id',
         }
     )
-    log.debug(f'{sorted(list(subjects.columns))=}')
-
+    log.debug(f'{subjects=}')
+    
     subjects['type'] = GEN3_TYPE
     subjects['project_id'] = PROJECT_ID
     subjects['guid'] = subjects.apply(lambda x: uuid.uuid4(), axis=1)
@@ -58,4 +61,10 @@ if __name__ == '__main__':
     delimiter = ','
     if snakemake.output.subjects.endswith('.tsv'):
         delimiter = '\t'
+
+    studies = list(subjects['studies.submitter_id'].unique())
+    for study in studies:
+        subset = subjects[subjects['studies.submitter_id'] == study]
+        subset.to_csv(snakemake.output.subjects.replace('subject.tsv', f'subjects-by-study/{study}.tsv'), index=False, columns=GEN3_COLUMNS, sep=delimiter)
+        
     subjects.to_csv(snakemake.output.subjects, index=False, columns=GEN3_COLUMNS, sep=delimiter)

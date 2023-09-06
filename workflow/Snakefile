@@ -15,9 +15,15 @@ rule: input: TARGETS
 
 rule extract_sample:
     input:
-    output: df="tmp/samples.csv"
+    output: df=TMP/"samples.csv"
     conda: "envs/sqlalchemy.yaml"
     script: "scripts/python/extract_sample.py"
+
+rule E_samplemap:
+    input:
+    output: df=TMP/"sample-map.csv"
+    conda: "envs/sqlalchemy.yaml"
+    script: "scripts/python/extract_samplemap.py"
 
 rule extract_subject:
     input:
@@ -93,7 +99,7 @@ rule transform_datasets:
 
 rule transform_subject:
     input:
-        subjects="tmp/chammps-subjects.csv",
+        subjects="tmp/subjects.csv",
         cohort="tmp/cohort.csv",
         lims_subjects="tmp/subjects.csv",
     output:
@@ -110,7 +116,8 @@ rule transform_cases:
 rule transform_samples:
     input:
         samples="tmp/chammps-samples.csv",
-        samplefamiliess="tmp/sf.csv",
+        sample_map="tmp/sample-map.csv",
+        samplefamilies="tmp/sf.csv",
     output: samples=OUT/"sample.{suffix}",
     script: "scripts/python/transform_samples.py"
 
@@ -120,8 +127,16 @@ rule transform_aliquots:
     script: "scripts/python/transform_aliquots.py"
 
 rule T_submitted_methylation:
-    input: datasets=TMP/"datasets.csv",
-    output: df=OUT/"submitted_methylation.{suffix}"
+    input:
+        datasets=TMP/"datasets.csv",
+        md5sums=TMP/"submitted_methylation.md5",
+        aliquots=OUT/"aliquot.csv",
+        samples=OUT/"sample.{suffix}",
+    output:
+        df=OUT/"submitted_methylation/submitted_methylation.{suffix}",
+        aliquots=OUT/"submitted_methylation/aliquot.{suffix}",
+        #samples=OUT/"submitted_methylation/sample.{suffix}",
+        #subjects=OUT/"submitted_methylation/subject.{suffix}"
     script: "scripts/python/transform_submitted_methylation.py"
             
 #rule etl_notebook:
