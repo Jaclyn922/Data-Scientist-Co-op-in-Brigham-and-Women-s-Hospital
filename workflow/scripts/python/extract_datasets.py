@@ -35,7 +35,7 @@ if __name__ == '__main__':
     datasets['url'] = datasets.apply(set_url, axis=1)
 
     datasets = datasets.sort_values(['project_name', 'category_name', 'subject'])
-    datasets = datasets.drop(columns=['category'])
+    datasets = datasets.drop(columns=['category', 'project'])
     datasets = datasets.rename(columns={'project_name': 'project', 'category_name': 'category', 'status_name': 'status', 'parent_id': 'parent'})
 
     datasets['omic'] = '?'

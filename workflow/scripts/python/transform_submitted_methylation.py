@@ -76,14 +76,18 @@ if __name__ == '__main__':
     methylation_filesets = []
     for (d, dataset) in datasets.iterrows():
         base = Path(dataset['url'])
+        project = dataset['project']
         sheet_path = base/'.chammps/sample-manifest.csv'
         if sheet_path.exists():
             manifest = pd.read_csv(sheet_path)
             manifest['assay_instrument_model'] = 'Illumina Infinium HumanMethylation450K'
             manifest['file_name'] = manifest.apply(find_idats, axis=1)
+            manifest['studyid'] = project
             manifest = manifest.explode('file_name')
             manifest = manifest.apply(annotate_idats, axis=1)
             methylation_filesets.append(manifest)
+        else:
+            log.warn(f'NEED-A-SHEET: {sheet_path=}, S_SAMPLEID+Basename')
 
     submitted_methylation = pd.concat(methylation_filesets)
 
@@ -121,13 +125,46 @@ if __name__ == '__main__':
     #methylation_samples['type'] = 'sample'
     #methylation_samples['sample_type'] = 'Unknown'
     #methylation_samples.to_csv(snakemake.output.samples, index=False, sep=delimiter, columns=GEN3_ALIQUOT_COLUMNS)
+
+    sample_map = pd.read_csv(snakemake.input.sample_map)
+    log.debug(f'{sample_map=}')
+    def get_init_sample(sid):
+        log.debug(f'{sid=}')
+        parents = sample_map[sample_map['destsampleid']==sid]
+        if len(parents) == 0:
+            return sid
+        elif len(parents) > 1:
+            # raise RuntimeError('Pooled sample!')
+            log.debug(f'pooled,{len(parents)=},{parents=}')
+            p = []
+            for pid in parents['sourcesampleid'].values:
+                p.append(get_init_sample(pid))
+            return ','.join(set(p))
+        else:
+            log.debug(f'found_one,{parents=},{parents["sourcesampleid"].values[0]}')
+            return get_init_sample(parents['sourcesampleid'].values[0])
+        
+    def find_init_sample(row):
+        """ """
+        sid = row['submitter_id']
+        return get_init_sample(sid)
     
     gen3_aliquots = pd.read_csv(snakemake.input.aliquots, sep=delimiter)
     log.debug(f'{gen3_aliquots=}')
-    methylation_aliquots = submitted_methylation[['aliquots.submitter_id']]
+    methylation_aliquots = submitted_methylation[['aliquots.submitter_id', 'studyid']]
     log.debug(f'{methylation_aliquots=}')
     methylation_aliquots = methylation_aliquots.merge(gen3_aliquots, how='left', left_on='aliquots.submitter_id', right_on='submitter_id')
     methylation_aliquots = methylation_aliquots.drop_duplicates('submitter_id')
+    methylation_aliquots['samples.submitter_id'] = methylation_aliquots.apply(find_init_sample, axis=1)
     log.debug(f'{methylation_aliquots=}')
     methylation_aliquots.to_csv(snakemake.output.aliquots, index=False, sep=delimiter, columns=GEN3_ALIQUOT_COLUMNS)
 
+    ## write aliquot files by study as well, to keep them small
+    studies = sorted(list(methylation_aliquots['studyid'].unique()))
+    log.debug('Writing study-specific aliquot files')
+    for study in studies:
+        log.debug(f'{study=}')
+        study_aliquots = methylation_aliquots[methylation_aliquots['studyid'] == study]
+        study_aliquot_filename = snakemake.output.aliquots.replace('aliquot.tsv', f'aliquot-by-study/{study}.tsv')
+        study_aliquots.to_csv(study_aliquot_filename, index=False, sep=delimiter, columns=GEN3_ALIQUOT_COLUMNS)
+        

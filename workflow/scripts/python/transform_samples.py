@@ -29,25 +29,38 @@ if __name__ == '__main__':
 
     samplemap = pd.read_csv(snakemake.input.sample_map)
     log.debug(f'{samplemap=}')
+
+    cohort = pd.read_csv(snakemake.input.cohort)
+    log.debug(f'cohortf=}')
     
+    sf = pd.read_csv(snakemake.input.samplefamilies)
+    log.debug(f'{sf=}')
+    sf = sf.merge(cohort, how='left', left_on='subjectid', right_on='s_subjectid')
+    log.debug(f'{sf=}')
+
     samples = pd.read_csv(snakemake.input.samples)
     log.debug(f'{samples=}')
 
     samples = samples.merge(samplemap, left_on='s_sampleid', right_on='destsampleid', how='left', indicator=True)
     samples = samples[samples['destsampleid'].isna()]
     log.debug(f'{samples=}')
-    
-    samples['S_SUBJECTID'] = samples.apply(fix_subject_id, axis=1)
+
+    samples = samples.merge(sf, how='left', left_on='samplefamilyid', right_on='s_samplefamilyid')
+    # samples['S_SUBJECTID'] = samples.apply(fix_subject_id, axis=1)
+    log.debug(f'{samples.columns=}')
     samples = samples.rename(columns={
-        'S_SAMPLEID': 'submitter_id',
+        's_sampleid': 'submitter_id',
         'initialmass': 'initial_weight',
         'S_SUBJECTID': 'subjects.submitter_id',
-    }
+        'tissuedesc': 'biospecimen_anatomic_site',
+    }                             
     )
+    log.debug(f'{samples.columns=}')
     samples['project_id'] = 'g0-p0'
     samples['type'] = 'sample'
-    samples['sample_type'] = 'Unknown'
+    samples['sample_type'] = samples['u_initsampletypeid']
     samples['guid'] = samples.apply(lambda x: uuid.uuid4(), axis=1)
+    log.debug(f'{samples=}')
 
     # Add the new columns with 'N/A' as the default value
     for column in GEN3_COLUMNS:

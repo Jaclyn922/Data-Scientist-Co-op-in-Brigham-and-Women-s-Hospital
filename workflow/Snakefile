@@ -113,11 +113,12 @@ rule transform_cases:
     output: cases=OUT/"case.tsv",
     script: "scripts/python/transform_cases.py"
 
-rule transform_samples:
+rule T_sample:
     input:
-        samples="tmp/chammps-samples.csv",
-        sample_map="tmp/sample-map.csv",
-        samplefamilies="tmp/sf.csv",
+        samples=TMP/"samples.csv",
+        cohort=TMP/"cohort.csv",
+        sample_map=TMP/"sample-map.csv",
+        samplefamilies=TMP/"sf.csv",
     output: samples=OUT/"sample.{suffix}",
     script: "scripts/python/transform_samples.py"
 
@@ -130,13 +131,12 @@ rule T_submitted_methylation:
     input:
         datasets=TMP/"datasets.csv",
         md5sums=TMP/"submitted_methylation.md5",
+        sample_map=TMP/"sample-map.csv",
         aliquots=OUT/"aliquot.csv",
         samples=OUT/"sample.{suffix}",
     output:
         df=OUT/"submitted_methylation/submitted_methylation.{suffix}",
         aliquots=OUT/"submitted_methylation/aliquot.{suffix}",
-        #samples=OUT/"submitted_methylation/sample.{suffix}",
-        #subjects=OUT/"submitted_methylation/subject.{suffix}"
     script: "scripts/python/transform_submitted_methylation.py"
             
 #rule etl_notebook:
