@@ -138,7 +138,18 @@ rule T_submitted_methylation:
         #samples=OUT/"submitted_methylation/sample.{suffix}",
         #subjects=OUT/"submitted_methylation/subject.{suffix}"
     script: "scripts/python/transform_submitted_methylation.py"
-            
+
+rule T_genotyping_array:
+    input:
+        datasets=TMP/"datasets.csv",
+        md5sums=TMP/"genotyping_array.md5",
+        aliquots=OUT/"aliquot.csv",
+        samples=OUT/"sample.{suffix}",
+    output:
+        df=OUT/"genotyping_array/genotyping_array.{suffix}",
+        aliquots=OUT/"genotyping_array/aliquot.{suffix}",
+
+    script: "scripts/python/transform_genotyping_array.py"        
 #rule etl_notebook:
 #    input:
 #        samples=rules.extract_sample.output.df,
