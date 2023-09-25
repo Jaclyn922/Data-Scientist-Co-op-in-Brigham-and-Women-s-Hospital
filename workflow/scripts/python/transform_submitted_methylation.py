@@ -42,11 +42,10 @@ def annotate_idats(row):
     #log.debug(f'{idat=}')
     #log.debug(f'{md5_previous=}')
     if md5_previous.empty:
-        raise RuntimeError()
         log.debug(f'md5summing {idat=}')
         md5sum = hashlib.md5(open(idat,'rb').read()).hexdigest()
         MD5SUMS_DF = MD5SUMS_DF.append({'file_name':str(idat), 'md5sum':md5sum}, ignore_index=True)
-        MD5SUMS_DF.to_csv('tmp/__x__md5sums.csv', index=False)
+        ## MD5SUMS_DF.to_csv('tmp/__x__md5sums.csv', index=False)
         md5_previous = MD5SUMS_DF[MD5SUMS_DF['file_name'] == str(idat)]
     md5sum = md5_previous.iloc[0]['md5sum']
     row['submitter_id'] = idat.name
@@ -68,17 +67,22 @@ if __name__ == '__main__':
     else: delimiter = ','
 
     datasets = pd.read_csv(snakemake.input.datasets)
-    datasets = datasets[datasets['category'] == 'epigenetic/methylation']
+    datasets = datasets[(datasets['category'] == 'epigenetic/methylation') | (datasets['category'] == 'methylation')] 
     log.debug(f'{datasets=}')
 
     datasets = datasets.rename(columns={'subject': 'submitter_id'})
 
     methylation_filesets = []
     for (d, dataset) in datasets.iterrows():
-        base = Path(dataset['url'])
+        try:
+            base = Path(dataset['url'])
+            base = base.replace('file:', '')
+        except:
+            log.info(f'cannot find base for dataset: {dataset.get("url")=},{dataset=}')
         project = dataset['project']
         sheet_path = base/'.chammps/sample-manifest.csv'
         if sheet_path.exists():
+            log.info(f'{sheet_path=}')
             manifest = pd.read_csv(sheet_path)
             manifest['assay_instrument_model'] = 'Illumina Infinium HumanMethylation450K'
             manifest['file_name'] = manifest.apply(find_idats, axis=1)

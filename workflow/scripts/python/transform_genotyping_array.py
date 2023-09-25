@@ -42,7 +42,6 @@ def annotate_idats(row):
     #log.debug(f'{idat=}')
     #log.debug(f'{md5_previous=}')
     if md5_previous.empty:
-        raise RuntimeError()
         log.debug(f'md5summing {idat=}')
         md5sum = hashlib.md5(open(idat,'rb').read()).hexdigest()
         MD5SUMS_DF = MD5SUMS_DF.append({'file_name':str(idat), 'md5sum':md5sum}, ignore_index=True)
@@ -68,24 +67,32 @@ if __name__ == '__main__':
     else: delimiter = ','
 
     datasets = pd.read_csv(snakemake.input.datasets)
-    datasets = datasets[datasets['category'] == 'gwas']
+    datasets = datasets[(datasets['category'] == 'dna/whole_genome') | (datasets['category'] == 'gwas')]
     log.debug(f'{datasets=}')
 
     datasets = datasets.rename(columns={'subject': 'submitter_id'})
 
-    methylation_filesets = []
+    genotyping_filesets = []
     for (d, dataset) in datasets.iterrows():
-        base = Path(dataset['url'])
+        try:
+            base = Path(dataset['url'])
+            base = base.replace('file://', '')
+        except:
+            log.info(f'cannot find base for dataset: {dataset.get("url")=},{dataset=}')
+        # base = Path(dataset['url'])
         sheet_path = base/'.chammps/sample-manifest.csv'
         if sheet_path.exists():
             manifest = pd.read_csv(sheet_path)
             manifest['assay_instrument_model'] = 'Illumina Infinium HumanMethylation450K'
-            manifest['file_name'] = manifest.apply(find_idats, axis=1)
+            try:
+                manifest['file_name'] = manifest.apply(find_idats, axis=1)
+            except:
+                manifest['file_name'] = sheet_path
             manifest = manifest.explode('file_name')
             manifest = manifest.apply(annotate_idats, axis=1)
-            methylation_filesets.append(manifest)
+            genotyping_filesets.append(manifest)
 
-    submitted_methylation = pd.concat(methylation_filesets)
+    genotyping_array = pd.concat(genotyping_filesets)
 
     ## required columns
     genotyping_array = genotyping_array.rename(columns={'S_SAMPLEID':'aliquots.submitter_id'})
