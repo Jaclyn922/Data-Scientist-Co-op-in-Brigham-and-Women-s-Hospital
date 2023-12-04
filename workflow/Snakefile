@@ -152,6 +152,17 @@ rule T_genotyping_array:
 
     script: "scripts/python/transform_genotyping_array.py"  
 
+rule transform_aligned_read:
+    input:
+        md5sums="path/to/md5sums.csv",
+        sample_table="/proj/regeps/regep00/studies/COPDGene/analyses/rejpz/freeze5_dbgap_submission/castaldi-freeze5-sample-table.pep.csv",
+    output:
+        df="path/to/output/aligned_read.{suffix}",
+        aliquots="path/to/output/aliquots.{suffix}",
+    script:
+        "scripts/python/transform_aligned_read.py"
+
+
 
 #rule etl_notebook:
 #    input:
