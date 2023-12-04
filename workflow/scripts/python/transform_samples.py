@@ -31,7 +31,7 @@ if __name__ == '__main__':
     log.debug(f'{samplemap=}')
 
     cohort = pd.read_csv(snakemake.input.cohort)
-    log.debug(f'cohortf=}')
+    log.debug(f'{cohort=}')
     
     sf = pd.read_csv(snakemake.input.samplefamilies)
     log.debug(f'{sf=}')

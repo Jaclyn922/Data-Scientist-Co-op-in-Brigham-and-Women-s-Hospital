@@ -1,3 +1,7 @@
+
+######## snakemake preamble start (automatically inserted, do not edit) ########
+import sys; sys.path.extend(['/proj/relibs/relib00/conda-cdnm/envs/sm7/lib/python3.10/site-packages', '/udd/rexin/.cache/snakemake/snakemake/source-cache/runtime-cache/tmpuxhbbfbt/file/udd/rexin/code/etl/workflow/scripts/python', '/udd/rexin/code/etl/workflow/scripts/python']); import pickle; snakemake = pickle.loads(b'\x80\x04\x95\xa0\x04\x00\x00\x00\x00\x00\x00\x8c\x10snakemake.script\x94\x8c\tSnakemake\x94\x93\x94)\x81\x94}\x94(\x8c\x05input\x94\x8c\x0csnakemake.io\x94\x8c\nInputFiles\x94\x93\x94)\x81\x94(\x8c\x10tmp/datasets.csv\x94\x8c\x18tmp/genotyping_array.md5\x94e}\x94(\x8c\x06_names\x94}\x94(\x8c\x08datasets\x94K\x00N\x86\x94\x8c\x07md5sums\x94K\x01N\x86\x94u\x8c\x12_allowed_overrides\x94]\x94(\x8c\x05index\x94\x8c\x04sort\x94eh\x15\x8c\tfunctools\x94\x8c\x07partial\x94\x93\x94h\x06\x8c\x19Namedlist._used_attribute\x94\x93\x94\x85\x94R\x94(h\x1b)}\x94\x8c\x05_name\x94h\x15sNt\x94bh\x16h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x16sNt\x94bh\x0fh\nh\x11h\x0bub\x8c\x06output\x94h\x06\x8c\x0bOutputFiles\x94\x93\x94)\x81\x94\x8cU/d/docker/volumes/regep00/gen3/submissions/new/transform_genotyping_array/aliquot.tsv\x94a}\x94(h\r}\x94\x8c\x07aliquot\x94K\x00N\x86\x94sh\x13]\x94(h\x15h\x16eh\x15h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x15sNt\x94bh\x16h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x16sNt\x94bh,h)ub\x8c\x06params\x94h\x06\x8c\x06Params\x94\x93\x94)\x81\x94}\x94(h\r}\x94h\x13]\x94(h\x15h\x16eh\x15h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x15sNt\x94bh\x16h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x16sNt\x94bub\x8c\twildcards\x94h\x06\x8c\tWildcards\x94\x93\x94)\x81\x94}\x94(h\r}\x94h\x13]\x94(h\x15h\x16eh\x15h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x15sNt\x94bh\x16h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x16sNt\x94bub\x8c\x07threads\x94K\x01\x8c\tresources\x94h\x06\x8c\tResources\x94\x93\x94)\x81\x94(K\x01K\x01M\xe8\x03M\xe8\x03\x8c\x04/tmp\x94e}\x94(h\r}\x94(\x8c\x06_cores\x94K\x00N\x86\x94\x8c\x06_nodes\x94K\x01N\x86\x94\x8c\x06mem_mb\x94K\x02N\x86\x94\x8c\x07disk_mb\x94K\x03N\x86\x94\x8c\x06tmpdir\x94K\x04N\x86\x94uh\x13]\x94(h\x15h\x16eh\x15h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x15sNt\x94bh\x16h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x16sNt\x94bh]K\x01h_K\x01haM\xe8\x03hcM\xe8\x03hehZub\x8c\x03log\x94h\x06\x8c\x03Log\x94\x93\x94)\x81\x94}\x94(h\r}\x94h\x13]\x94(h\x15h\x16eh\x15h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x15sNt\x94bh\x16h\x19h\x1b\x85\x94R\x94(h\x1b)}\x94h\x1fh\x16sNt\x94bub\x8c\x06config\x94}\x94\x8c\x04rule\x94\x8c"transform_genotyping_array_aliquot\x94\x8c\x0fbench_iteration\x94N\x8c\tscriptdir\x94\x8c+/udd/rexin/code/etl/workflow/scripts/python\x94ub.'); from snakemake.logging import logger; logger.printshellcmds = True; __real_file__ = __file__; __file__ = '/udd/rexin/code/etl/workflow/scripts/python/transform_genotyping_array.py';
+######## snakemake preamble end #########
 import hashlib
 import logging
 import pandas as pd
@@ -99,9 +103,10 @@ if __name__ == '__main__':
     genotyping_array['type'] = GEN3_TYPE
 
     genotyping_array['assay_instrument'] = 'Illumina'
-    genotyping_array['assay_method'] = 'Genotyping Array'
-    genotyping_array['data_category'] = 'Genotyping Data'
+    genotyping_array['assay_method'] = 'Methylation Array'
+    genotyping_array['data_category'] = 'Methylation Data'
     genotyping_array['data_format'] = 'IDAT'
+    genotyping_array['data_type'] = 'Methylation Intensity Values'
     genotyping_array['project_id'] = PROJECT_ID
     genotyping_array['projects.code'] = PROJECT_CODE
     genotyping_array['guid'] = datasets.apply(lambda x: uuid.uuid4(), axis=1)
@@ -116,17 +121,17 @@ if __name__ == '__main__':
 
     #gen3_samples = pd.read_csv(snakemake.input.samples)
     #log.debug(f'{gen3_samples=}')    
-    #genotyping_samples = genotyping_array[['aliquots.submitter_id']]
-    #genotyping_samples = genotyping_samples.merge(gen3_samples, how='left', left_on='aliquots.submitter_id', right_on='submitter_id')
-    #genotyping_samples = samples.rename(columns={
+    #methylation_samples = submitted_methylation[['aliquots.submitter_id']]
+    #methylation_samples = methylation_samples.merge(gen3_samples, how='left', left_on='aliquots.submitter_id', right_on='submitter_id')
+    #methylation_samples = samples.rename(columns={
     #    'aliquots.submitter_id': 'submitter_id',
     #    # 'S_SUBJECTID': 'subjects.submitter_id'
     #}
     #)
-    #genotyping_samples['project_id'] = 'g0-p0'
-    #genotyping_samples['type'] = 'sample'
-    #genotyping_samples['sample_type'] = 'Unknown'
-    #genotyping_samples.to_csv(snakemake.output.samples, index=False, sep=delimiter, columns=GEN3_ALIQUOT_COLUMNS)
+    #methylation_samples['project_id'] = 'g0-p0'
+    #methylation_samples['type'] = 'sample'
+    #methylation_samples['sample_type'] = 'Unknown'
+    #methylation_samples.to_csv(snakemake.output.samples, index=False, sep=delimiter, columns=GEN3_ALIQUOT_COLUMNS)
     
     sample_map = pd.read_csv(snakemake.input.sample_map)
     log.debug(f'{sample_map=}')
@@ -158,6 +163,5 @@ if __name__ == '__main__':
     log.debug(f'{genotyping_aliquots=}')
     genotyping_aliquots = genotyping_aliquots.merge(gen3_aliquots, how='left', left_on='aliquots.submitter_id', right_on='submitter_id')
     genotyping_aliquots = genotyping_aliquots.drop_duplicates('submitter_id')
-    genotyping_aliquots['samples.submitter_id'] = genotyping_aliquots.apply(find_init_sample, axis=1)
     log.debug(f'{genotyping_aliquots=}')
     genotyping_aliquots.to_csv(snakemake.output.aliquots, index=False, sep=delimiter, columns=GEN3_ALIQUOT_COLUMNS)
