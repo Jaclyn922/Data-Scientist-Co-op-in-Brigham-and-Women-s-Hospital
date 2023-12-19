@@ -1,0 +1,246 @@
+[33mcommit 10c37deed87397b86519c0f2c89402ade205cbd5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: f39d902 7e22ecf
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Mon Dec 4 15:11:01 2023 -0500
+
+    aligned_read
+
+[33mcommit f39d902452adecdf20ddb205aa1ca56d05632f5d[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Mon Dec 4 15:04:56 2023 -0500
+
+    aligned_read
+
+[33mcommit 7e22ecf813643b49cd0ecc836ce9e902d91ee1a7[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Mon Sep 25 15:02:46 2023 -0400
+
+    updates for submitted_methylation;genotyping array bugfixes
+
+[33mcommit 7744f3323d98836fe3013a4431ac0f6de4fb9263[m
+Merge: 4c7ef5a 49cff40
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Thu Sep 14 11:02:57 2023 -0400
+
+    Merge branch 'main' of changit.bwh.harvard.edu:gen3/etl into main
+
+[33mcommit 4c7ef5a39d2ae0b147d1c99b93a3093054122d1d[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Thu Sep 14 11:02:54 2023 -0400
+
+    updates for submitted_methylation
+
+[33mcommit 49cff40f64b1ee7a20feba43cc0ac81ad9398c74[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Sep 14 11:02:19 2023 -0400
+
+    array
+
+[33mcommit 139f0e8a6db881c6259dcb4aabb22fb6a362fa60[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Wed Sep 6 15:46:16 2023 -0400
+
+    study-specific subject loads; trying to work out sample-vs-aliquot
+
+[33mcommit 39cbd20e2870b2e3473839fbd4aee63608eda765[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Tue Aug 29 13:41:43 2023 -0400
+
+    working on tall loader for methylation
+
+[33mcommit 17694bd3125edd714724e7c8935766dad341a835[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Tue Aug 22 13:20:20 2023 -0400
+
+    updated to match DCF model
+
+[33mcommit a2f5921e0cb262b91df0e5b20534046e279cab9a[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Thu Aug 10 11:57:36 2023 -0400
+
+    updated to ETL into CDNM model
+
+[33mcommit acb76813f67bfcc90602ec0a4c526cfc4c8222e1[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Thu Jul 20 11:04:11 2023 -0400
+
+    removed os.path.join
+
+[33mcommit 76e8bd612903b3955b7fe951ca06541ed52e76b1[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Jul 20 10:59:14 2023 -0400
+
+    os
+
+[33mcommit f40025b950df624f29e661c3f1f37c010f5c8b0b[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Tue Jul 18 10:50:07 2023 -0400
+
+    added
+
+[33mcommit be4d60e5628d90fa52aa3603f598cbb0fc286c30[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Mon Jul 17 13:30:10 2023 -0400
+
+    fixes for better loading into gen3
+
+[33mcommit 1da9560f65803dfc8faf9b6c7583f667ef75eab1[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Fri Jul 14 20:31:44 2023 -0400
+
+    workflow now generates load files
+
+[33mcommit 764aadb7dbb3b2a8e0a76f56368755db72547e16[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Fri Jul 14 14:39:04 2023 -0400
+
+    no logs in repository
+
+[33mcommit 36f5cf840dded91defc46ca02fcbe673081ca451[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Fri Jul 14 12:09:39 2023 -0400
+
+    script error solved
+
+[33mcommit d79d4c936e20dac47b523ca5c3952b8c108d46f8[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Thu Jul 13 15:48:16 2023 -0400
+
+    redmine env added
+
+[33mcommit 30df1dd2504acd61463889289a6f6a77a1a185d5[m
+Merge: 1d8bcc0 0eadc25
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Jul 13 12:08:40 2023 -0400
+
+    datasets and chammps changed
+
+[33mcommit 1d8bcc0967fbf273d0e5535f18db4787ae782998[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Jul 13 12:07:00 2023 -0400
+
+    chammps and datasets changed
+
+[33mcommit 0eadc2599963c8569403d8600bcc3934218f90ef[m
+Merge: 50385cf c418d4b
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Thu Jul 13 11:25:19 2023 -0400
+
+    extract scripts working ok
+
+[33mcommit 50385cfce6e40dad05751a61b456366ef7d0dbda[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Thu Jul 13 11:23:49 2023 -0400
+
+    extract scripts working ok
+
+[33mcommit c418d4bb71cb31609b3326a0967f6cc693024e01[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Jul 13 10:56:44 2023 -0400
+
+    script changed
+
+[33mcommit 7f9911d0287c3e93217c5050690830d869135e28[m
+Merge: 60cd1eb bf31e88
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Wed Jul 12 16:40:28 2023 -0400
+
+    script
+
+[33mcommit bf31e88026006029b03e81d39462ce8e597a7e67[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Wed Jul 12 10:44:43 2023 -0400
+
+    split samples.csv out of notebook into snakemake script
+
+[33mcommit 60cd1eb08c607d511b3e6651053d6d527207c875[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Tue Jul 11 11:07:24 2023 -0400
+
+    update snakemake code
+
+[33mcommit 7f956e7fda2b5afd159d22fbe40a0711a96c5b87[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Fri Jul 7 13:43:11 2023 -0400
+
+    Update README.md
+    
+    Basic instructions for running the Snakemake workflow version of the ETL process
+
+[33mcommit 210bee53b7047799dc7904a8de41aaddee4a49e8[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Fri Jul 7 12:55:11 2023 -0400
+
+    change tsv columns name
+
+[33mcommit 914e02896b2118c0c6cb4a8ceae42c88088dee6e[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Fri Jul 7 09:57:18 2023 -0400
+
+    added
+
+[33mcommit 67edbd88403763438cdad6d417f7215390d56ff0[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Fri Jul 7 08:56:18 2023 -0400
+
+    preparing a workflow
+
+[33mcommit e89e0ab01a8d3084f49b7ac0420feb3b4e29c56e[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Thu Jul 6 15:40:14 2023 -0400
+
+    updates for move to workflow
+
+[33mcommit 91c1dd360abb4a1c4ca9c253cc700e34c4e5ed2a[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Jul 6 13:24:15 2023 -0400
+
+    add 3 ETL tables
+
+[33mcommit 97cc1c49107b3b33ff380f472492b260501c083a[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Fri Jun 30 13:36:33 2023 -0400
+
+    merged ds_samples with lims metadata from samples
+
+[33mcommit d1c0581b2c72a3a8d4918324adacec53907c6d26[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Fri Jun 30 12:44:31 2023 -0400
+
+     change on the annotated
+
+[33mcommit 1dbd3d64c17e26a6f79486d4392f34fef7d2430c[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Thu Jun 29 15:33:14 2023 -0400
+
+    this version of the notebook was able to produce notebook/output.tsv that gen3 was able to load (woo)
+
+[33mcommit 7c0750cb5cfde2fb7642d11e4eb8ff7b6a313119[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Jun 29 14:34:54 2023 -0400
+
+    annotate code changed
+
+[33mcommit 62fc3bcbf158b3b5068db0e6a810f8175b51d545[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Jun 29 14:18:34 2023 -0400
+
+    error of tsv sample
+
+[33mcommit a3977b3837828f236ce3c3be359b389061b59f56[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Jun 29 10:24:27 2023 -0400
+
+    mock ETL notebook for dataset/experiment migration
+
+[33mcommit d9ce1bfe2e122aa583962042605a922adb767c01[m
+Author: Xining  Xu <rexin@nantucket.bwh.harvard.edu>
+Date:   Thu Jun 29 09:37:55 2023 -0400
+
+    mock ETL notebook for dataset/experiment migration
+
+[33mcommit ccd90626996bd291ab81c2cdb23b89a38fc5e207[m
+Author: John Ziniti <rejpz@channing.harvard.edu>
+Date:   Tue Jun 27 14:58:39 2023 -0400
+
+    Initial commit
